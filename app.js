@@ -4,6 +4,7 @@ const path = require('path');
 const fileupload = require('express-fileupload');
 
 const coursesRoutes = require('./routes/courses');
+const errorHandler = require('./middleware/error');
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(fileupload(''));
 
 app.use(api+'/courses', coursesRoutes);
+app.use(errorHandler);
 
 dbConnect().then(() => {
     app.listen(port, () => {
