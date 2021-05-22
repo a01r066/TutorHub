@@ -15,6 +15,7 @@ const courseSchema = new Schema({
         type: String,
         required: [true, 'Please add a description']
     },
+    photo: String,
     weeks: {
         type: String,
         required: [true, 'Please add number of weeks']

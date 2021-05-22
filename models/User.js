@@ -1,5 +1,8 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
+const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
+require('dotenv/config');
 
 const userSchema = new Schema({
     name: {
@@ -31,7 +34,26 @@ const userSchema = new Schema({
     createdAt: {
         type: Date,
         default: Date.now
+    },
+    purchased_courses: {
+        type: [mongoose.Schema.ObjectId],
+        ref: 'Course'
     }
 })
+
+userSchema.pre('save', async function () {
+    const salt = await bcrypt.genSalt(10);
+    this.password = await bcrypt.hash(this.password, salt);
+})
+
+userSchema.methods.getSignedJwtToken = function(){
+    return jwt.sign({ id: this._id }, process.env.JWT_SECRET, {
+        expiresIn: process.env.JWT_EXPIRE
+    })
+}
+
+userSchema.methods.matchPassword = async function(enteredPassword){
+    return await bcrypt.compare(enteredPassword, this.password);
+}
 
 module.exports = mongoose.model('User', userSchema);

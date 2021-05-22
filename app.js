@@ -2,8 +2,12 @@ const express = require('express');
 require('dotenv/config');
 const path = require('path');
 const fileupload = require('express-fileupload');
+const cookieParser = require('cookie-parser');
 
 const coursesRoutes = require('./routes/courses');
+const authRoutes = require('./routes/auth');
+const catesRoutes = require('./routes/categories');
+
 const errorHandler = require('./middleware/error');
 
 const app = express();
@@ -16,13 +20,25 @@ const dbConnect = require('./config/db');
 // JSON body parser
 app.use(express.json());
 
+// CORS allow
+app.use((req, res, next) => {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, PATCH, DELETE');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+    next();
+})
+
 // Static folder
 app.use(express.static(path.join(__dirname, '_data')));
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(fileupload(''));
+app.use(cookieParser());
 
 app.use(api+'/courses', coursesRoutes);
+app.use(api+'/auth', authRoutes);
+app.use(api+'/categories', catesRoutes);
+
 app.use(errorHandler);
 
 dbConnect().then(() => {
