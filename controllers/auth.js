@@ -10,6 +10,17 @@ exports.registerUser = asyncHandler(async (req, res, next) => {
     sendTokenResponse(user, 200, res);
 })
 
+// @desc      Get users
+// @route     Get /api/v1/auth
+// @access    Public
+exports.getUsers = asyncHandler(async (req, res, next) => {
+    const users = await User.find();
+    await res.status(200).json({
+        success: true,
+        data: users
+    })
+})
+
 // @desc      Login user
 // @route     POST /api/v1/auth/login
 // @access    Public

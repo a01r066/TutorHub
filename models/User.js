@@ -7,7 +7,8 @@ require('dotenv/config');
 const userSchema = new Schema({
     name: {
         type: String,
-        required: [true, 'Please add a name']
+        required: [true, 'Please add a name'],
+        maxLength: [64, 'Please enter title!']
     },
     email: {
         type: String,

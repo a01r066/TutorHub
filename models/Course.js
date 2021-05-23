@@ -8,7 +8,8 @@ const courseSchema = new Schema({
         type: String,
         unique: true,
         trim: true,
-        required: [true, 'Please add a course title']
+        required: [true, 'Please add a course title'],
+        maxLength: [64, 'Please enter title!']
     },
     slug: String,
     description: {
@@ -32,6 +33,16 @@ const courseSchema = new Schema({
     scholarshipAvailable: {
         type: Boolean,
         default: false
+    },
+    lecture: {
+        type: mongoose.Schema.ObjectId,
+        ref: 'Lecture',
+        require: true
+    },
+    category: {
+      type: mongoose.Schema.ObjectId,
+      ref: 'Category',
+      require: true
     },
     createdAt: {
         type: Date,

@@ -29,11 +29,21 @@ exports.getCourse = asyncHandler(async (req, res, next) => {
     })
 })
 
-// @desc      Get all courses
+// @desc      Get courses
 // @route     Get /api/v1/courses
 // @access    Public
 exports.getCourses = asyncHandler(async (req, res, next) => {
-    await res.status(200).json(res.advancedResults);
+    if(req.params.categoryId){
+        const courses = await Course.find({ category: req.params.categoryId });
+
+        await res.status(200).json({
+            success: true,
+            count: courses.length,
+            data: courses
+        })
+    } else {
+        await res.status(200).json(res.advancedResults);
+    }
 })
 
 // @desc      Update course

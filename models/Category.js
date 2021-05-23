@@ -7,8 +7,9 @@ const categorySchema = new Schema({
     title: {
         type: String,
         unique: true,
-        require: true,
-        maxLength: [64, 'Please enter category name!']
+        trim: true,
+        require: [true, 'Please enter title!'],
+        maxLength: [64, 'Title must be less than 64 characters!']
     },
     photo: {
         type: String,

@@ -7,6 +7,8 @@ const cookieParser = require('cookie-parser');
 const coursesRoutes = require('./routes/courses');
 const authRoutes = require('./routes/auth');
 const catesRoutes = require('./routes/categories');
+const lecturesRoutes = require('./routes/lectures');
+const chaptersRoutes = require('./routes/chapters');
 
 const errorHandler = require('./middleware/error');
 
@@ -38,6 +40,8 @@ app.use(cookieParser());
 app.use(api+'/courses', coursesRoutes);
 app.use(api+'/auth', authRoutes);
 app.use(api+'/categories', catesRoutes);
+app.use(api+'/lectures', lecturesRoutes);
+app.use(api+'/chapters', chaptersRoutes);
 
 app.use(errorHandler);
 
@@ -48,5 +52,3 @@ dbConnect().then(() => {
 }).catch(err => {
     console.log(`Error: ${err.message}`);
 })
-
-
