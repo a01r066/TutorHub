@@ -12,3 +12,19 @@ exports.createChapter = asyncHandler(async (req, res, next) => {
         data: chapter
     })
 })
+
+// @desc      Get chapters
+// @route     Get /api/v1/:lectureId/chapters
+// @access    Public
+exports.getChapters = asyncHandler(async (req, res, next) => {
+    if(req.params.lectureId){
+        const chapters = await Chapter.find({ lecture: req.params.lectureId });
+        await res.status(200).json({
+            success: true,
+            count: chapters.length,
+            data: chapters
+        })
+    } else {
+        await res.status(200).json(res.advancedResults);
+    }
+})

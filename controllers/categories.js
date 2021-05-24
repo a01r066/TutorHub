@@ -13,6 +13,18 @@ exports.getCategories = asyncHandler(async(req, res, next) => {
     await res.status(200).json(res.advancedResults);
 })
 
+// @desc      Get category by slug
+// @route     Get /api/v1/categories/slug
+// @access    Public
+exports.getCategoryBySlug = asyncHandler(async(req, res, next) => {
+    const category = await Category.findOne({ slug: req.params.slug });
+    await res.status(200).json({
+        success: true,
+        data: category
+    })
+})
+
+
 // @desc      Create new category
 // @route     POST /api/v1/categories
 // @access    Private

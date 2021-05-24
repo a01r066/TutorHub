@@ -9,6 +9,7 @@ const authRoutes = require('./routes/auth');
 const catesRoutes = require('./routes/categories');
 const lecturesRoutes = require('./routes/lectures');
 const chaptersRoutes = require('./routes/chapters');
+const publicRoutes = require('./routes/public');
 
 const errorHandler = require('./middleware/error');
 
@@ -42,6 +43,7 @@ app.use(api+'/auth', authRoutes);
 app.use(api+'/categories', catesRoutes);
 app.use(api+'/lectures', lecturesRoutes);
 app.use(api+'/chapters', chaptersRoutes);
+app.use(api, publicRoutes);
 
 app.use(errorHandler);
 

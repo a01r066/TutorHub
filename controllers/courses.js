@@ -46,6 +46,7 @@ exports.getCourses = asyncHandler(async (req, res, next) => {
     }
 })
 
+
 // @desc      Update course
 // @route     Put /api/v1/courses/:d
 // @access    Private

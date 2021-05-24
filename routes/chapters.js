@@ -1,8 +1,14 @@
 const express = require('express');
 const router = express.Router({ mergeParams: true });
 
-const { createChapter } = require('../controllers/chapters');
+const Chapter = require('../models/Chapter');
 
-router.route('/').post(createChapter);
+const advancedResults = require('../middleware/advancedResults');
+
+const { createChapter, getChapters } = require('../controllers/chapters');
+
+router.route('/')
+    .post(createChapter)
+    .get(advancedResults(Chapter), getChapters);
 
 module.exports = router;
