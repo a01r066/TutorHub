@@ -89,19 +89,15 @@ exports.addToCart = asyncHandler(async(req, res, next) => {
     const { userId, courseId } = req.body;
 
     const user = await User.findById({ _id: userId });
-    const cartCourseIndex = await user.cart.items.findIndex(p => {
+    const cartCourseIndex = await user.cart.findIndex(p => {
         return p.courseId.toString() === courseId.toString();
     })
-    let updatedCartItems = [...user.cart.items];
+    let updatedCart = [...user.cart];
     if(cartCourseIndex >= 0){
         return next(new ErrorResponse(`This course already added to card`, 400));
     } else {
-        updatedCartItems.push({ courseId: courseId});
+        updatedCart.push({ courseId: courseId});
     }
-
-    const updatedCart = {
-        items: updatedCartItems
-    };
 
     await User.updateOne({ _id: userId }, { $set: { cart: updatedCart }});
     await res.status(200).json({
@@ -112,7 +108,7 @@ exports.addToCart = asyncHandler(async(req, res, next) => {
 // @desc      Delete course item from cart
 // @route     Put /api/v1/auth/deleteCardItem
 // @access    Public
-exports.deleteCardItem = asyncHandler(async (req, res, next) => {
+exports.removeCartItem = asyncHandler(async (req, res, next) => {
     const { userId, courseId } = req.body;
 
     const user = await User.findById({ _id: userId });
@@ -124,13 +120,9 @@ exports.deleteCardItem = asyncHandler(async (req, res, next) => {
     //     updatedCartItems = updatedCartItems.splice(cartCourseIndex, 1);
     // }
 
-    const updatedCartItems = user.cart.items.filter(item => {
+    const updatedCart = user.cart.filter(item => {
         return item.courseId.toString() !== courseId.toString();
     })
-
-    const updatedCart = {
-        items: updatedCartItems
-    };
 
     await User.updateOne({ _id: userId }, { $set: { cart: updatedCart }});
     await res.status(200).json({
@@ -143,11 +135,8 @@ exports.deleteCardItem = asyncHandler(async (req, res, next) => {
 // @access    Public
 exports.clearCart = asyncHandler(async (req, res, next) => {
     const { userId } = req.body;
-    const cartItems = {
-        items: []
-    };
 
-    await User.updateOne({ _id: userId }, { $set: { cart: cartItems }});
+    await User.updateOne({ _id: userId }, { $set: { cart: [] }});
     await res.status(200).json({
         success: true
     })

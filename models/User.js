@@ -40,13 +40,12 @@ const userSchema = new Schema({
         type: [mongoose.Schema.ObjectId],
         ref: 'Course'
     },
-    cart: {
-        items: [
-            {
-                courseId: {type: Schema.Types.ObjectId, ref: 'Product', require: true}
-            }
-        ]
-    }
+    cart: [{
+        courseId: {
+            type: Schema.Types.ObjectId,
+            ref: 'Course'
+        }
+    }]
 })
 
 userSchema.pre('save', async function () {
