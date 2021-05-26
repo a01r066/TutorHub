@@ -11,5 +11,5 @@ router.route('/')
     .post(createChapter)
     .get(advancedResults(Chapter), getChapters);
 
-router.route('/:id').put(chapterFileUpload);
+router.route('/:id/file').put(chapterFileUpload);
 module.exports = router;

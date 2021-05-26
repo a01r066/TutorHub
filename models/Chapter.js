@@ -19,6 +19,10 @@ const chapterSchema = new Schema({
         ref: 'Lecture',
         require: true
     },
+    isFree: {
+        type: Boolean,
+        default: false
+    },
     index: Number
 })
 

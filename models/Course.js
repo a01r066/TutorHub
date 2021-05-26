@@ -16,6 +16,7 @@ const courseSchema = new Schema({
         type: String,
         required: [true, 'Please add a description']
     },
+    objectives: String,
     photo: String,
     weeks: {
         type: String,
@@ -34,11 +35,6 @@ const courseSchema = new Schema({
         type: Boolean,
         default: false
     },
-    lecture: {
-        type: mongoose.Schema.ObjectId,
-        ref: 'Lecture',
-        require: true
-    },
     category: {
       type: mongoose.Schema.ObjectId,
       ref: 'Category',
@@ -47,6 +43,10 @@ const courseSchema = new Schema({
     createdAt: {
         type: Date,
         default: Date.now
+    },
+    isFree: {
+        type: Boolean,
+        default: false
     },
     user: {
         type: mongoose.Schema.ObjectId,

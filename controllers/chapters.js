@@ -4,7 +4,6 @@ const path = require('path');
 const slugify = require('slugify');
 
 const Chapter = require('../models/Chapter');
-const Course = require('../models/Course');
 
 const ErrorResponse = require('../utils/errorResponse');
 
@@ -35,7 +34,7 @@ exports.getChapters = asyncHandler(async (req, res, next) => {
     }
 })
 
-// @desc      Put chapter file
+// @desc      Update chapter
 // @route     Get /api/v1/chapters/:id
 // @access    Private
 exports.chapterFileUpload = asyncHandler(async (req, res, next) => {

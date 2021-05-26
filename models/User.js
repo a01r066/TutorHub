@@ -39,6 +39,13 @@ const userSchema = new Schema({
     purchased_courses: {
         type: [mongoose.Schema.ObjectId],
         ref: 'Course'
+    },
+    cart: {
+        items: [
+            {
+                courseId: {type: Schema.Types.ObjectId, ref: 'Product', require: true}
+            }
+        ]
     }
 })
 
