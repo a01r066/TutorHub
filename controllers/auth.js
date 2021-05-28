@@ -14,7 +14,12 @@ exports.registerUser = asyncHandler(async (req, res, next) => {
 // @route     Get /api/v1/auth
 // @access    Public
 exports.getUsers = asyncHandler(async (req, res, next) => {
-    const users = await User.find();
+    const users = await User.find().populate({ 
+        path: 'cart', 
+        populate: {
+            path: 'courseId',
+            select: 'title description photo tuition'
+        }});
     await res.status(200).json({
         success: true,
         data: users
@@ -33,7 +38,13 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
     }
 
     // Check for user
-    const user = await User.findOne({ email }).select('password');
+    const user = await User.findOne({ email }).select('password')
+    .populate({ 
+        path: 'cart', 
+        populate: {
+            path: 'courseId',
+            select: 'title description photo tuition'
+        } });
 
     if (!user) {
         return next(new ErrorResponse('Invalid credentials', 401));
@@ -67,7 +78,8 @@ const sendTokenResponse = (user, statusCode, res) => {
         .cookie('token', token, options)
         .json({
         success: true,
-        token: token
+        token: token,
+        data: user
     })
 }
 
@@ -75,7 +87,14 @@ const sendTokenResponse = (user, statusCode, res) => {
 // @route     Get /api/v1/auth/me
 // @access    Private
 exports.getMe = asyncHandler(async (req, res, next) => {
-    const user = await User.findById(req.user.id);
+    const user = await (await User.findById(req.user.id))
+    .populate({ 
+        path: 'cart', 
+        populate: {
+            path: 'courseId',
+            select: 'title description photo tuition'
+        } })
+        .execPopulate();
     await res.status(200).json({
         success: true,
         data: user

@@ -9,7 +9,7 @@ const {
     getMe,
     addToCart,
     removeCartItem,
-    clearCart,
+    clearCart
 } = require('../controllers/auth');
 
 router.route('/').get(getUsers);
