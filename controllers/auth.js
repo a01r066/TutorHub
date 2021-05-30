@@ -15,10 +15,10 @@ exports.registerUser = asyncHandler(async (req, res, next) => {
 // @access    Public
 exports.getUsers = asyncHandler(async (req, res, next) => {
     const users = await User.find().populate({ 
-        path: 'cart', 
+        path: 'cart purchased_courses',
         populate: {
-            path: 'courseId',
-            select: 'title description photo tuition'
+            path: 'courseId, ',
+            select: 'title description photo tuition',
         }});
     await res.status(200).json({
         success: true,

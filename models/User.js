@@ -36,13 +36,15 @@ const userSchema = new Schema({
         type: Date,
         default: Date.now
     },
-    purchased_courses: {
-        type: [mongoose.Schema.ObjectId],
-        ref: 'Course'
-    },
+    purchased_courses: [{
+        courseId: {
+            type: mongoose.Schema.ObjectId,
+            ref: 'Course'
+        }
+    }],
     cart: [{
         courseId: {
-            type: Schema.Types.ObjectId,
+            type: mongoose.Schema.ObjectId,
             ref: 'Course'
         }
     }]
