@@ -48,6 +48,9 @@ const courseSchema = new Schema({
         type: Boolean,
         default: false
     },
+    bestseller: {
+        type: Boolean
+    },
     user: {
         type: mongoose.Schema.ObjectId,
         ref: 'User',

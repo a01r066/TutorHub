@@ -19,14 +19,16 @@ exports.createCourse = asyncHandler(async (req, res, next) => {
 // @route     Get /api/v1/courses/:id
 // @access    Public
 exports.getCourse = asyncHandler(async (req, res, next) => {
-    const course = await Course.findById(req.params.id);
-    if(!course){
-        return next(new ErrorResponse(`No course with the id ${req.params.id}`, 404));
-    }
-    await res.status(200).json({
-        success: true,
-        data: course
-    })
+    const id = req.params.id;
+    const course = await Course.findById({ _id: id });
+        if(!course){
+            return next(new ErrorResponse(`No course with the id ${req.params.id}`, 404));
+        }
+    
+        await res.status(200).json({
+            success: true,
+            data: course
+        })
 })
 
 // @desc      Get courses

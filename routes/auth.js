@@ -9,12 +9,14 @@ const {
     getMe,
     addToCart,
     removeCartItem,
-    clearCart
+    clearCart,
+    gLogin
 } = require('../controllers/auth');
 
-router.route('/').get(getUsers);
+router.route('/').get(protect, getUsers);
 router.route('/register').post(registerUser);
 router.route('/login').post(loginUser);
+router.route('/gLogin').post(gLogin);
 router.route('/me').get(protect, getMe);
 router.route('/addToCart').put(addToCart);
 router.route('/removeCartItem').put(removeCartItem);

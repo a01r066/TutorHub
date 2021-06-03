@@ -3,6 +3,7 @@ const router = express.Router();
 
 const Lecture = require('../models/Lecture');
 
+const { protect } = require('../middleware/auth');
 const { createLecture, getLectures, getLecturesByCourseId } = require('../controllers/lectures');
 const advancedResults = require('../middleware/advancedResults');
 
@@ -13,7 +14,7 @@ const chapterRouter = require('./chapters');
 router.use('/:lectureId/chapters', chapterRouter);
 
 router.route('/')
-    .post(createLecture)
+    .post(protect, createLecture)
     .get(advancedResults(Lecture), getLectures);
 
 router.route('/:courseId').get(getLecturesByCourseId);

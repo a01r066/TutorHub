@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const advancedResults = require('../middleware/advancedResults');
 const Category = require('../models/Category');
+const { protect } = require('../middleware/auth');
 
 const { getCategories, getCategoryBySlug, createCategory, categoryPhotoUpload } = require('../controllers/categories');
 
@@ -13,9 +14,9 @@ router.use('/:categoryId/courses', courseRouter);
 
 router.route('/')
 .get(advancedResults(Category), getCategories)
-.post(createCategory);
+.post(protect, createCategory);
 
-router.route('/:id/photo').put(categoryPhotoUpload);
+router.route('/:id/photo').put(protect, categoryPhotoUpload);
 
 router.route('/:slug').get(getCategoryBySlug);
 

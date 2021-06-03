@@ -10,6 +10,7 @@ const userSchema = new Schema({
         required: [true, 'Please add a name'],
         maxLength: [64, 'Please enter title!']
     },
+    biography: String,
     email: {
         type: String,
         required: [true, 'Please add an email'],
@@ -19,6 +20,10 @@ const userSchema = new Schema({
             'Please add a valid email'
         ]
     },
+    photoURL: {
+        type: String
+    },
+    accessToken: String,
     role: {
         type: String,
         enum: ['user', 'publisher'],
@@ -39,7 +44,8 @@ const userSchema = new Schema({
     purchased_courses: [{
         courseId: {
             type: mongoose.Schema.ObjectId,
-            ref: 'Course'
+            ref: 'Course',
+            default: [""]
         }
     }],
     cart: [{

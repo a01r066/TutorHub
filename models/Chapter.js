@@ -14,6 +14,10 @@ const chapterSchema = new Schema({
         default: 'video'
     },
     file: String,
+    duration: {
+        type: Number,
+        default: 0
+    },
     lecture: {
         type: mongoose.Schema.ObjectId,
         ref: 'Lecture',

@@ -5,21 +5,31 @@ const ErrorResponse = require('../utils/errorResponse');
 // @desc      Register new user
 // @route     POST /api/v1/users
 // @access    Private
-exports.registerUser = asyncHandler(async (req, res, next) => {
-    const user = await User.create(req.body);
-    sendTokenResponse(user, 200, res);
+exports.registerUser = asyncHandler(async(req, res, next) => {
+    let user = await User.findOne({ email: req.body.email });
+    if(user){
+        // update the user
+        user = await User.findOneAndUpdate({ email: req.body.email }, req.body);
+        // console.log('user update: '+ user.email);
+            sendTokenResponse(user, 200, res);
+    } else {
+        user = await User.create(req.body);
+        // console.log('user create: '+ user.email);
+        sendTokenResponse(user, 200, res);
+    }
 })
 
 // @desc      Get users
 // @route     Get /api/v1/auth
 // @access    Public
 exports.getUsers = asyncHandler(async (req, res, next) => {
-    const users = await User.find().populate({ 
-        path: 'cart purchased_courses',
-        populate: {
-            path: 'courseId, ',
-            select: 'title description photo tuition',
-        }});
+    const users = await User.find();
+    // .populate({ 
+    //     path: 'cart purchased_courses',
+    //     populate: {
+    //         path: 'courseId, ',
+    //         select: 'title description photo tuition',
+    //     }});
     await res.status(200).json({
         success: true,
         data: users
@@ -60,6 +70,24 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
     sendTokenResponse(user, 200, res);
 })
 
+// @desc      Login gmail user via token
+// @route     POST /api/v1/auth/glogin
+// @access    Public
+exports.gLogin = asyncHandler(async(req, res, next) => {
+    const { email, accessToken } = req.body;
+    const user = await User.findOne({ email: email, accessToken: accessToken });
+    if(user){
+        await res.status(200).json({
+            success: true,
+            data: user
+        })
+    } else {
+        await res.status(404).json({
+            success: false
+        })
+    }
+})
+
 // Get token from model, create cookie and send response
 const sendTokenResponse = (user, statusCode, res) => {
     const token = user.getSignedJwtToken();
@@ -89,7 +117,7 @@ const sendTokenResponse = (user, statusCode, res) => {
 exports.getMe = asyncHandler(async (req, res, next) => {
     const user = await (await User.findById(req.user.id))
     .populate({ 
-        path: 'cart', 
+        path: 'cart purchased_courses', 
         populate: {
             path: 'courseId',
             select: 'title description photo tuition'
