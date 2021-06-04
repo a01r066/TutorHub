@@ -19,6 +19,18 @@ exports.registerUser = asyncHandler(async(req, res, next) => {
     }
 })
 
+// @desc      Update user profile
+// @route     PUT /api/v1/auth/:id
+// @access    Private
+exports.updateProfile = asyncHandler(async(req, res, next) => {
+    const uid = req.params.id;
+    const user = await User.findByIdAndUpdate({ _id: uid }, req.body);
+    res.status(200).json({
+        success: true,
+        data: user
+    })
+})
+
 // @desc      Get users
 // @route     Get /api/v1/auth
 // @access    Public

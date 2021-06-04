@@ -5,10 +5,23 @@ const jwt = require('jsonwebtoken');
 require('dotenv/config');
 
 const userSchema = new Schema({
-    name: {
+    displayName: {
         type: String,
-        required: [true, 'Please add a name'],
-        maxLength: [64, 'Please enter title!']
+        required: [true, 'Please add a fullname'],
+        maxLength: [64, 'Fullname must be less than 64 characters!']
+    },
+    fName: {
+        type: String
+        // required: [true, 'Please add a firstname'],
+        // maxLength: [32, 'Firstname must be less than 16 characters!']
+    },
+    lName: {
+        type: String
+        // required: [true, 'Please add a fullname'],
+        // maxLength: [32, 'Lastname must be less than 16 characters!']
+    },
+    headLine: {
+        type: String
     },
     biography: String,
     email: {
@@ -21,7 +34,8 @@ const userSchema = new Schema({
         ]
     },
     photoURL: {
-        type: String
+        type: String,
+        default: ''
     },
     accessToken: String,
     role: {

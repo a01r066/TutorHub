@@ -10,7 +10,8 @@ const {
     addToCart,
     removeCartItem,
     clearCart,
-    gLogin
+    gLogin,
+    updateProfile
 } = require('../controllers/auth');
 
 router.route('/').get(protect, getUsers);
@@ -21,5 +22,6 @@ router.route('/me').get(protect, getMe);
 router.route('/addToCart').put(addToCart);
 router.route('/removeCartItem').put(removeCartItem);
 router.route('/clearCart').put(clearCart);
+router.route('/:id').put(updateProfile);
 
 module.exports = router;
