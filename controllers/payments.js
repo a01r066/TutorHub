@@ -52,13 +52,12 @@ exports.createPayment = (req, res, next) => {
     // New
     const userId = req.body.user;
     const courses = req.body.courses;
-    console.log('userId: '+userId);
 
     Payment.create(req.body).then(() => {
         User.findById({ _id: userId }).then(user => {
             let purchased_courses = user.purchased_courses;
             for(let course of courses){
-                purchased_courses.push({ courseId: course });
+                purchased_courses.push(course);
             }
             
             User.updateOne({ _id: userId }, { $set: { purchased_courses: purchased_courses, cart: [] }}).then(() => {

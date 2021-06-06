@@ -8,13 +8,12 @@ const paymentSchema = new Schema({
         require: true,
         ref: 'User'
     },
-    courses: [
-        {
+    courses: [{
+        courseId: {
             type: mongoose.Schema.ObjectId,
-            require: true,
             ref: 'Course'
         }
-    ],
+    }],
     createdAt: {
         type: Date,
         default: Date.now

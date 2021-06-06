@@ -37,6 +37,10 @@ const userSchema = new Schema({
         type: String,
         default: ''
     },
+    isSocial: {
+        type: Boolean,
+        default: false
+    },
     accessToken: String,
     role: {
         type: String,
@@ -58,8 +62,7 @@ const userSchema = new Schema({
     purchased_courses: [{
         courseId: {
             type: mongoose.Schema.ObjectId,
-            ref: 'Course',
-            default: [""]
+            ref: 'Course'
         }
     }],
     cart: [{

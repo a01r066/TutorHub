@@ -11,7 +11,8 @@ const {
     removeCartItem,
     clearCart,
     gLogin,
-    updateProfile
+    updateProfile,
+    userPhotoUpload
 } = require('../controllers/auth');
 
 router.route('/').get(protect, getUsers);
@@ -23,5 +24,6 @@ router.route('/addToCart').put(addToCart);
 router.route('/removeCartItem').put(removeCartItem);
 router.route('/clearCart').put(clearCart);
 router.route('/:id').put(updateProfile);
+router.route('/:id/photo').put(userPhotoUpload);
 
 module.exports = router;

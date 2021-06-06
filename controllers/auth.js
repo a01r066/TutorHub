@@ -1,6 +1,8 @@
 const asyncHandler = require('../middleware/async');
 const User = require('../models/User');
 const ErrorResponse = require('../utils/errorResponse');
+const path = require('path');
+require('dotenv/config');
 
 // @desc      Register new user
 // @route     POST /api/v1/users
@@ -9,12 +11,18 @@ exports.registerUser = asyncHandler(async(req, res, next) => {
     let user = await User.findOne({ email: req.body.email });
     if(user){
         // update the user
-        user = await User.findOneAndUpdate({ email: req.body.email }, req.body);
-        // console.log('user update: '+ user.email);
-            sendTokenResponse(user, 200, res);
+        if(user.isSocial){
+            user = await User.findOneAndUpdate({ email: req.body.email }, req.body);
+                sendTokenResponse(user, 200, res);
+        } else {
+            return await res.json({
+                success: false,
+                statusCode: 401,
+                message: `${user.email} already existed! Please try to login!`
+            })
+        }
     } else {
         user = await User.create(req.body);
-        // console.log('user create: '+ user.email);
         sendTokenResponse(user, 200, res);
     }
 })
@@ -28,6 +36,50 @@ exports.updateProfile = asyncHandler(async(req, res, next) => {
     res.status(200).json({
         success: true,
         data: user
+    })
+})
+
+// @desc      Upload user photo
+// @route     PUT /api/v1/auth/:id/photo
+// @access    Private
+exports.userPhotoUpload = asyncHandler(async(req, res, next) => {
+    const user = await User.findById({ _id: req.params.id });
+    console.log('req: '+req.body);
+    if(!user){
+        return next(new ErrorResponse(`No user with the id ${req.params.id}`, 404));
+    }
+
+    if (!req.files) {
+        return next(new ErrorResponse(`Please upload a file!`, 400));
+    }
+
+    const file = req.files.file;
+    console.log('file: '+file);
+
+    // Make sure the image is a photo
+    if(!file.mimetype.startsWith('image')){
+        return next(new ErrorResponse(`Please upload an image file!`, 400));
+    }
+
+    // Check filesize
+    if(file.size > process.env.PHOTO_UPLOAD_FILE_SIZE){
+        return next(new ErrorResponse(`File size must be less than ${process.env.PHOTO_UPLOAD_FILE_SIZE}`, 400));
+    }
+
+    // Create custom filename
+    file.name = `photo_${user._id}${path.parse(file.name).ext}`;
+
+    const filePath = `${process.env.UPLOAD_PATH}/users/${file.name}`;
+    await file.mv(filePath, err => {
+        if(err){
+            return next(err);
+        }
+    })
+
+    await User.findByIdAndUpdate({ _id: req.params.id }, { photoURL: file.name });
+
+    await res.status(200).json({
+        success: true
     })
 })
 
@@ -87,7 +139,13 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
 // @access    Public
 exports.gLogin = asyncHandler(async(req, res, next) => {
     const { email, accessToken } = req.body;
-    const user = await User.findOne({ email: email, accessToken: accessToken });
+    const user = await User.findOne({ email: email, accessToken: accessToken })
+    .populate({ 
+        path: 'cart', 
+        populate: {
+            path: 'courseId',
+            select: 'title description photo tuition'
+        } });;
     if(user){
         await res.status(200).json({
             success: true,
