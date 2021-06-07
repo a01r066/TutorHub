@@ -13,6 +13,7 @@ const chaptersRoutes = require('./routes/chapters');
 const publicRoutes = require('./routes/public');
 const couponRoutes = require('./routes/coupons');
 const paymentsRoutes = require('./routes/payments');
+const feedbackRoutes = require('./routes/Feedback');
 
 const errorHandler = require('./middleware/error');
 
@@ -51,6 +52,7 @@ app.use(api+'/chapters', chaptersRoutes);
 app.use(api, publicRoutes);
 app.use(api+'/coupons', couponRoutes);
 app.use(api+'/payments', paymentsRoutes);
+app.use(api+'/feedbacks', feedbackRoutes);
 
 app.use(errorHandler);
 

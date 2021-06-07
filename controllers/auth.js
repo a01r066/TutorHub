@@ -114,7 +114,7 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
     // Check for user
     const user = await User.findOne({ email }).select('password')
     .populate({ 
-        path: 'cart', 
+        path: 'cart purchased_courses', 
         populate: {
             path: 'courseId',
             select: 'title description photo tuition'
@@ -139,13 +139,13 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
 // @access    Public
 exports.gLogin = asyncHandler(async(req, res, next) => {
     const { email, accessToken } = req.body;
-    const user = await User.findOne({ email: email, accessToken: accessToken })
+    const user = await User.findOne({ email: email })
     .populate({ 
-        path: 'cart', 
+        path: 'cart purchased_courses', 
         populate: {
             path: 'courseId',
             select: 'title description photo tuition'
-        } });;
+        } });
     if(user){
         await res.status(200).json({
             success: true,
