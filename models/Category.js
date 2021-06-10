@@ -13,9 +13,16 @@ const categorySchema = new Schema({
     },
     photo: {
         type: String,
-        require: true
+        // require: true
     },
-    slug: String
+    isTop: {
+        type: Boolean
+    },
+    slug: String,
+    isHidden: {
+        type: Boolean,
+        default: false
+    }
 })
 
 categorySchema.pre('save', function(next){

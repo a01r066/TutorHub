@@ -19,16 +19,17 @@ const courseSchema = new Schema({
     objectives: String,
     photo: String,
     weeks: {
-        type: String,
-        required: [true, 'Please add number of weeks']
+        type: String
+        // required: [true, 'Please add number of weeks'],
     },
     tuition: {
         type: Number,
-        required: [true, 'Please add a tuition cost']
+        required: [true, 'Please add a tuition cost'],
+        default: 0
     },
     minimumSkill: {
         type: String,
-        required: [true, 'Please add a minimum skill'],
+        // required: [true, 'Please add a minimum skill'],
         enum: ['beginner', 'intermediate', 'advanced']
     },
     scholarshipAvailable: {
@@ -49,7 +50,12 @@ const courseSchema = new Schema({
         default: false
     },
     bestseller: {
-        type: Boolean
+        type: Boolean,
+        default: false
+    },
+    isHidden: {
+        type: Boolean,
+        default: false
     },
     user: {
         type: mongoose.Schema.ObjectId,

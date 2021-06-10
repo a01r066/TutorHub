@@ -13,6 +13,7 @@ exports.getCategories = asyncHandler(async(req, res, next) => {
     await res.status(200).json(res.advancedResults);
 })
 
+
 // @desc      Get category by slug
 // @route     Get /api/v1/categories/slug
 // @access    Public
@@ -29,12 +30,23 @@ exports.getCategoryBySlug = asyncHandler(async(req, res, next) => {
 // @route     POST /api/v1/categories
 // @access    Private
 exports.createCategory = asyncHandler(async(req, res, next) => {
-    const category = await Category.create(req.body);
+    await Category.create(req.body);
     await res.status(200).json({
-        success: true,
-        data: category
+        success: true
+        // data: category
     })
 })
+
+// @desc      Update category
+// @route     PUT /api/v1/categories/:categoryId
+// @access    Private
+exports.updateCategory = asyncHandler(async(req, res, next) => {
+const category = await Category.findOneAndUpdate({ _id: req.params.categoryId }, req.body);
+    await res.status(200).json({
+        success: true
+    })
+})
+
 
 // @desc      Update category photo
 // @route     POST /api/v1/categories/:categoryId/photo

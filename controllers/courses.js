@@ -50,7 +50,7 @@ exports.getCourses = asyncHandler(async (req, res, next) => {
 
 
 // @desc      Update course
-// @route     Put /api/v1/courses/:d
+// @route     Put /api/v1/courses/:id
 // @access    Private
 exports.updateCourse = asyncHandler(async (req, res, next) => {
     let course = await Course.findById(req.params.id);

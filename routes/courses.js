@@ -15,14 +15,15 @@ const {
 } = require('../controllers/courses');
 
 router.route('/')
-.post(protect, createCourse)
+.post(createCourse)
 .get(advancedResults(Course, {
     path: 'user',
     select: 'name email'
-}), getCourses);
+}), 
+getCourses);
 
 router.route('/:id')
-.put(protect, updateCourse)
+.put(updateCourse)
 .get(getCourse)
 .delete(protect, deleteCourse);
 

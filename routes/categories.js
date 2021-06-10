@@ -4,7 +4,13 @@ const advancedResults = require('../middleware/advancedResults');
 const Category = require('../models/Category');
 const { protect } = require('../middleware/auth');
 
-const { getCategories, getCategoryBySlug, createCategory, categoryPhotoUpload } = require('../controllers/categories');
+const { 
+    getCategories, 
+    getCategoryBySlug, 
+    createCategory, 
+    categoryPhotoUpload,
+    updateCategory
+ } = require('../controllers/categories');
 
 // Include other resource routers
 const courseRouter = require('./courses');
@@ -14,8 +20,9 @@ router.use('/:categoryId/courses', courseRouter);
 
 router.route('/')
 .get(advancedResults(Category), getCategories)
-.post(protect, createCategory);
+.post(createCategory);
 
+router.route('/:categoryId').put(updateCategory);
 router.route('/:id/photo').put(protect, categoryPhotoUpload);
 
 router.route('/:slug').get(getCategoryBySlug);
