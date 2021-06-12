@@ -8,11 +8,11 @@ const lectureSchema = new Schema({
         trim: true,
         maxLength: [64, 'Please enter title!']
     },
-    chapters: {
-        type: [mongoose.Schema.ObjectId],
-        ref: 'Chapter',
-        require: true
-    },
+    // chapters: {
+    //     type: [mongoose.Schema.ObjectId],
+    //     ref: 'Chapter',
+    //     require: true
+    // },
     course: {
         type: mongoose.Schema.ObjectId,
         ref: 'Course',

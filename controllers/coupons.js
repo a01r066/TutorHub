@@ -6,10 +6,9 @@ const Coupon = require('../models/coupon');
 // @route     POST /api/v1/coupons
 // @access    Private
 exports.createCoupon = asyncHandler(async(req, res, next) => {
-    const coupon = await Coupon.create(req.body);
+    await Coupon.create(req.body);
     await res.status(200).json({
-        success: true,
-        data: coupon
+        success: true
     })
 })
 

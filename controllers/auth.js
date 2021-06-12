@@ -32,10 +32,9 @@ exports.registerUser = asyncHandler(async(req, res, next) => {
 // @access    Private
 exports.updateProfile = asyncHandler(async(req, res, next) => {
     const uid = req.params.id;
-    const user = await User.findByIdAndUpdate({ _id: uid }, req.body);
+    await User.findByIdAndUpdate({ _id: uid }, req.body);
     res.status(200).json({
-        success: true,
-        data: user
+        success: true
     })
 })
 
@@ -92,7 +91,7 @@ exports.getUsers = asyncHandler(async (req, res, next) => {
     //     path: 'cart purchased_courses',
     //     populate: {
     //         path: 'courseId, ',
-    //         select: 'title description photo tuition',
+    //         select: 'title description photo tuition slug',
     //     }});
     await res.status(200).json({
         success: true,
@@ -117,7 +116,7 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
         path: 'cart purchased_courses', 
         populate: {
             path: 'courseId',
-            select: 'title description photo tuition'
+            select: 'title description photo tuition slug'
         } });
 
     if (!user) {
@@ -134,29 +133,24 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
     sendTokenResponse(user, 200, res);
 })
 
-// @desc      Login gmail user via token
-// @route     POST /api/v1/auth/glogin
-// @access    Public
-exports.gLogin = asyncHandler(async(req, res, next) => {
-    const { email, accessToken } = req.body;
-    const user = await User.findOne({ email: email })
+// @desc      Get current logged in user
+// @route     Get /api/v1/auth/me
+// @access    Private
+exports.getMe = asyncHandler(async (req, res, next) => {
+    const user = await (await User.findById(req.user.id))
     .populate({ 
         path: 'cart purchased_courses', 
         populate: {
             path: 'courseId',
-            select: 'title description photo tuition'
-        } });
-    if(user){
-        await res.status(200).json({
-            success: true,
-            data: user
-        })
-    } else {
-        await res.status(404).json({
-            success: false
-        })
-    }
+            select: 'title description photo tuition slug'
+        } })
+        .execPopulate();
+    await res.status(200).json({
+        success: true,
+        data: user
+    })
 })
+
 
 // Get token from model, create cookie and send response
 const sendTokenResponse = (user, statusCode, res) => {
@@ -180,24 +174,6 @@ const sendTokenResponse = (user, statusCode, res) => {
         data: user
     })
 }
-
-// @desc      Get current logged in user
-// @route     Get /api/v1/auth/me
-// @access    Private
-exports.getMe = asyncHandler(async (req, res, next) => {
-    const user = await (await User.findById(req.user.id))
-    .populate({ 
-        path: 'cart purchased_courses', 
-        populate: {
-            path: 'courseId',
-            select: 'title description photo tuition'
-        } })
-        .execPopulate();
-    await res.status(200).json({
-        success: true,
-        data: user
-    })
-})
 
 // @desc      Add course to cart
 // @route     Put /api/v1/auth/addToCart

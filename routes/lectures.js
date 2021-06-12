@@ -4,7 +4,12 @@ const router = express.Router();
 const Lecture = require('../models/Lecture');
 
 const { protect } = require('../middleware/auth');
-const { createLecture, getLectures, getLecturesByCourseId } = require('../controllers/lectures');
+const { 
+    createLecture, 
+    getLectures, 
+    getLecturesByCourseId,
+    updateLecture
+ } = require('../controllers/lectures');
 const advancedResults = require('../middleware/advancedResults');
 
 // Include other resource routers
@@ -18,5 +23,6 @@ router.route('/')
     .get(advancedResults(Lecture), getLectures);
 
 router.route('/:courseId').get(getLecturesByCourseId);
+router.route('/:id').put(updateLecture);
 
 module.exports = router;

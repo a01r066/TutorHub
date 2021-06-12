@@ -8,10 +8,9 @@ const path = require('path');
 // @route     POST /api/v1/courses
 // @access    Private
 exports.createCourse = asyncHandler(async (req, res, next) => {
-    const course = await Course.create(req.body);
+    await Course.create(req.body);
     await res.status(201).json({
-        success: true,
-        data: course
+        success: true
     })
 })
 
@@ -65,14 +64,13 @@ exports.updateCourse = asyncHandler(async (req, res, next) => {
     //         401, res);
     // }
 
-    course = await Course.findByIdAndUpdate(req.params.id, req.body, {
+    await Course.findByIdAndUpdate(req.params.id, req.body, {
         new: true,
         // runValidators: true
     });
 
     await res.status(200).json({
         success: true,
-        data: course
     });
 })
 
@@ -90,8 +88,7 @@ exports.deleteCourse = asyncHandler(async (req, res, next) => {
 
     await res.status(200).json({
         success: true,
-        message: `Course id ${req.params.id} is deleted!`,
-        data: {}
+        message: `Course id ${req.params.id} is deleted!`
     })
 })
 

@@ -6,10 +6,9 @@ const ErrorResponse = require('../utils/errorResponse');
 // @route     POST /api/v1/lectures
 // @access    Private
 exports.createLecture = asyncHandler(async (req, res, next) => {
-    const lecture = await Lecture.create(req.body);
+    await Lecture.create(req.body);
     await res.status(200).json({
         success: true,
-        data: lecture
     })
 })
 
@@ -30,5 +29,16 @@ exports.getLecturesByCourseId = asyncHandler(async(req, res, next) => {
         success: true,
         count: lectures.length, 
         data: lectures
+    })
+})
+
+// @desc      Update lecture
+// @route     Get /api/v1/lectures/:id
+// @access    Public
+exports.updateLecture = asyncHandler(async(req, res, next) => {
+    const lectureId = req.params.id;
+    await Lecture.findByIdAndUpdate({ _id: lectureId }, req.body);
+    await res.status(200).json({
+        success: true,
     })
 })

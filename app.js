@@ -13,7 +13,7 @@ const chaptersRoutes = require('./routes/chapters');
 const publicRoutes = require('./routes/public');
 const couponRoutes = require('./routes/coupons');
 const paymentsRoutes = require('./routes/payments');
-const feedbackRoutes = require('./routes/Feedback');
+const feedbackRoutes = require('./routes/feedback');
 
 const errorHandler = require('./middleware/error');
 

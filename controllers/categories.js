@@ -33,7 +33,6 @@ exports.createCategory = asyncHandler(async(req, res, next) => {
     await Category.create(req.body);
     await res.status(200).json({
         success: true
-        // data: category
     })
 })
 

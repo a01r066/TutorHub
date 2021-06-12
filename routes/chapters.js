@@ -5,11 +5,15 @@ const Chapter = require('../models/Chapter');
 const advancedResults = require('../middleware/advancedResults');
 const { protect } = require('../middleware/auth');
 
-const { createChapter, getChapters, chapterFileUpload } = require('../controllers/chapters');
+const { 
+    createChapter, 
+    updateChapter,
+    getChapters, 
+    chapterFileUpload } = require('../controllers/chapters');
 
 router.route('/')
     .post(protect, createChapter)
     .get(advancedResults(Chapter), getChapters);
 router.route('/:id/file').put(protect, chapterFileUpload);
-
+router.route('/:id').put(updateChapter);
 module.exports = router;

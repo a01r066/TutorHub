@@ -11,15 +11,26 @@ const ErrorResponse = require('../utils/errorResponse');
 // @route     POST /api/v1/chapters
 // @access    Private
 exports.createChapter = asyncHandler(async (req, res, next) => {
-    const chapter = await Chapter.create(req.body);
+    await Chapter.create(req.body);
     await res.status(200).json({
-        success: true,
-        data: chapter
+        success: true
     })
 })
 
+// @desc      Update chapter
+// @route     PUT /api/v1/chapters/:id
+// @access    Private
+exports.updateChapter = asyncHandler(async(req, res, next) => {
+    const chapterId = req.params.id;
+    await Chapter.findByIdAndUpdate({ _id: chapterId }, req.body);
+    res.status(200).json({
+        success: true
+    })
+})
+
+
 // @desc      Get chapters
-// @route     Get /api/v1/:lectureId/chapters
+// @route     Get /api/v1/chapters
 // @access    Public
 exports.getChapters = asyncHandler(async (req, res, next) => {
     if(req.params.lectureId){
@@ -35,7 +46,7 @@ exports.getChapters = asyncHandler(async (req, res, next) => {
 })
 
 // @desc      Update chapter
-// @route     Get /api/v1/chapters/:id
+// @route     PUT /api/v1/chapters/:id/file
 // @access    Private
 exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
     const chapterId = req.params.id;
