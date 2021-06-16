@@ -1,12 +1,24 @@
 const asyncHandler = require('../middleware/async');
 const ErrorResponse = require('../utils/errorResponse');
-const Coupon = require('../models/coupon');
+const Coupon = require('../models/Coupon');
 
 // @desc      Create coupon
 // @route     POST /api/v1/coupons
 // @access    Private
 exports.createCoupon = asyncHandler(async(req, res, next) => {
     await Coupon.create(req.body);
+    await res.status(200).json({
+        success: true
+    })
+})
+
+// @desc      Update coupon
+// @route     PUT /api/v1/coupons/:id
+// @access    Private
+exports.updateCoupon = asyncHandler(async(req, res, next) => {
+    const couponId = req.params.id;
+
+    await Coupon.findByIdAndUpdate({ _id: couponId }, req.body);
     await res.status(200).json({
         success: true
     })

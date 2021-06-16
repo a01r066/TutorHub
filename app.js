@@ -1,4 +1,6 @@
 const express = require('express');
+const https = require('https');
+const fs = require('fs');
 require('dotenv/config');
 const path = require('path');
 const fileupload = require('express-fileupload');
@@ -20,7 +22,7 @@ const errorHandler = require('./middleware/error');
 const app = express();
 
 const api = process.env.API_PATH;
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 3000;
 
 const dbConnect = require('./config/db');
 
@@ -57,9 +59,16 @@ app.use(api+'/feedbacks', feedbackRoutes);
 app.use(errorHandler);
 
 dbConnect().then(() => {
-    app.listen(port, () => {
-        console.log(`Server listening on port ${port}`);
-    })
+    // app.listen(port, () => {
+    //     console.log(`Server listening on port ${port}`);
+    // })
+    https.createServer({
+        key: fs.readFileSync(path.join(__dirname, '_data', 'selfsigned.key')),
+        cert: fs.readFileSync(path.join(__dirname, '_data', 'api.tutorhub.info.pem'))
+      }, app)
+      .listen(port, function () {
+        console.log(`App listening on port ${port}! Go to https://localhost:${port}/`)
+      })
 }).catch(err => {
     console.log(`Error: ${err.message}`);
 })

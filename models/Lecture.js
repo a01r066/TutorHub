@@ -6,7 +6,7 @@ const lectureSchema = new Schema({
         type: String,
         require: true,
         trim: true,
-        maxLength: [64, 'Please enter title!']
+        maxLength: [128, 'Please enter title!']
     },
     // chapters: {
     //     type: [mongoose.Schema.ObjectId],

@@ -5,11 +5,11 @@ const chapterSchema = new Schema({
     title: {
         type: String,
         require: true,
-        maxLength: [64, 'Title must be less than 64 characters!']
+        maxLength: [128, 'Title must be less than 64 characters!']
     },
     format: {
         type: String,
-        require: true,
+        // require: true,
         enum: ['video', 'html', 'quiz'],
         default: 'video'
     },

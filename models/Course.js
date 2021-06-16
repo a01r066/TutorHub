@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const slugify = require('slugify');
 const User = require('./User');
+const Coupon = require('./Coupon');
 
 const courseSchema = new Schema({
     title: {
@@ -10,6 +11,12 @@ const courseSchema = new Schema({
         trim: true,
         required: [true, 'Please add a course title'],
         maxLength: [64, 'Please enter title!']
+    },
+    slogan: String,
+    instructor: String,
+    coupon: {
+        type: mongoose.Schema.ObjectId,
+        ref: 'Coupon'
     },
     slug: String,
     description: {

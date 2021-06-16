@@ -19,7 +19,7 @@ exports.createCourse = asyncHandler(async (req, res, next) => {
 // @access    Public
 exports.getCourse = asyncHandler(async (req, res, next) => {
     const id = req.params.id;
-    const course = await Course.findById({ _id: id });
+    const course = await Course.findById({ _id: id }).populate('coupon');
         if(!course){
             return next(new ErrorResponse(`No course with the id ${req.params.id}`, 404));
         }

@@ -2,10 +2,12 @@ const asyncHandler = require('../middleware/async');
 require('dotenv/config');
 const path = require('path');
 const slugify = require('slugify');
+const fs = require('fs');
 
 const Chapter = require('../models/Chapter');
 
 const ErrorResponse = require('../utils/errorResponse');
+const { fstat } = require('fs');
 
 // @desc      Create new chapter
 // @route     POST /api/v1/chapters
@@ -50,6 +52,8 @@ exports.getChapters = asyncHandler(async (req, res, next) => {
 // @access    Private
 exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
     const chapterId = req.params.id;
+    const { lectureId, courseId } = req.body;
+
     const chapter = await Chapter.findById({ _id: chapterId });
 
     if(!chapter){
@@ -63,9 +67,9 @@ exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
     const file = req.files.file;
 
     // Make sure the file is video/html
-    if(!file.mimetype.startsWith('video') && !file.mimetype.startsWith('text/html')){
-        return next(new ErrorResponse(`Please upload an video | html file!`, 400));
-    }
+    // if(!file.mimetype.startsWith('video') && !file.mimetype.startsWith('text/html') && !file.mimetype.startsWith('application/zip')){
+    //     return next(new ErrorResponse(`Please upload an video | html file!`, 400));
+    // }
 
     // Check filesize
     // if(file.size > process.env.PHOTO_UPLOAD_FILE_SIZE){
@@ -73,13 +77,21 @@ exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
     // }
 
     // Create custom filename with slugify
-    let filename = slugify(`${path.parse(file.name).name}`, { lower: true });
+    // let filename = slugify(`${path.parse(file.name).name}`, { lower: true });
+    let filename = slugify(`${path.parse(file.name).name}`, { lower: true, replacement: '_' });
     file.name = `${filename}${path.parse(file.name).ext}`;
+  
+    // Check if directory exist
+    const targetDir = `${process.env.UPLOAD_PATH}/courses/${courseId}/${lectureId}`;
+    if(!fs.existsSync(targetDir)){
+        fs.mkdirSync(targetDir, { recursive: true });
+    }
 
-    const filePath = `${process.env.UPLOAD_PATH}/courses/5d725cfec4ded7bcb480eaa7/${file.name}`;
-
+    let filePath = `${targetDir}/${file.name}`;
     await file.mv(filePath, err => {
         if(err){
+            
+            
             return next(err);
         }
     })
