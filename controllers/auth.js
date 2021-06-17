@@ -2,6 +2,7 @@ const asyncHandler = require('../middleware/async');
 const User = require('../models/User');
 const ErrorResponse = require('../utils/errorResponse');
 const path = require('path');
+const { populate } = require('../models/User');
 require('dotenv/config');
 
 // @desc      Register new user
@@ -116,7 +117,10 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
         path: 'cart purchased_courses', 
         populate: {
             path: 'courseId',
-            select: 'title description photo tuition slug'
+            select: 'title description photo tuition slug',
+            populate: { 
+                path: 'coupon'
+            }
         } });
 
     if (!user) {
@@ -142,7 +146,10 @@ exports.getMe = asyncHandler(async (req, res, next) => {
         path: 'cart purchased_courses', 
         populate: {
             path: 'courseId',
-            select: 'title description photo tuition slug'
+            select: 'title description photo tuition slug',
+            populate: { 
+                path: 'coupon'
+            }
         } })
         .execPopulate();
     await res.status(200).json({

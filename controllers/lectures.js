@@ -32,6 +32,7 @@ exports.getLecturesByCourseId = asyncHandler(async(req, res, next) => {
     })
 })
 
+
 // @desc      Update lecture
 // @route     Get /api/v1/lectures/:id
 // @access    Public

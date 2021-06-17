@@ -17,8 +17,8 @@ const {
 router.route('/')
 .post(createCourse)
 .get(advancedResults(Course, {
-    path: 'user',
-    select: 'name email'
+    path: 'user coupon',
+    select: 'name email code discount'
 }), 
 getCourses);
 
