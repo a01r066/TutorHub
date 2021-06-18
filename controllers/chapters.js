@@ -30,6 +30,18 @@ exports.updateChapter = asyncHandler(async(req, res, next) => {
     })
 })
 
+// @desc      Delete chapter
+// @route     PUT /api/v1/chapters/:id
+// @access    Private
+exports.deleteChapter = asyncHandler(async(req, res, next) => {
+    const chapterId = req.params.id;
+    await Chapter.findByIdAndDelete({ _id: chapterId });
+    res.status(200).json({
+        success: true
+    })
+})
+
+
 
 // @desc      Get chapters
 // @route     Get /api/v1/chapters

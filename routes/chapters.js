@@ -9,11 +9,13 @@ const {
     createChapter, 
     updateChapter,
     getChapters, 
-    chapterFileUpload } = require('../controllers/chapters');
+    chapterFileUpload,
+    deleteChapter
+ } = require('../controllers/chapters');
 
 router.route('/')
     .post(protect, createChapter)
     .get(advancedResults(Chapter), getChapters);
 router.route('/:id/file').put(protect, chapterFileUpload);
-router.route('/:id').put(updateChapter);
+router.route('/:id').put(protect, updateChapter).delete(protect, deleteChapter);
 module.exports = router;
