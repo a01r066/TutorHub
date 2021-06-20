@@ -114,7 +114,7 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
     // Check for user
     const user = await User.findOne({ email }).select('password')
     .populate({ 
-        path: 'cart purchased_courses', 
+        path: 'cart purchased_courses wishlist', 
         populate: {
             path: 'courseId',
             select: 'title description photo tuition slug',
@@ -143,7 +143,7 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
 exports.getMe = asyncHandler(async (req, res, next) => {
     const user = await (await User.findById(req.user.id))
     .populate({ 
-        path: 'cart purchased_courses', 
+        path: 'cart purchased_courses wishlist', 
         populate: {
             path: 'courseId',
             select: 'title description photo tuition slug',
@@ -200,6 +200,32 @@ exports.addToCart = asyncHandler(async(req, res, next) => {
     }
 
     await User.updateOne({ _id: userId }, { $set: { cart: updatedCart }});
+    await res.status(200).json({
+        success: true
+    })
+})
+
+// @desc      Add course to wishlist
+// @route     Put /api/v1/auth/addToWishlist
+// @access    Private
+exports.updateWishlist = asyncHandler(async(req, res, next) => {
+    const { userId, courseId } = req.body;
+
+    const user = await User.findById({ _id: userId });
+    const courseIndex = await user.wishlist.findIndex(p => {
+        return p.courseId.toString() === courseId.toString();
+    })
+    let updatedWishlist = [...user.wishlist];
+    if(courseIndex >= 0){
+        // remove course from wishlist
+        updatedWishlist.splice(courseIndex, 1);
+        // return next(new ErrorResponse(`This course already added to wishlist`, 400));
+    } else {
+        // add course to wishlist
+        updatedWishlist.push({ courseId: courseId});
+    }
+
+    await User.updateOne({ _id: userId }, { $set: { wishlist: updatedWishlist }});
     await res.status(200).json({
         success: true
     })

@@ -70,6 +70,12 @@ const userSchema = new Schema({
             type: mongoose.Schema.ObjectId,
             ref: 'Course'
         }
+    }],
+    wishlist: [{
+        courseId: {
+            type: mongoose.Schema.ObjectId,
+            ref: 'Course'
+        }
     }]
 })
 
