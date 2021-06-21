@@ -16,6 +16,7 @@ const publicRoutes = require('./routes/public');
 const couponRoutes = require('./routes/coupons');
 const paymentsRoutes = require('./routes/payments');
 const feedbackRoutes = require('./routes/feedback');
+const shareRoute = require('./routes/share');
 
 const errorHandler = require('./middleware/error');
 
@@ -25,6 +26,9 @@ const api = process.env.API_PATH;
 const port = process.env.PORT || 3000;
 
 const dbConnect = require('./config/db');
+
+app.set('view engine', 'ejs');
+app.set('views', 'views');
 
 // JSON body parser
 app.use(express.json());
@@ -55,6 +59,7 @@ app.use(api, publicRoutes);
 app.use(api+'/coupons', couponRoutes);
 app.use(api+'/payments', paymentsRoutes);
 app.use(api+'/feedbacks', feedbackRoutes);
+app.use(shareRoute);
 
 app.use(errorHandler);
 
