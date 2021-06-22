@@ -1,8 +1,6 @@
 const asyncHandler = require('../middleware/async');
-const ErrorResponse = require('../utils/errorResponse');
 const Course = require('../models/Course');
 require('dotenv/config');
-const path = require('path');
 const Lecture = require('../models/Lecture');
 
 // @desc      Get single course by slug

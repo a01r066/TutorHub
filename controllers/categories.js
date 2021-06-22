@@ -40,7 +40,7 @@ exports.createCategory = asyncHandler(async(req, res, next) => {
 // @route     PUT /api/v1/categories/:categoryId
 // @access    Private
 exports.updateCategory = asyncHandler(async(req, res, next) => {
-const category = await Category.findOneAndUpdate({ _id: req.params.categoryId }, req.body);
+    await Category.findOneAndUpdate({ _id: req.params.categoryId }, req.body);
     await res.status(200).json({
         success: true
     })

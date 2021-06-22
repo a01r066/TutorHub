@@ -1,6 +1,5 @@
 const asyncHandler = require('../middleware/async');
 const Lecture = require('../models/Lecture');
-const ErrorResponse = require('../utils/errorResponse');
 
 // @desc      Create new lecture
 // @route     POST /api/v1/lectures

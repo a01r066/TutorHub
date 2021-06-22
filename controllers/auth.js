@@ -2,7 +2,6 @@ const asyncHandler = require('../middleware/async');
 const User = require('../models/User');
 const ErrorResponse = require('../utils/errorResponse');
 const path = require('path');
-const { populate } = require('../models/User');
 require('dotenv/config');
 
 // @desc      Register new user

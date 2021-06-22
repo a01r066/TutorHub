@@ -3,11 +3,8 @@ require('dotenv/config');
 const path = require('path');
 const slugify = require('slugify');
 const fs = require('fs');
-
 const Chapter = require('../models/Chapter');
-
 const ErrorResponse = require('../utils/errorResponse');
-const { fstat } = require('fs');
 
 // @desc      Create new chapter
 // @route     POST /api/v1/chapters
@@ -25,7 +22,7 @@ exports.createChapter = asyncHandler(async (req, res, next) => {
 exports.updateChapter = asyncHandler(async(req, res, next) => {
     const chapterId = req.params.id;
     await Chapter.findByIdAndUpdate({ _id: chapterId }, req.body);
-    res.status(200).json({
+    await res.status(200).json({
         success: true
     })
 })
@@ -36,7 +33,7 @@ exports.updateChapter = asyncHandler(async(req, res, next) => {
 exports.deleteChapter = asyncHandler(async(req, res, next) => {
     const chapterId = req.params.id;
     await Chapter.findByIdAndDelete({ _id: chapterId });
-    res.status(200).json({
+    await res.status(200).json({
         success: true
     })
 })

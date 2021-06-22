@@ -1,6 +1,4 @@
 const asyncHandler = require('../middleware/async');
-const paypal = require('@paypal/checkout-server-sdk');
-const payPalClient = require('../utils/paypalClient');
 const Payment = require('../models/Payment');
 const User = require('../models/User');
 

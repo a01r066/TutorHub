@@ -1,7 +1,5 @@
 const asyncHandler = require('../middleware/async');
 const Feedback = require('../models/Feedback');
-const ErrorResponse = require('../utils/errorResponse');
-const path = require('path');
 require('dotenv/config');
 
 
@@ -16,7 +14,7 @@ exports.createFeedback = asyncHandler(async(req, res, next) => {
             message: 'Feedback existed!'
         })
     } else {
-        feedback = await Feedback.create({ "subject": req.body.subject, "message": req.body.message, "user": req.body.user});
+        await Feedback.create({ "subject": req.body.subject, "message": req.body.message, "user": req.body.user});
         await res.status(200).json({
             success: true
         })

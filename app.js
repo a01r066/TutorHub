@@ -17,6 +17,7 @@ const couponRoutes = require('./routes/coupons');
 const paymentsRoutes = require('./routes/payments');
 const feedbackRoutes = require('./routes/feedback');
 const shareRoute = require('./routes/share');
+const trackerRoute = require('./routes/trackers');
 
 const errorHandler = require('./middleware/error');
 
@@ -60,6 +61,7 @@ app.use(api+'/coupons', couponRoutes);
 app.use(api+'/payments', paymentsRoutes);
 app.use(api+'/feedbacks', feedbackRoutes);
 app.use(shareRoute);
+app.use(api+'/trackers', trackerRoute);
 
 app.use(errorHandler);
 
