@@ -112,3 +112,58 @@ exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
         message: `File updated to chapter id: ${chapter._id}`
     })
 })
+
+// @desc      File upload
+// @route     PUT /api/v1/chapters/:id/zip
+// @access    Private
+exports.fileUpload = asyncHandler(async (req, res, next) => {
+    const chapterId = req.params.id;
+    const { lectureId, courseId } = req.body;
+
+    const chapter = await Chapter.findById({ _id: chapterId });
+
+    if(!chapter){
+        return next(new ErrorResponse(`No course with the id ${req.params.id}`, 404));
+    }
+
+    if (!req.files) {
+        return next(new ErrorResponse(`Please upload a file!`, 400));
+    }
+
+    const file = req.files.file;
+
+    // Make sure the file is video/html
+    // if(!file.mimetype.startsWith('video') && !file.mimetype.startsWith('text/html') && !file.mimetype.startsWith('application/zip')){
+    //     return next(new ErrorResponse(`Please upload an video | html file!`, 400));
+    // }
+
+    // Check filesize
+    // if(file.size > process.env.PHOTO_UPLOAD_FILE_SIZE){
+    //     return next(new ErrorResponse(`File size must be less than ${process.env.PHOTO_UPLOAD_FILE_SIZE}`, 400));
+    // }
+
+    // Create custom filename with slugify
+    // let filename = slugify(`${path.parse(file.name).name}`, { lower: true });
+    let filename = slugify(`${path.parse(file.name).name}`, { lower: true, replacement: '_' });
+    file.name = `${filename}${path.parse(file.name).ext}`;
+  
+    // Check if directory exist
+    const targetDir = `${process.env.UPLOAD_PATH}/courses/${courseId}/${lectureId}`;
+    if(!fs.existsSync(targetDir)){
+        fs.mkdirSync(targetDir, { recursive: true });
+    }
+
+    let filePath = `${targetDir}/${file.name}`;
+    await file.mv(filePath, err => {
+        if(err){
+            return next(err);
+        }
+    })
+
+    await Chapter.findByIdAndUpdate({ _id: req.params.id }, { zip: file.name });
+
+    await res.status(200).json({
+        success: true,
+        message: `File updated to chapter id: ${chapter._id}`
+    })
+})

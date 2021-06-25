@@ -13,7 +13,14 @@ const chapterSchema = new Schema({
         enum: ['video', 'html', 'quiz'],
         default: 'video'
     },
-    file: String,
+    file: {
+        type: String,
+        default: ''
+    },
+    zip: {
+        type: String,
+        default: ''
+    },
     duration: {
         type: Number,
         default: 0

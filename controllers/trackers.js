@@ -48,3 +48,34 @@ exports.addTracker = asyncHandler(async(req, res, next) => {
     })
     }    
 })
+
+// @desc      Get tracker
+// @route     GET /api/v1/trackers/:userId/:courseId
+// @access    Private
+exports.getTracker = asyncHandler(async(req, res, next) => {
+    const userId = req.params.userId;
+    const courseId = req.params.courseId;
+
+    const tracker = await Tracker.findOne({ user: userId });
+    if(tracker){
+        const courses = tracker.courses;
+        const itemIndex = courses.findIndex(item => item.course.toString() === courseId);
+        console.log(itemIndex);
+        if(itemIndex >= 0){
+            await res.status(200).json({
+                success: true,
+                data: courses[itemIndex].data
+            })
+        } else {
+            res.status(404).json({
+                success: false,
+                data: {}
+            })
+        }
+    } else {
+        res.status(404).json({
+            success: false,
+            data: {}
+        })
+    }
+})

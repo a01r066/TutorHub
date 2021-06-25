@@ -39,6 +39,17 @@ exports.updateLecture = asyncHandler(async(req, res, next) => {
     const lectureId = req.params.id;
     await Lecture.findByIdAndUpdate({ _id: lectureId }, req.body);
     await res.status(200).json({
-        success: true,
+        success: true
+    })
+})
+
+// @desc      Delete lecture
+// @route     DELETE /api/v1/lectures/:id
+// @access    Private
+exports.deleteLecture = asyncHandler(async(req, res, next) => {
+    const lectureId = req.params.id;
+    await Lecture.findByIdAndDelete({ _id: lectureId });
+    await res.status(200).json({
+        success: true
     })
 })
