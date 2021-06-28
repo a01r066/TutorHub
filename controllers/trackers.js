@@ -60,7 +60,6 @@ exports.getTracker = asyncHandler(async(req, res, next) => {
     if(tracker){
         const courses = tracker.courses;
         const itemIndex = courses.findIndex(item => item.course.toString() === courseId);
-        console.log(itemIndex);
         if(itemIndex >= 0){
             await res.status(200).json({
                 success: true,

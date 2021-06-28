@@ -35,7 +35,7 @@ exports.getCourse = asyncHandler(async (req, res, next) => {
 // @access    Public
 exports.getCourses = asyncHandler(async (req, res, next) => {
     if(req.params.categoryId){
-        const courses = await Course.find({ category: req.params.categoryId });
+        const courses = await Course.find({ category: req.params.categoryId }).populate('coupon');
 
         await res.status(200).json({
             success: true,

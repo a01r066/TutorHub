@@ -10,7 +10,7 @@ const courseSchema = new Schema({
         unique: true,
         trim: true,
         required: [true, 'Please add a course title'],
-        maxLength: [64, 'Please enter title!']
+        maxLength: [256, 'Please enter title!']
     },
     slogan: String,
     instructor: String,

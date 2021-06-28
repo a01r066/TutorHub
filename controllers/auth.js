@@ -116,7 +116,7 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
         path: 'cart purchased_courses wishlist', 
         populate: {
             path: 'courseId',
-            select: 'title description photo tuition slug',
+            select: 'title description photo tuition slug instructor',
             populate: { 
                 path: 'coupon'
             }
@@ -145,7 +145,7 @@ exports.getMe = asyncHandler(async (req, res, next) => {
         path: 'cart purchased_courses wishlist', 
         populate: {
             path: 'courseId',
-            select: 'title description photo tuition slug',
+            select: 'title description photo tuition slug instructor',
             populate: { 
                 path: 'coupon'
             }

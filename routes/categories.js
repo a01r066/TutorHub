@@ -14,6 +14,8 @@ const {
 
 // Include other resource routers
 const courseRouter = require('./courses');
+const Course = require('../models/Course');
+const { populate } = require('../models/Course');
 
 // Re-route into other resource routers
 router.use('/:categoryId/courses', courseRouter);
