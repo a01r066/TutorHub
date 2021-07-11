@@ -10,8 +10,7 @@ const chapterSchema = new Schema({
     format: {
         type: String,
         // require: true,
-        enum: ['video', 'html', 'quiz'],
-        default: 'video'
+        enum: ['video', 'html', 'htm', 'pdf', 'quiz', 'zip']
     },
     file: {
         type: String,

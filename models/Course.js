@@ -64,6 +64,10 @@ const courseSchema = new Schema({
         type: Boolean,
         default: false
     },
+    isPublished: {
+        type: Boolean,
+        default: false
+    },
     user: {
         type: mongoose.Schema.ObjectId,
         ref: 'User',

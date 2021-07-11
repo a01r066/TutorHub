@@ -27,6 +27,7 @@ exports.updateChapter = asyncHandler(async(req, res, next) => {
     })
 })
 
+
 // @desc      Delete chapter
 // @route     PUT /api/v1/chapters/:id
 // @access    Private
@@ -61,7 +62,7 @@ exports.getChapters = asyncHandler(async (req, res, next) => {
 // @access    Private
 exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
     const chapterId = req.params.id;
-    const { lectureId, courseId } = req.body;
+    const { lectureId, courseId, title } = req.body;
 
     const chapter = await Chapter.findById({ _id: chapterId });
 
@@ -87,7 +88,7 @@ exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
 
     // Create custom filename with slugify
     // let filename = slugify(`${path.parse(file.name).name}`, { lower: true });
-    let filename = slugify(`${path.parse(file.name).name}`, { lower: true, replacement: '_' });
+    let filename = slugify(`${title}`, { lower: true, replacement: '_' });
     file.name = `${filename}${path.parse(file.name).ext}`;
   
     // Check if directory exist
@@ -118,7 +119,7 @@ exports.chapterFileUpload = asyncHandler(async (req, res, next) => {
 // @access    Private
 exports.fileUpload = asyncHandler(async (req, res, next) => {
     const chapterId = req.params.id;
-    const { lectureId, courseId } = req.body;
+    const { lectureId, courseId, title } = req.body;
 
     const chapter = await Chapter.findById({ _id: chapterId });
 
@@ -144,7 +145,7 @@ exports.fileUpload = asyncHandler(async (req, res, next) => {
 
     // Create custom filename with slugify
     // let filename = slugify(`${path.parse(file.name).name}`, { lower: true });
-    let filename = slugify(`${path.parse(file.name).name}`, { lower: true, replacement: '_' });
+    let filename = slugify(`${title}`, { lower: true, replacement: '_' });
     file.name = `${filename}${path.parse(file.name).ext}`;
   
     // Check if directory exist
