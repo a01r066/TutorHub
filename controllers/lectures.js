@@ -7,7 +7,7 @@ const Lecture = require('../models/Lecture');
 exports.createLecture = asyncHandler(async (req, res, next) => {
     await Lecture.create(req.body);
     await res.status(200).json({
-        success: true,
+        success: true
     })
 })
 

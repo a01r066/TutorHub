@@ -116,10 +116,10 @@ exports.loginUser = asyncHandler(async (req, res, next) => {
         path: 'cart purchased_courses wishlist', 
         populate: {
             path: 'courseId',
-            select: 'title description photo tuition slug instructor',
-            populate: { 
-                path: 'coupon'
-            }
+            select: 'title description photo tuition slug instructor'
+            // populate: { 
+            //     path: 'coupon'
+            // }
         } });
 
     if (!user) {
@@ -147,7 +147,7 @@ exports.getMe = asyncHandler(async (req, res, next) => {
             path: 'courseId',
             select: 'title description photo tuition slug instructor',
             populate: { 
-                path: 'coupon'
+                path: 'coupon instructor'
             }
         } })
         .execPopulate();

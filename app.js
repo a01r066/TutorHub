@@ -18,6 +18,7 @@ const paymentsRoutes = require('./routes/payments');
 const feedbackRoutes = require('./routes/feedback');
 const shareRoute = require('./routes/share');
 const trackerRoute = require('./routes/trackers');
+const instructorRoute = require('./routes/instructors');
 
 const errorHandler = require('./middleware/error');
 
@@ -62,6 +63,7 @@ app.use(api+'/payments', paymentsRoutes);
 app.use(api+'/feedbacks', feedbackRoutes);
 app.use(shareRoute);
 app.use(api+'/trackers', trackerRoute);
+app.use(api+'/instructors', instructorRoute);
 
 app.use(errorHandler);
 

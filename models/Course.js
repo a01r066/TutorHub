@@ -13,7 +13,10 @@ const courseSchema = new Schema({
         maxLength: [256, 'Please enter title!']
     },
     slogan: String,
-    instructor: String,
+    instructor: {
+        type: mongoose.Schema.ObjectId,
+        ref: 'Instructor',
+    },
     coupon: {
         type: mongoose.Schema.ObjectId,
         ref: 'Coupon'

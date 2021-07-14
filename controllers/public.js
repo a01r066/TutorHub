@@ -9,7 +9,7 @@ const Chapter = require('../models/Chapter');
 // @route     Get /api/v1/course/:slug
 // @access    Public
 exports.getCourseBySlug = asyncHandler(async(req, res, next) => {
-    const course = await Course.findOne({ slug: req.params.slug }).populate('coupon');
+    const course = await Course.findOne({ slug: req.params.slug }).populate('coupon instructor');
     await res.status(200).json({
         success: true,
         data: course

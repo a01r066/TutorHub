@@ -82,7 +82,7 @@ exports.categoryPhotoUpload = asyncHandler(async (req, res, next) => {
         }
     })
 
-    await Category.findByIdAndUpdate({ _id: req.params.id }, { photo: file.name });
+    await Category.findByIdAndUpdate({ _id: req.params.id }, { photoURL: file.name });
 
     await res.status(200).json({
         success: true,

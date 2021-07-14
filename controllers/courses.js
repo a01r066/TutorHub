@@ -35,7 +35,7 @@ exports.getCourse = asyncHandler(async (req, res, next) => {
 // @access    Public
 exports.getCourses = asyncHandler(async (req, res, next) => {
     if(req.params.categoryId){
-        const courses = await Course.find({ category: req.params.categoryId }).populate('coupon');
+        const courses = await Course.find({ category: req.params.categoryId }).populate('coupon instructor');
 
         await res.status(200).json({
             success: true,
@@ -51,7 +51,7 @@ exports.getCourses = asyncHandler(async (req, res, next) => {
 // @desc      Update course
 // @route     Put /api/v1/courses/:id
 // @access    Private
-exports.updateCourse = asyncHandler(async (req, res, next) => {
+exports.updateCourse = asyncHandler(async (req, res, next) => {    
     let course = await Course.findById(req.params.id);
 
     if (!course) {
@@ -70,7 +70,7 @@ exports.updateCourse = asyncHandler(async (req, res, next) => {
     });
 
     await res.status(200).json({
-        success: true,
+        success: true
     });
 })
 

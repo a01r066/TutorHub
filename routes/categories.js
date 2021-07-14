@@ -13,12 +13,17 @@ const {
  } = require('../controllers/categories');
 
 // Include other resource routers
+// ***************Course**************************
 const courseRouter = require('./courses');
 // const Course = require('../models/Course');
 const { populate } = require('../models/Course');
 
 // Re-route into other resource routers
 router.use('/:categoryId/courses', courseRouter);
+
+// ************Instructor***************
+const instructorRouter = require('./instructors');
+router.use('/:categoryId/instructors', instructorRouter);
 
 router.route('/')
 .get(advancedResults(Category), getCategories)
