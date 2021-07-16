@@ -1,0 +1,5491 @@
+[{
+  "_id": {
+    "$oid": "60c5b299ef7ba027a49abdfc"
+  },
+  "title": "Section 1: Getting Started",
+  "index": 1,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b2b2ef7ba027a49abdfd"
+  },
+  "title": "Section 2: The Angular Frontend - Understanding the Basics",
+  "index": 2,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b2f9ef7ba027a49abdfe"
+  },
+  "title": "Section 3: Adding NodeJS to our Project",
+  "index": 3,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b30def7ba027a49abdff"
+  },
+  "title": "Section 4: Working with MongoDB",
+  "index": 4,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b326ef7ba027a49abe00"
+  },
+  "title": "Section 5: Enhancing the App",
+  "index": 5,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b337ef7ba027a49abe01"
+  },
+  "title": "Section 6: Adding Image Uploads to our App",
+  "index": 6,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b34aef7ba027a49abe02"
+  },
+  "title": "Section 7: Adding Pagination",
+  "index": 7,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b35aef7ba027a49abe03"
+  },
+  "title": "Section 8: Adding User Authentication",
+  "index": 8,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b36cef7ba027a49abe04"
+  },
+  "title": "Section 9: Authorization",
+  "index": 9,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b381ef7ba027a49abe05"
+  },
+  "title": "Section 10: Handling Errors",
+  "index": 10,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b390ef7ba027a49abe06"
+  },
+  "title": "Section 11: Optimizations",
+  "index": 11,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b39fef7ba027a49abe07"
+  },
+  "title": "Section 12: Deploying our App",
+  "index": 12,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5b3aeef7ba027a49abe08"
+  },
+  "title": "Section 13: Course Roundup",
+  "index": 13,
+  "course": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d00d17c0e511c8935688"
+  },
+  "title": "Section 1: How Hackers Work",
+  "index": 1,
+  "course": {
+    "$oid": "60c5cfed17c0e511c8935687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d02517c0e511c8935689"
+  },
+  "title": "Section 2: Critical Tasks First",
+  "index": 2,
+  "course": {
+    "$oid": "60c5cfed17c0e511c8935687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d03417c0e511c893568a"
+  },
+  "title": "Section 3: Securing the Kernel and Services",
+  "index": 3,
+  "course": {
+    "$oid": "60c5cfed17c0e511c8935687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d04317c0e511c893568b"
+  },
+  "title": "Section 4: Exploring the Local System Security",
+  "index": 4,
+  "course": {
+    "$oid": "60c5cfed17c0e511c8935687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d05917c0e511c893568c"
+  },
+  "title": "Section 5: Secure Management",
+  "index": 5,
+  "course": {
+    "$oid": "60c5cfed17c0e511c8935687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d06917c0e511c893568d"
+  },
+  "title": "Section 6: Verifying the Security Setup",
+  "index": 6,
+  "course": {
+    "$oid": "60c5cfed17c0e511c8935687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d4e817c0e511c8935698"
+  },
+  "title": "Phần 1: Giới thiệu  khóa học & Làm quen với photoshop",
+  "index": 1,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d50017c0e511c8935699"
+  },
+  "title": "Phần 2 - Hiểu về hình ảnh kỹ thuật số",
+  "index": 2,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d59317c0e511c89356a8"
+  },
+  "title": "Phần 3: Tách ảnh, cắt ảnh với các công cụ selection",
+  "index": 3,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5d60117c0e511c89356b4"
+  },
+  "title": "Phần 4: Layer - Các siêu phẩm thường bắt đầu từ đây",
+  "index": 4,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de0be7d4ca58fc866765"
+  },
+  "title": "Section 1: Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de18e7d4ca58fc866766"
+  },
+  "title": "Section 2: Starting The Front End",
+  "index": 2,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de25e7d4ca58fc866767"
+  },
+  "title": "Section 3: Serving & Fetching Data From Express",
+  "index": 3,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de34e7d4ca58fc866768"
+  },
+  "title": "Section 4: Getting Started With MongoDB",
+  "index": 4,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de43e7d4ca58fc866769"
+  },
+  "title": "Section 5: Implementing Redux For State Management",
+  "index": 5,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de50e7d4ca58fc86676a"
+  },
+  "title": "Section 6: Adding The Shopping Cart",
+  "index": 6,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de5ce7d4ca58fc86676b"
+  },
+  "title": "Section 7: Back End User Authentication",
+  "index": 7,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de68e7d4ca58fc86676c"
+  },
+  "title": "Section 8: Front End User Authentication & Profile",
+  "index": 8,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de78e7d4ca58fc86676d"
+  },
+  "title": "Section 9: Checkout Process - Part 1",
+  "index": 9,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de84e7d4ca58fc86676e"
+  },
+  "title": "Section 10: Checkout Process - Part 2",
+  "index": 10,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de8fe7d4ca58fc86676f"
+  },
+  "title": "Section 11: Admin Screens - Part 1",
+  "index": 11,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5de9ce7d4ca58fc866770"
+  },
+  "title": "Section 12: Admin Screens - Part 2",
+  "index": 12,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5dea8e7d4ca58fc866771"
+  },
+  "title": "Section 13: Product Reviews, Search & More",
+  "index": 13,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5deb3e7d4ca58fc866772"
+  },
+  "title": "Section 14: App Deployment",
+  "index": 14,
+  "course": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e13de7d4ca58fc866781"
+  },
+  "title": "Section 1: Getting Started",
+  "index": 2,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e15fe7d4ca58fc866782"
+  },
+  "title": "Section 2: Managing Reactivity",
+  "index": 3,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e177e7d4ca58fc866783"
+  },
+  "title": "Section 3: Styles and Animation",
+  "index": 4,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e190e7d4ca58fc866784"
+  },
+  "title": "Section 4: Using Components",
+  "index": 5,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e1d0e7d4ca58fc866785"
+  },
+  "title": "Section 5: Understanding the CLI",
+  "index": 6,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e1e7e7d4ca58fc866786"
+  },
+  "title": "Section 6: Creating a Real Project",
+  "index": 7,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e1ffe7d4ca58fc866787"
+  },
+  "title": "Section 7: Refactoring Codepen",
+  "index": 8,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e217e7d4ca58fc866788"
+  },
+  "title": "Section 8: Adding Features",
+  "index": 9,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5e230e7d4ca58fc866789"
+  },
+  "title": "Conclusion",
+  "index": 10,
+  "course": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8bfe83013dc1ab469ae94"
+  },
+  "title": "Section 1: Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0033013dc1ab469ae95"
+  },
+  "title": "Section 2: Angular Overview",
+  "index": 2,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0163013dc1ab469ae96"
+  },
+  "title": "Section 3: Set Up Development Tools",
+  "index": 3,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0263013dc1ab469ae97"
+  },
+  "title": "Section 4: TypeScript Crash Course - Fundamentals",
+  "index": 4,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0333013dc1ab469ae98"
+  },
+  "title": "Section 5: TypeScript Crash Course - Creating Classes",
+  "index": 5,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0413013dc1ab469ae99"
+  },
+  "title": "Section 6: TypeScript Crash Course - Inheritance and Interfaces",
+  "index": 6,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c04e3013dc1ab469ae9a"
+  },
+  "title": "Section 7: Angular Crash Course - Fundamentals",
+  "index": 7,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0603013dc1ab469ae9b"
+  },
+  "title": "Section 8: Angular Crash Course - Bootstrap CSS, Conditionals and Formatting",
+  "index": 8,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c06f3013dc1ab469ae9c"
+  },
+  "title": "Section 9: eCommerce Project - Spring Boot Backend",
+  "index": 9,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c07d3013dc1ab469ae9d"
+  },
+  "title": "Section 10: eCommerce Project - Angular Front End - Product List",
+  "index": 10,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c08a3013dc1ab469ae9e"
+  },
+  "title": "Section 11: eCommerce Project - Integrating Online Shop Template",
+  "index": 11,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0993013dc1ab469ae9f"
+  },
+  "title": "Section 12: eCommerce Project - Search for Products by Category",
+  "index": 12,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0a53013dc1ab469aea0"
+  },
+  "title": "Section 13: eCommerce Project - Search for Products by Category (Dynamic Search Component)",
+  "index": 13,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0b43013dc1ab469aea1"
+  },
+  "title": "Section 14: eCommerce Project - Search for Products by Keyword",
+  "index": 14,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0c13013dc1ab469aea2"
+  },
+  "title": "Section 15: eCommerce Project - Product Master-Detail View",
+  "index": 15,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0d03013dc1ab469aea3"
+  },
+  "title": "Section 16: eCommerce Project - Pagination",
+  "index": 16,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0de3013dc1ab469aea4"
+  },
+  "title": "Section 17: eCommerce Project - Shopping Cart Status Component",
+  "index": 17,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0ec3013dc1ab469aea5"
+  },
+  "title": "Section 18: eCommerce Project - Shopping Cart Items CRUD",
+  "index": 18,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c0f83013dc1ab469aea6"
+  },
+  "title": "Section 19: eCommerce Project - Checkout Form Layout",
+  "index": 19,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c1043013dc1ab469aea7"
+  },
+  "title": "Section 20: eCommerce Project - Checkout Form - Drop-Down Lists",
+  "index": 20,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c1133013dc1ab469aea8"
+  },
+  "title": "Section 21: eCommerce Project - Checkout Form - Validation",
+  "index": 21,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c1203013dc1ab469aea9"
+  },
+  "title": "Section 22: eCommerce Project - Checkout Form - Review Cart Totals",
+  "index": 22,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c12c3013dc1ab469aeaa"
+  },
+  "title": "Section 23: eCommerce Project - Checkout Form - Save the Order to Database - Backend",
+  "index": 23,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c1383013dc1ab469aeab"
+  },
+  "title": "Section 24: eCommerce Project - Checkout Form - Save the Order to Database - Frontend",
+  "index": 24,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c1443013dc1ab469aeac"
+  },
+  "title": "Section 25: Release 3.0 - Security - LoginLogout",
+  "index": 25,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c1513013dc1ab469aead"
+  },
+  "title": "Section 26: Release 3.0 - Security - User Registration",
+  "index": 26,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8c15e3013dc1ab469aeae"
+  },
+  "title": "Section 27: Course Summary",
+  "index": 27,
+  "course": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb78c8f934d93294f7c664"
+  },
+  "title": "Phần 5 - Layer style - Hướng dẫn tạo hiệu ứng chữ đẹp",
+  "index": 5,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb7b07f934d93294f7c672"
+  },
+  "title": "Phần 6: Blending mode - Tạo kỹ xảo với hiệu ứng hòa trộn",
+  "index": 6,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb7cf1f934d93294f7c67f"
+  },
+  "title": "Phần 7: Adjustments color - Chỉnh sửa và Blend màu cho ảnh",
+  "index": 7,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb7d7ff934d93294f7c681"
+  },
+  "title": "Phần 8: Kỹ thuật (Retouch chỉnh sửa ảnh chân dung",
+  "index": 9,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb7ed6f934d93294f7c68b"
+  },
+  "title": "Phần 9: Kỹ thuật chỉnh sửa ảnh phong cảnh",
+  "index": 9,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb821cf934d93294f7c695"
+  },
+  "title": "Phần 10: Thiết kế một giao diện web trong 7 bước",
+  "index": 10,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb8325f934d93294f7c69e"
+  },
+  "title": "Phần 11: Thiết kế một banner quảng cáo trong 6 bước",
+  "index": 11,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb8446f934d93294f7c6a6"
+  },
+  "title": "Phần 12 - Lý thuyết sử dụng nhanh bộ lọc filter",
+  "index": 12,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce25df0570324443d9e9f"
+  },
+  "title": "0 - Introduction",
+  "index": 0,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce264f0570324443d9ea0"
+  },
+  "title": "1 - Exploring Project Management",
+  "index": 1,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce26af0570324443d9ea1"
+  },
+  "title": "2 - Initiating a Project",
+  "index": 2,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce271f0570324443d9ea2"
+  },
+  "title": "3 - Planning a Project",
+  "index": 3,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce278f0570324443d9ea3"
+  },
+  "title": "4 - Building a Project Schedule",
+  "index": 4,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce27ff0570324443d9ea4"
+  },
+  "title": "5 - Running a Project",
+  "index": 5,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce28ef0570324443d9ea5"
+  },
+  "title": "6 - Closing a Project",
+  "index": 6,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cce296f0570324443d9ea6"
+  },
+  "title": "Conclusion",
+  "index": 7,
+  "course": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ccee9cf0570324443d9efb"
+  },
+  "title": "Section 1. Basics and Preparation",
+  "index": 1,
+  "course": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cceea6f0570324443d9efc"
+  },
+  "title": "Section 2 Vocabulary tips",
+  "index": 2,
+  "course": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cceeacf0570324443d9efd"
+  },
+  "title": "Section 3 Expressing your opinions and ideas",
+  "index": 3,
+  "course": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cceeb2f0570324443d9efe"
+  },
+  "title": "Section 4 Grammar and pronunciation",
+  "index": 4,
+  "course": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cceeb7f0570324443d9eff"
+  },
+  "title": "Section 5 Time management",
+  "index": 5,
+  "course": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cceebef0570324443d9f00"
+  },
+  "title": "Section 6 Model answers for Part 2",
+  "index": 6,
+  "course": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cceec3f0570324443d9f01"
+  },
+  "title": "Section 7 Typical mistakes and course review",
+  "index": 7,
+  "course": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdde2cfd2ddd3ed0ad5fd7"
+  },
+  "title": "01. Course Overview",
+  "index": 1,
+  "course": {
+    "$oid": "60cddd8efd2ddd3ed0ad5fd6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdde33fd2ddd3ed0ad5fd8"
+  },
+  "title": "02. Reading Configuration from the Container Platform",
+  "index": 2,
+  "course": {
+    "$oid": "60cddd8efd2ddd3ed0ad5fd6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdde39fd2ddd3ed0ad5fd9"
+  },
+  "title": "03. Surfacing Application Logs in the Container Platform",
+  "index": 3,
+  "course": {
+    "$oid": "60cddd8efd2ddd3ed0ad5fd6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdde3ffd2ddd3ed0ad5fda"
+  },
+  "title": "04. Building and Running Self-healing Applications",
+  "index": 4,
+  "course": {
+    "$oid": "60cddd8efd2ddd3ed0ad5fd6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdde46fd2ddd3ed0ad5fdb"
+  },
+  "title": "05. Routing Incoming Traffic to Application Containers",
+  "index": 5,
+  "course": {
+    "$oid": "60cddd8efd2ddd3ed0ad5fd6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde395fd2ddd3ed0ad5fff"
+  },
+  "title": "01 Introduction to Subnetting",
+  "index": 1,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde39efd2ddd3ed0ad6000"
+  },
+  "title": "02 Subnetting Examples",
+  "index": 2,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3a4fd2ddd3ed0ad6001"
+  },
+  "title": "03 Variable Length Subnet Masking (VLSM)",
+  "index": 3,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3aafd2ddd3ed0ad6002"
+  },
+  "title": "04 Building the Routing Table",
+  "index": 4,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3b1fd2ddd3ed0ad6003"
+  },
+  "title": "05 Route Summarization",
+  "index": 5,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3b8fd2ddd3ed0ad6004"
+  },
+  "title": "06 Dynamic Routing",
+  "index": 6,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3bffd2ddd3ed0ad6005"
+  },
+  "title": "07 Introduction to OSPF",
+  "index": 7,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3c6fd2ddd3ed0ad6006"
+  },
+  "title": "08 Virtual LANs (VLANs)",
+  "index": 8,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3ccfd2ddd3ed0ad6007"
+  },
+  "title": "09 VLAN Trunks",
+  "index": 9,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cde3d4fd2ddd3ed0ad6008"
+  },
+  "title": "10 Inter-VLAN Routing",
+  "index": 10,
+  "course": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdfe5bfd2ddd3ed0ad604f"
+  },
+  "title": "0. Course Overview",
+  "index": 0,
+  "course": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdfe68fd2ddd3ed0ad6050"
+  },
+  "title": "1. Understanding Azure Architecture and Management",
+  "index": 1,
+  "course": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdfe73fd2ddd3ed0ad6051"
+  },
+  "title": "2. Exploring Azure Core Products",
+  "index": 2,
+  "course": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdfe7dfd2ddd3ed0ad6052"
+  },
+  "title": "3. Data Storage in Azure",
+  "index": 3,
+  "course": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdfe84fd2ddd3ed0ad6053"
+  },
+  "title": "4. Exploring Azure Platform Solutions",
+  "index": 4,
+  "course": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdff08fd2ddd3ed0ad6054"
+  },
+  "title": "5. DevOps Solutions in Azure",
+  "index": 5,
+  "course": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdff20fd2ddd3ed0ad6055"
+  },
+  "title": "Slides",
+  "index": 1,
+  "course": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0c7cfd2ddd3ed0ad6081"
+  },
+  "title": "Section 1: Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0ca4fd2ddd3ed0ad6082"
+  },
+  "title": "Section 2: Review the Basic Elements of an Excel Chart",
+  "index": 2,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0cb5fd2ddd3ed0ad6083"
+  },
+  "title": "Section 3: Style Your Charts with the Design tab",
+  "index": 3,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0cc6fd2ddd3ed0ad6084"
+  },
+  "title": "Section 4: Fine-Tune Your Chart Elements",
+  "index": 4,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0ce1fd2ddd3ed0ad6085"
+  },
+  "title": "Section 5: Format Tab: Insert Pictures, Shapes, and Textboxes",
+  "index": 5,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0cf8fd2ddd3ed0ad6086"
+  },
+  "title": "Section 6: Adjusting Specific Chart Types",
+  "index": 6,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0d0dfd2ddd3ed0ad6087"
+  },
+  "title": "Section 7: Other Specialized Excel Charts",
+  "index": 7,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0d23fd2ddd3ed0ad6088"
+  },
+  "title": "Section 8: New Chart Types in Excel 2016",
+  "index": 8,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0d3dfd2ddd3ed0ad6089"
+  },
+  "title": "Section 9: Change a Chart's Data Source",
+  "index": 9,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0d4ffd2ddd3ed0ad608a"
+  },
+  "title": "Section 10: Print and Share Charts",
+  "index": 10,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce0d5afd2ddd3ed0ad608b"
+  },
+  "title": "Section 11: Print and Share Charts",
+  "index": 11,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1269fd2ddd3ed0ad60d8"
+  },
+  "title": "Conclusion",
+  "index": 12,
+  "course": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1a46fd2ddd3ed0ad60db"
+  },
+  "title": "P1.1: Linked List",
+  "index": 1,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1a64fd2ddd3ed0ad60dc"
+  },
+  "title": "P1.2: Stack",
+  "index": 2,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1a72fd2ddd3ed0ad60dd"
+  },
+  "title": "P1.3: Queue",
+  "index": 3,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1a80fd2ddd3ed0ad60de"
+  },
+  "title": "P1.4: Binary Trees",
+  "index": 4,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1a8dfd2ddd3ed0ad60df"
+  },
+  "title": "P1.5: Hash Tables",
+  "index": 5,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1ac0fd2ddd3ed0ad60e0"
+  },
+  "title": "P2.1: Sorting Algorithms",
+  "index": 6,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1b04fd2ddd3ed0ad60e1"
+  },
+  "title": "P2.2: Set Collection and Algorithms",
+  "index": 7,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1b1dfd2ddd3ed0ad60e2"
+  },
+  "title": "P2.3: AVL Tree",
+  "index": 8,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1b2dfd2ddd3ed0ad60e3"
+  },
+  "title": "P2.4: String Searching Algorithms",
+  "index": 9,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1b39fd2ddd3ed0ad60e4"
+  },
+  "title": "P2.5: Collection Concurrency",
+  "index": 10,
+  "course": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0997a07b8c35e18706427"
+  },
+  "title": "1 - Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09ab2043f4850b454348c"
+  },
+  "title": "2 - The Elements Of Art - Part 1",
+  "index": 2,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09ab8043f4850b454348d"
+  },
+  "title": "3 - Linear Perspective",
+  "index": 3,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09abe043f4850b454348e"
+  },
+  "title": "4 - Drawing Techniques",
+  "index": 4,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09ad4043f4850b454348f"
+  },
+  "title": "5 - Composition",
+  "index": 5,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09ada043f4850b4543490"
+  },
+  "title": "6 - Drawing Media Part 1",
+  "index": 6,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09ae1043f4850b4543491"
+  },
+  "title": "7 - The Elements of Art - Part 2",
+  "index": 7,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09ae8043f4850b4543492"
+  },
+  "title": "8 - Drawing Media Part 2",
+  "index": 8,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09aed043f4850b4543493"
+  },
+  "title": "9 - Portraiture",
+  "index": 9,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09af4043f4850b4543494"
+  },
+  "title": "10 - Figure Drawing",
+  "index": 10,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09afa043f4850b4543495"
+  },
+  "title": "11 - Conclusion",
+  "index": 11,
+  "course": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0bb72043f4850b45434e0"
+  },
+  "title": "Introduction",
+  "index": 0,
+  "course": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0bb7a043f4850b45434e1"
+  },
+  "title": "1. Get Started",
+  "index": 1,
+  "course": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0bb83043f4850b45434e2"
+  },
+  "title": "2. Get Data",
+  "index": 2,
+  "course": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0bb89043f4850b45434e3"
+  },
+  "title": "3. Model Data - Shaping, Combining, and Merging Data",
+  "index": 3,
+  "course": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0bb90043f4850b45434e4"
+  },
+  "title": "4. Create Visualizations and Reports",
+  "index": 4,
+  "course": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0bb95043f4850b45434e5"
+  },
+  "title": "5. Share Your Work",
+  "index": 5,
+  "course": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0bb9c043f4850b45434e6"
+  },
+  "title": "Conclusion",
+  "index": 6,
+  "course": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2199412ca01096812b635"
+  },
+  "title": "1. Basics Overview",
+  "index": 1,
+  "course": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2199b12ca01096812b636"
+  },
+  "title": "2. Understanding Drawing for Animation",
+  "index": 2,
+  "course": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d219a212ca01096812b637"
+  },
+  "title": "3. Drawing Body Parts Detail",
+  "index": 3,
+  "course": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d219a912ca01096812b638"
+  },
+  "title": "4. Bringing It All Together",
+  "index": 4,
+  "course": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d219af12ca01096812b639"
+  },
+  "title": "5. Full Drawing From Start to Finish",
+  "index": 5,
+  "course": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d219b812ca01096812b63a"
+  },
+  "title": "Conclusion",
+  "index": 6,
+  "course": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d219d412ca01096812b63b"
+  },
+  "title": "Introduction",
+  "index": 0,
+  "course": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d239d68d74222d98f2c8dc"
+  },
+  "title": "Section 01: C# Generics - Why Generics",
+  "index": 1,
+  "course": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d239e38d74222d98f2c8dd"
+  },
+  "title": "Section 02: Working with Generic Collections",
+  "index": 2,
+  "course": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d239f38d74222d98f2c8de"
+  },
+  "title": "Section 03: Generic Classes and Interfaces",
+  "index": 3,
+  "course": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d23a008d74222d98f2c8df"
+  },
+  "title": "Section 04: Generic Methods and Delegates",
+  "index": 4,
+  "course": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d23a0b8d74222d98f2c8e0"
+  },
+  "title": "Section 05: Constraints, Covariance, and Contravariance",
+  "index": 5,
+  "course": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d23a178d74222d98f2c8e1"
+  },
+  "title": "Section 06: Generics and Reflection",
+  "index": 6,
+  "course": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d23a268d74222d98f2c8e2"
+  },
+  "title": "Section 07: Generic Odds & Ends",
+  "index": 7,
+  "course": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33ec23f2cb211d0ec94e1"
+  },
+  "title": "01 Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33ec83f2cb211d0ec94e2"
+  },
+  "title": "02 Basic Express Setup",
+  "index": 2,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33ecd3f2cb211d0ec94e3"
+  },
+  "title": "03 User API Routes  JWT Authentication",
+  "index": 3,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33ed23f2cb211d0ec94e4"
+  },
+  "title": "04 Profile API Routes",
+  "index": 4,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33eda3f2cb211d0ec94e5"
+  },
+  "title": "05 Post API Routes",
+  "index": 5,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33edf3f2cb211d0ec94e6"
+  },
+  "title": "06 Getting Started With React  The Frontend",
+  "index": 6,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33ee63f2cb211d0ec94e7"
+  },
+  "title": "07 React Router  Component State",
+  "index": 7,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33eeb3f2cb211d0ec94e8"
+  },
+  "title": "08 Redux  Authentication",
+  "index": 8,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33ef13f2cb211d0ec94e9"
+  },
+  "title": "09 Dashboard  Profile State - Part 1",
+  "index": 9,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33ef73f2cb211d0ec94ea"
+  },
+  "title": "10 Dashboard  Profile State - Part 2",
+  "index": 10,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33efd3f2cb211d0ec94eb"
+  },
+  "title": "11 Profile Display",
+  "index": 11,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33f0d3f2cb211d0ec94ec"
+  },
+  "title": "12 Posts  Comments",
+  "index": 12,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d33f143f2cb211d0ec94ed"
+  },
+  "title": "13 Prepare  Deploy",
+  "index": 13,
+  "course": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371533f2cb211d0ec9549"
+  },
+  "title": "00 Introduction",
+  "index": 0,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3715d3f2cb211d0ec954a"
+  },
+  "title": "01 Basic Red Hat Certified Administrator Skills",
+  "index": 1,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371643f2cb211d0ec954b"
+  },
+  "title": "02 Understand Core Components of Ansible",
+  "index": 2,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371693f2cb211d0ec954c"
+  },
+  "title": "03 Install and Configure an Ansible Control Node",
+  "index": 3,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3716f3f2cb211d0ec954d"
+  },
+  "title": "04 Configure Ansible Managed Nodes",
+  "index": 4,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371743f2cb211d0ec954e"
+  },
+  "title": "05 Script Administration Tasks",
+  "index": 5,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371793f2cb211d0ec954f"
+  },
+  "title": "06 Create Ansible Plays and Playbooks",
+  "index": 6,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3717f3f2cb211d0ec9550"
+  },
+  "title": "07 Use Ansible Modules for System Administration Tasks",
+  "index": 7,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371863f2cb211d0ec9551"
+  },
+  "title": "08 Create and Use Templates to Create Customized Configuration Files",
+  "index": 8,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3718d3f2cb211d0ec9552"
+  },
+  "title": "09 Create and Work with Roles",
+  "index": 9,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371943f2cb211d0ec9553"
+  },
+  "title": "10 Managing Parallelism",
+  "index": 10,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3719b3f2cb211d0ec9554"
+  },
+  "title": "11 Protect Sensitive Data in Playbooks with Ansible Vault",
+  "index": 11,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371a13f2cb211d0ec9555"
+  },
+  "title": "12 Ansible Documentation",
+  "index": 12,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371a93f2cb211d0ec9556"
+  },
+  "title": "13 Conclusion",
+  "index": 13,
+  "course": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d382f53f2cb211d0ec95a7"
+  },
+  "title": "1. About the course",
+  "index": 1,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d383073f2cb211d0ec95aa"
+  },
+  "title": "2. Present tenses",
+  "index": 2,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3830c3f2cb211d0ec95ab"
+  },
+  "title": "3. Past tenses",
+  "index": 3,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d383113f2cb211d0ec95ac"
+  },
+  "title": "4. Present perfect & continuous",
+  "index": 4,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3831a3f2cb211d0ec95ad"
+  },
+  "title": "5. Future",
+  "index": 5,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d383213f2cb211d0ec95ae"
+  },
+  "title": "6. Passive",
+  "index": 6,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d383263f2cb211d0ec95af"
+  },
+  "title": "7. There vs it",
+  "index": 7,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3832c3f2cb211d0ec95b0"
+  },
+  "title": "8. Modals and the imperative",
+  "index": 8,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d383343f2cb211d0ec95b1"
+  },
+  "title": "9. Helping (auxiliary) verbs",
+  "index": 9,
+  "course": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d4918fc542ec4e147e636c"
+  },
+  "title": "1. Course Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d49195c542ec4e147e636d"
+  },
+  "title": "2. Project 1 Start [Github Finder] & React Setup",
+  "index": 2,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d4919bc542ec4e147e636e"
+  },
+  "title": "3. Components, State & Props",
+  "index": 3,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491a0c542ec4e147e636f"
+  },
+  "title": "4. Events, Passing Props, React Router & More",
+  "index": 4,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491a6c542ec4e147e6370"
+  },
+  "title": "5. Refactoring To Hooks & Context",
+  "index": 5,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491acc542ec4e147e6371"
+  },
+  "title": "6. Project 2 Start [Contact Keeper - MERN] & Express Server Setup",
+  "index": 6,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491b2c542ec4e147e6372"
+  },
+  "title": "7. Backend Users, Contacts & JWT Authentication",
+  "index": 7,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491b9c542ec4e147e6373"
+  },
+  "title": "8. Client Side Setup & Contacts UI",
+  "index": 8,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491bec542ec4e147e6374"
+  },
+  "title": "9. ReactExpress Authentication",
+  "index": 9,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491c5c542ec4e147e6375"
+  },
+  "title": "10. Contacts API Integration & Deploy",
+  "index": 10,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491cac542ec4e147e6376"
+  },
+  "title": "11. Project 3 Start [ITLogger - Redux] - Components & UI",
+  "index": 11,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491d0c542ec4e147e6377"
+  },
+  "title": "12. Redux For State Management",
+  "index": 12,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d491d6c542ec4e147e6378"
+  },
+  "title": "13. Technicians State & Components",
+  "index": 13,
+  "course": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b4a8c82e2040d870cf55"
+  },
+  "title": "Phần 13 - Tạo ảnh động",
+  "index": 13,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b4b8c82e2040d870cf56"
+  },
+  "title": "Phần 14 - Tự động hóa trên photoshop",
+  "index": 14,
+  "course": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746c8c2c0b0170001c506"
+  },
+  "title": "1. Course Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746cfc2c0b0170001c507"
+  },
+  "title": "2. Master The CSS Flexbox Properties & Concepts (Intermediate-level)",
+  "index": 2,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746d5c2c0b0170001c508"
+  },
+  "title": "3. The Fundamentals of UI Design (Intermediate-level)",
+  "index": 3,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746dbc2c0b0170001c509"
+  },
+  "title": "4. The Fundamentals of Responsive Web Design (Intermediate-level)",
+  "index": 4,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746e1c2c0b0170001c50a"
+  },
+  "title": "5. Scarlett Portfolio Website -- CSS Flexbox (Intermediate-level)",
+  "index": 5,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746e7c2c0b0170001c50b"
+  },
+  "title": "6. Master The CSS Grid Properties & Concepts (Advanced-level)",
+  "index": 6,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746eec2c0b0170001c50c"
+  },
+  "title": "7. Vision Luxury Villas Website -- CSS Grid (Advanced-level)",
+  "index": 7,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d746f4c2c0b0170001c50d"
+  },
+  "title": "8. Sass Mastery (Advanced-level)",
+  "index": 8,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74701c2c0b0170001c50e"
+  },
+  "title": "9. Gymantic Website -- Sass + Grid + Flexbox (Advanced-level)",
+  "index": 9,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74707c2c0b0170001c50f"
+  },
+  "title": "10. Course Wrap Up",
+  "index": 10,
+  "course": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7619ec2c0b0170001c63b"
+  },
+  "title": "Section 1: IELTS Reading",
+  "index": 1,
+  "course": {
+    "$oid": "60d760dfc2c0b0170001c63a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d761adc2c0b0170001c63c"
+  },
+  "title": "Section 2: IELTS Speaking",
+  "index": 2,
+  "course": {
+    "$oid": "60d760dfc2c0b0170001c63a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d761c1c2c0b0170001c63d"
+  },
+  "title": "Section 3: IELTS Listening",
+  "index": 3,
+  "course": {
+    "$oid": "60d760dfc2c0b0170001c63a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d761d0c2c0b0170001c63e"
+  },
+  "title": "Section 4: IELTS Writing",
+  "index": 4,
+  "course": {
+    "$oid": "60d760dfc2c0b0170001c63a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d76784c2c0b0170001c699"
+  },
+  "title": "Section 1: Little Know Secrets about Writing Great Emails",
+  "index": 1,
+  "course": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d767a8c2c0b0170001c69a"
+  },
+  "title": "Section 2: Be Clear and Bold, Not Pushy or Whiny",
+  "index": 2,
+  "course": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d767b7c2c0b0170001c69b"
+  },
+  "title": "Section 3: How to Be Compelling",
+  "index": 3,
+  "course": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d767d0c2c0b0170001c69c"
+  },
+  "title": "Section 4: How Often Should I Send? What Time of Day is Best?",
+  "index": 4,
+  "course": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d767e3c2c0b0170001c69d"
+  },
+  "title": "Section 5: Emails That Get Them to Buy",
+  "index": 5,
+  "course": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d767f0c2c0b0170001c69e"
+  },
+  "title": "Section 6. Advanced Strategies",
+  "index": 6,
+  "course": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d767f6c2c0b0170001c69f"
+  },
+  "title": "Conclusion",
+  "index": 7,
+  "course": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d78ca0c2c0b0170001c6fb"
+  },
+  "title": "Section 1: Numerics",
+  "index": 2,
+  "course": {
+    "$oid": "60d78be9c2c0b0170001c6f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d78cb1c2c0b0170001c6fc"
+  },
+  "title": "Section 2: Reflection",
+  "index": 3,
+  "course": {
+    "$oid": "60d78be9c2c0b0170001c6f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d78cc0c2c0b0170001c6fd"
+  },
+  "title": "Section 3: Dynamic Programming",
+  "index": 4,
+  "course": {
+    "$oid": "60d78be9c2c0b0170001c6f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d78cd2c2c0b0170001c6fe"
+  },
+  "title": "Section 4: Extension Methods",
+  "index": 5,
+  "course": {
+    "$oid": "60d78be9c2c0b0170001c6f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d78cdfc2c0b0170001c6ff"
+  },
+  "title": "Section 5: Memory Management",
+  "index": 6,
+  "course": {
+    "$oid": "60d78be9c2c0b0170001c6f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d78cf0c2c0b0170001c700"
+  },
+  "title": "Section 6: Assorted Topics",
+  "index": 7,
+  "course": {
+    "$oid": "60d78be9c2c0b0170001c6f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d79800c2c0b0170001c764"
+  },
+  "title": "Section 1: Best Practices",
+  "index": 2,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7980bc2c0b0170001c765"
+  },
+  "title": "Section 2: CLI",
+  "index": 3,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d79816c2c0b0170001c766"
+  },
+  "title": "Section 3: Components",
+  "index": 4,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d79826c2c0b0170001c767"
+  },
+  "title": "Section 4: Composition API",
+  "index": 5,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d79839c2c0b0170001c768"
+  },
+  "title": "Section 5: State Management",
+  "index": 6,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d798d6c2c0b0170001c769"
+  },
+  "title": "Section 6: Testing",
+  "index": 7,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d798eac2c0b0170001c76a"
+  },
+  "title": "Section 7: Code Maintenance",
+  "index": 8,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d798f8c2c0b0170001c76b"
+  },
+  "title": "Wrapping Up",
+  "index": 9,
+  "course": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b9a85374d2603c0d3539"
+  },
+  "title": "Section 1: Discussion Essays",
+  "index": 1,
+  "course": {
+    "$oid": "60d8b8b25374d2603c0d3538"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b9b65374d2603c0d353a"
+  },
+  "title": "Section 2: Discussion  Opinion Essays",
+  "index": 2,
+  "course": {
+    "$oid": "60d8b8b25374d2603c0d3538"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b9c15374d2603c0d353b"
+  },
+  "title": "Section 3: Situation Essays",
+  "index": 3,
+  "course": {
+    "$oid": "60d8b8b25374d2603c0d3538"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b9cc5374d2603c0d353c"
+  },
+  "title": "Section 4: Opinion Essays",
+  "index": 4,
+  "course": {
+    "$oid": "60d8b8b25374d2603c0d3538"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b9d75374d2603c0d353d"
+  },
+  "title": "Section 5: Miscellaneous  2-Part Essays",
+  "index": 5,
+  "course": {
+    "$oid": "60d8b8b25374d2603c0d3538"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9feb3b43492099c63ff60"
+  },
+  "title": "Section 1. Value Types",
+  "index": 1,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9fec8b43492099c63ff61"
+  },
+  "title": "Section 2: Encoding and Decoding",
+  "index": 2,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9fed5b43492099c63ff62"
+  },
+  "title": "Section 3: Swift Frameworks",
+  "index": 3,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9fee1b43492099c63ff63"
+  },
+  "title": "Section 4: Swift Protocols",
+  "index": 4,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9feefb43492099c63ff64"
+  },
+  "title": "Section 5: Transitioning to Protocol Oriented Programming",
+  "index": 5,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9fefbb43492099c63ff65"
+  },
+  "title": "Section 6: Swift Generics",
+  "index": 6,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ff07b43492099c63ff66"
+  },
+  "title": "Section 7: Software Design",
+  "index": 7,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ff14b43492099c63ff67"
+  },
+  "title": "Section 8: MVC Alternatives",
+  "index": 8,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ff21b43492099c63ff68"
+  },
+  "title": "Section 9: Unidirectional Data Flow",
+  "index": 9,
+  "course": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e73b43492099c63ffe1"
+  },
+  "title": "1. Getting Started",
+  "index": 1,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e79b43492099c63ffe2"
+  },
+  "title": "2. Diving into the Basics [COURSE GOALS APP]",
+  "index": 2,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e7fb43492099c63ffe3"
+  },
+  "title": "3. Debugging React Native Apps",
+  "index": 3,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e85b43492099c63ffe4"
+  },
+  "title": "4. Components, Styling, Layouts - Building Real Apps [GUESS A NUMBER APP]",
+  "index": 4,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e8ab43492099c63ffe5"
+  },
+  "title": "5. Responsive & Adaptive User Interfaces and Apps",
+  "index": 5,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e90b43492099c63ffe6"
+  },
+  "title": "6. Navigation with React Navigation [THE MEALS APP]",
+  "index": 6,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e97b43492099c63ffe7"
+  },
+  "title": "7. State Management & Redux",
+  "index": 7,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0e9db43492099c63ffe8"
+  },
+  "title": "8. Time to Practice - THE SHOP APP",
+  "index": 8,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0ea3b43492099c63ffe9"
+  },
+  "title": "9. Handling User Input",
+  "index": 9,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0eaab43492099c63ffea"
+  },
+  "title": "10. Http Requests & Adding a Web Server + Database",
+  "index": 10,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0eb0b43492099c63ffeb"
+  },
+  "title": "11. User Authentication",
+  "index": 11,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0eb6b43492099c63ffec"
+  },
+  "title": "12. Native Device Features (Camera, Maps, Location, SQLite, ...) [GREAT PLACES APP]",
+  "index": 12,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0eccb43492099c63ffed"
+  },
+  "title": "13. Building Apps Without Expo",
+  "index": 13,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0ed2b43492099c63ffee"
+  },
+  "title": "14. Publishing React Native Apps",
+  "index": 14,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0ed9b43492099c63ffef"
+  },
+  "title": "15. Updating to React Navigation 5+",
+  "index": 15,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0edfb43492099c63fff0"
+  },
+  "title": "16. Push Notifications",
+  "index": 16,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0ee5b43492099c63fff1"
+  },
+  "title": "17. Course Roundup & Next Steps",
+  "index": 17,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0eebb43492099c63fff2"
+  },
+  "title": "18. Bonus JavaScript Refresher",
+  "index": 18,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da0ef1b43492099c63fff3"
+  },
+  "title": "19. Bonus React.js Refresher",
+  "index": 19,
+  "course": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3206c5d1bf40fc9a832d"
+  },
+  "title": "01 Course Information",
+  "index": 1,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3210c5d1bf40fc9a832e"
+  },
+  "title": "02 The Basics",
+  "index": 2,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3216c5d1bf40fc9a832f"
+  },
+  "title": "03 Problem Solving",
+  "index": 3,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db321bc5d1bf40fc9a8330"
+  },
+  "title": "04 Object Oriented Programming",
+  "index": 4,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3220c5d1bf40fc9a8331"
+  },
+  "title": "05 Strings",
+  "index": 5,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3226c5d1bf40fc9a8332"
+  },
+  "title": "06 Arrays",
+  "index": 6,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db322dc5d1bf40fc9a8333"
+  },
+  "title": "07 Probabilistic Simulations",
+  "index": 7,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3233c5d1bf40fc9a8334"
+  },
+  "title": "08 Graphics",
+  "index": 8,
+  "course": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3b91c5d1bf40fc9a837a"
+  },
+  "title": "1. The SOLID Design Principles",
+  "index": 1,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3b99c5d1bf40fc9a837b"
+  },
+  "title": "2. Builder",
+  "index": 2,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3ba1c5d1bf40fc9a837c"
+  },
+  "title": "3. Factories",
+  "index": 3,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3baac5d1bf40fc9a837d"
+  },
+  "title": "4. Prototype",
+  "index": 4,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bb1c5d1bf40fc9a837e"
+  },
+  "title": "5. Singleton",
+  "index": 5,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bbac5d1bf40fc9a837f"
+  },
+  "title": "6. Adapter",
+  "index": 6,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bc2c5d1bf40fc9a8380"
+  },
+  "title": "7. Bridge",
+  "index": 7,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bcbc5d1bf40fc9a8381"
+  },
+  "title": "8. Composite",
+  "index": 8,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bd3c5d1bf40fc9a8382"
+  },
+  "title": "9. Decorator",
+  "index": 9,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bdcc5d1bf40fc9a8383"
+  },
+  "title": "10. Façade",
+  "index": 10,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3be8c5d1bf40fc9a8384"
+  },
+  "title": "11. Flyweight",
+  "index": 11,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bf1c5d1bf40fc9a8385"
+  },
+  "title": "12. Proxy",
+  "index": 12,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3bfcc5d1bf40fc9a8386"
+  },
+  "title": "13. Chain of Responsibility",
+  "index": 13,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c05c5d1bf40fc9a8387"
+  },
+  "title": "14. Command",
+  "index": 14,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c10c5d1bf40fc9a8388"
+  },
+  "title": "15. Interpreter",
+  "index": 15,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c1bc5d1bf40fc9a8389"
+  },
+  "title": "16. Iterator",
+  "index": 16,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c24c5d1bf40fc9a838a"
+  },
+  "title": "17. Mediator",
+  "index": 17,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c2ec5d1bf40fc9a838b"
+  },
+  "title": "18. Memento",
+  "index": 18,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c3cc5d1bf40fc9a838c"
+  },
+  "title": "19. Null Object",
+  "index": 19,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c46c5d1bf40fc9a838d"
+  },
+  "title": "20. Observer",
+  "index": 20,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c4fc5d1bf40fc9a838e"
+  },
+  "title": "21. State",
+  "index": 21,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c5ac5d1bf40fc9a838f"
+  },
+  "title": "22. Strategy",
+  "index": 22,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c61c5d1bf40fc9a8390"
+  },
+  "title": "23. Template Method",
+  "index": 23,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c6ac5d1bf40fc9a8391"
+  },
+  "title": "24. Visitor",
+  "index": 24,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c75c5d1bf40fc9a8392"
+  },
+  "title": "25. Course Summary",
+  "index": 25,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3c7fc5d1bf40fc9a8393"
+  },
+  "title": "26. Bonus Lectures Related Concepts",
+  "index": 26,
+  "course": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc793db6157a5c3c6a2b4f"
+  },
+  "title": "1 - Arrays - Question #1 Google Interview (Easy)",
+  "index": 1,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc7952b6157a5c3c6a2b50"
+  },
+  "title": "2 - Arrays - Question #2 - Container With Most Water (Medium)",
+  "index": 2,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc7959b6157a5c3c6a2b51"
+  },
+  "title": "3 - Arrays - Question #3 - Trapping Rainwater (Hard)",
+  "index": 3,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc795eb6157a5c3c6a2b52"
+  },
+  "title": "4 - Strings - Question #4 - Typed Out Strings (Easy)",
+  "index": 4,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc7968b6157a5c3c6a2b53"
+  },
+  "title": "5 - Strings - Question #5 - Longest Substring Without Repeating Characters (Medium)",
+  "index": 5,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc7972b6157a5c3c6a2b54"
+  },
+  "title": "6 - Strings - Question #6 - Valid Palindrome & Almost Palindrome",
+  "index": 6,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc797ab6157a5c3c6a2b55"
+  },
+  "title": "7 - Introducing Linked Lists - Basics and Reverse A Linked List",
+  "index": 7,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc7980b6157a5c3c6a2b56"
+  },
+  "title": "8 - Linked List - Question #7 - M, N Reversals (Medium)",
+  "index": 8,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc7988b6157a5c3c6a2b57"
+  },
+  "title": "9 - Linked List - Question #8 - Merge Multi-Level Doubly Linked List (Medium)",
+  "index": 9,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc798eb6157a5c3c6a2b58"
+  },
+  "title": "10 - Linked List - Question #9 - Cycle Detection (Medium)",
+  "index": 10,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9400b6157a5c3c6a2dc8"
+  },
+  "title": "11 - Stacks - Question #10 - Valid Parentheses (Easy)",
+  "index": 11,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9407b6157a5c3c6a2dc9"
+  },
+  "title": "12 - Stacks - Question #11 - Minimum Brackets To Remove (Medium)",
+  "index": 12,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc940fb6157a5c3c6a2dca"
+  },
+  "title": "13 - Queues - Question #12 - Implement Queue With Stacks (Easy)",
+  "index": 13,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9415b6157a5c3c6a2dcb"
+  },
+  "title": "14 - Recursion (Sorting and Hoare's QuickSelect) - Question #13 - Kth Largest Element",
+  "index": 14,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc941eb6157a5c3c6a2dcc"
+  },
+  "title": "15 - Recursion (Binary Search) - Question #14 - Start And End Of Target (Medium)",
+  "index": 15,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc96e2b6157a5c3c6a2de5"
+  },
+  "title": "16 - Binary Trees - Question #15 - Maximum Depth of Binary Tree (Easy)",
+  "index": 16,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc96eab6157a5c3c6a2de6"
+  },
+  "title": "17 - Binary Trees - Question #16 - Level Order Of Binary Tree (Medium)",
+  "index": 17,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc96f0b6157a5c3c6a2de7"
+  },
+  "title": "18 - Binary Trees - Question #17 - Right Side View of Tree (Medium)",
+  "index": 18,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc96f7b6157a5c3c6a2de8"
+  },
+  "title": "19 - Full & Complete Binary Trees - Question #18 - Number Of Nodes In Complete Tree",
+  "index": 19,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc96fdb6157a5c3c6a2de9"
+  },
+  "title": "20 - Binary Search Tree - Question #19 - Validate Binary Search Tree (Medium)",
+  "index": 20,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9afcb6157a5c3c6a2e77"
+  },
+  "title": "21 - Heaps & Priority Queues",
+  "index": 21,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b03b6157a5c3c6a2e78"
+  },
+  "title": "22 - Intro To 2D-Arrays - Basic & Traversal Algorithms",
+  "index": 22,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b09b6157a5c3c6a2e79"
+  },
+  "title": "23 - 2D-Arrays - Question #20 Number of Islands (Medium)",
+  "index": 23,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b0fb6157a5c3c6a2e7a"
+  },
+  "title": "24 - 2D-Arrays - Question #21 Rotting Oranges (Medium)",
+  "index": 24,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b15b6157a5c3c6a2e7b"
+  },
+  "title": "25 - 2D-Arrays - Question #22 - Walls And Gates (Medium)",
+  "index": 25,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b1ab6157a5c3c6a2e7c"
+  },
+  "title": "26 - Intro to Graphs - Representation & Traversal Algorithms",
+  "index": 26,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b23b6157a5c3c6a2e7d"
+  },
+  "title": "27 - Graphs - Question #23 - Time Needed to Inform All Employees (Medium)",
+  "index": 27,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b28b6157a5c3c6a2e7e"
+  },
+  "title": "28 - Graphs - Question #24 - Course Scheduler (Medium)",
+  "index": 28,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b2fb6157a5c3c6a2e7f"
+  },
+  "title": "29 - Graphs - Question #25 - Network Time Delay (Medium)",
+  "index": 29,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc9b35b6157a5c3c6a2e80"
+  },
+  "title": "30 - Dynamic Programming - Question #26 - Minimum Cost Of Climbing Stairs (Easy)",
+  "index": 30,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8c2b6157a5c3c6a303e"
+  },
+  "title": "01 Getting Started",
+  "index": 1,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8c9b6157a5c3c6a303f"
+  },
+  "title": "02 Fundamentals of Unit Testing",
+  "index": 2,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8ceb6157a5c3c6a3040"
+  },
+  "title": "03 Core Unit Testing Techniques",
+  "index": 3,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8d7b6157a5c3c6a3041"
+  },
+  "title": "04 Exercises",
+  "index": 4,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8deb6157a5c3c6a3042"
+  },
+  "title": "05 Breaking External Dependencies",
+  "index": 5,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8e4b6157a5c3c6a3043"
+  },
+  "title": "06 Exercises",
+  "index": 6,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8ecb6157a5c3c6a3044"
+  },
+  "title": "07 Project- Testing BookingHelper",
+  "index": 7,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcc8f1b6157a5c3c6a3045"
+  },
+  "title": "08 Project- HouseKeeperHelper",
+  "index": 8,
+  "course": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd393f431cb52ace19b96"
+  },
+  "title": "1. Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4bbb6157a5c3c6a309d"
+  },
+  "title": "2. Navigation Component Setup",
+  "index": 2,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4c0b6157a5c3c6a309e"
+  },
+  "title": "3. Design RecipesFragment Layout",
+  "index": 3,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4c5b6157a5c3c6a309f"
+  },
+  "title": "4. Start with Retrofit",
+  "index": 4,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4cab6157a5c3c6a30a0"
+  },
+  "title": "5. Introducing with Dependency Injection",
+  "index": 5,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4d0b6157a5c3c6a30a1"
+  },
+  "title": "6. Dagger-Hilt Setup - NetworkModule",
+  "index": 6,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4d7b6157a5c3c6a30a2"
+  },
+  "title": "7. Introducing with Data Binding",
+  "index": 7,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4ddb6157a5c3c6a30a3"
+  },
+  "title": "8. Display API Data in Recyclerview",
+  "index": 8,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4e4b6157a5c3c6a30a4"
+  },
+  "title": "9. Introducing with ROOM Library",
+  "index": 9,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4ebb6157a5c3c6a30a5"
+  },
+  "title": "10. ROOM Database",
+  "index": 10,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4f2b6157a5c3c6a30a6"
+  },
+  "title": "11. Dagger-Hilt Setup - DatabaseModule",
+  "index": 11,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4f8b6157a5c3c6a30a7"
+  },
+  "title": "12. Introducing with DataStore Preferences",
+  "index": 12,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd4ffb6157a5c3c6a30a8"
+  },
+  "title": "13. Add Bottom Sheet",
+  "index": 13,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd505b6157a5c3c6a30a9"
+  },
+  "title": "14. Handle Internet Connection",
+  "index": 14,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd50bb6157a5c3c6a30aa"
+  },
+  "title": "15. Search Recipes",
+  "index": 15,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd515b6157a5c3c6a30ab"
+  },
+  "title": "16. DetailsActivity & OverviewFragment",
+  "index": 16,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd51db6157a5c3c6a30ac"
+  },
+  "title": "17. IngredientsFragment",
+  "index": 17,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd524b6157a5c3c6a30ad"
+  },
+  "title": "18. InstructionsFragment",
+  "index": 18,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd52bb6157a5c3c6a30ae"
+  },
+  "title": "19. ROOM Database - Favorite Recipes",
+  "index": 19,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd531b6157a5c3c6a30af"
+  },
+  "title": "20. Add to Favorites - Details Activity",
+  "index": 20,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd537b6157a5c3c6a30b0"
+  },
+  "title": "21. FavoriteRecipesFragment",
+  "index": 21,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd53db6157a5c3c6a30b1"
+  },
+  "title": "22. Contextual Action Mode",
+  "index": 22,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd542b6157a5c3c6a30b2"
+  },
+  "title": "23. FoodJokeFragment",
+  "index": 23,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd548b6157a5c3c6a30b3"
+  },
+  "title": "24. Splash Screen",
+  "index": 24,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd54eb6157a5c3c6a30b4"
+  },
+  "title": "25. Dark Theme",
+  "index": 25,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd555b6157a5c3c6a30b5"
+  },
+  "title": "26. Motion Layout",
+  "index": 26,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd55db6157a5c3c6a30b6"
+  },
+  "title": "27. App Icon",
+  "index": 27,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd565b6157a5c3c6a30b7"
+  },
+  "title": "28. Final Word",
+  "index": 28,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcd56bb6157a5c3c6a30b8"
+  },
+  "title": "29. Course Updates - Bug Hunt & Code Cleanup",
+  "index": 29,
+  "course": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddc018c97f31404c7003b4"
+  },
+  "title": "31 - Dynamic Programming - Question #27 - Knight Probability In chessboard (Medium)",
+  "index": 31,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddc0ccc97f31404c7003bd"
+  },
+  "title": "32 - Backtracking - Question #28 - Sukodu Solver (Hard)",
+  "index": 32,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddc163c97f31404c7003c6"
+  },
+  "title": "33 - Interface Design - Question #29 - Monarchy",
+  "index": 33,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddc1bcc97f31404c7003cb"
+  },
+  "title": "34 - Tries - Question #30 - Implement Prefix Trie (Medium)",
+  "index": 34,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddc217c97f31404c7003d0"
+  },
+  "title": "35 - Appendix - Big O",
+  "index": 35,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de13b8bbb6de39509c5e8f"
+  },
+  "title": "37 - Appendix - Hash Tables",
+  "index": 37,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de13f0bbb6de39509c5e90"
+  },
+  "title": "36 - Appendix - Arrays",
+  "index": 36,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1484bbb6de39509c5e98"
+  },
+  "title": "38 - Appendix - Linked Lists",
+  "index": 38,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1511bbb6de39509c5ea1"
+  },
+  "title": "39 - Appendix - Stacks - Queues",
+  "index": 39,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1581bbb6de39509c5ea8"
+  },
+  "title": "40 - Appendix - Trees",
+  "index": 40,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de15fcbbb6de39509c5eb0"
+  },
+  "title": "41 - Appendix - Searching - BFS - DFS",
+  "index": 41,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1670bbb6de39509c5eb7"
+  },
+  "title": "42 - Appendix - Recursion",
+  "index": 42,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de16ddbbb6de39509c5ebe"
+  },
+  "title": "43 - Appendix - Sorting",
+  "index": 43,
+  "course": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1cc7bbb6de39509c5ecd"
+  },
+  "title": "1. Welcome to the course",
+  "index": 1,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1ccebbb6de39509c5ece"
+  },
+  "title": "2. Setting up the Project and the first Activities",
+  "index": 2,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1cd4bbb6de39509c5ecf"
+  },
+  "title": "3. Firebase Authentication - Register and Login",
+  "index": 3,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1cd9bbb6de39509c5ed0"
+  },
+  "title": "4. Google Firestore - Storing Your Data In The Cloud Database",
+  "index": 4,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1ce0bbb6de39509c5ed1"
+  },
+  "title": "5. Uploading Files To The Google Firebase Storage - Profile Screen and Dashboard",
+  "index": 5,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1ce7bbb6de39509c5ed2"
+  },
+  "title": "6. Developing the Adding and Displaying of Products in a Recyclerview",
+  "index": 6,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1cedbbb6de39509c5ed3"
+  },
+  "title": "7. Developing The Product Details Screen",
+  "index": 7,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1cf2bbb6de39509c5ed4"
+  },
+  "title": "8. Developing the Cart - Including Items, Cart Overview and Details",
+  "index": 8,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1cf8bbb6de39509c5ed5"
+  },
+  "title": "9. Allowing The User To Add Addresses",
+  "index": 9,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1cfebbb6de39509c5ed6"
+  },
+  "title": "10. Adding The Checkout Activity - Storing and Displaying of Firestore Data",
+  "index": 10,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de1d03bbb6de39509c5ed7"
+  },
+  "title": "11. Building The Orders Screen",
+  "index": 11,
+  "course": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df3eae6a95622af477b6b0"
+  },
+  "title": "Lesson 1-5",
+  "index": 1,
+  "course": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df3ebf6a95622af477b6b1"
+  },
+  "title": "Lesson 6-10",
+  "index": 2,
+  "course": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df3ec96a95622af477b6b2"
+  },
+  "title": "Lesson 11-15",
+  "index": 3,
+  "course": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df3edd6a95622af477b6b3"
+  },
+  "title": "Lesson 16-20",
+  "index": 4,
+  "course": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df43466a95622af477b6f1"
+  },
+  "title": "Lesson 21-25",
+  "index": 5,
+  "course": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df44356a95622af477b6f7"
+  },
+  "title": "Lesson 26-30",
+  "index": 6,
+  "course": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df45086a95622af477b6fd"
+  },
+  "title": "Lesson 31-35",
+  "index": 7,
+  "course": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df54d06a95622af477b768"
+  },
+  "title": "1. Course Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df54d56a95622af477b769"
+  },
+  "title": "2. NetfilterIptables Basics",
+  "index": 2,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df54db6a95622af477b76a"
+  },
+  "title": "3. The Iptables Command",
+  "index": 3,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df54e76a95622af477b76c"
+  },
+  "title": "4. Iptables Basic Matches",
+  "index": 4,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df54f26a95622af477b76e"
+  },
+  "title": "5. Iptables Advanced Matches",
+  "index": 5,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df54fe6a95622af477b770"
+  },
+  "title": "6. Advanced Firewall Configuration with Ipset",
+  "index": 6,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df55036a95622af477b771"
+  },
+  "title": "7. Iptables Targets",
+  "index": 7,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df550c6a95622af477b773"
+  },
+  "title": "8. NAT and Port Forwarding",
+  "index": 8,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df55126a95622af477b774"
+  },
+  "title": "9. User-defined Chains",
+  "index": 9,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df55176a95622af477b775"
+  },
+  "title": "10. NetfilterIptables Chain Traversal In Depth",
+  "index": 10,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df551c6a95622af477b776"
+  },
+  "title": "11. Firewall Automation using  Shell Scripts",
+  "index": 11,
+  "course": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493a0fdac4c4ad86514af"
+  },
+  "title": "01 Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493a5fdac4c4ad86514b0"
+  },
+  "title": "02 Flutter Basics [QUIZ APP]",
+  "index": 2,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493abfdac4c4ad86514b1"
+  },
+  "title": "03 Running Apps on Different Devices & Debugging Apps",
+  "index": 3,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493b0fdac4c4ad86514b2"
+  },
+  "title": "04 Widgets, Styling, Adding Logic - Building a Real App [PERSONAL EXPENSES APP]",
+  "index": 4,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493b8fdac4c4ad86514b3"
+  },
+  "title": "05 Responsive & Adaptive User Interfaces and Apps",
+  "index": 5,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493befdac4c4ad86514b4"
+  },
+  "title": "06 Widget & Flutter Internals - Deep Dive",
+  "index": 6,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493c4fdac4c4ad86514b5"
+  },
+  "title": "07 Navigation & Multiple Screens [MEALS APP]",
+  "index": 7,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493cafdac4c4ad86514b6"
+  },
+  "title": "08 State Management [SHOP APP]",
+  "index": 8,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493d1fdac4c4ad86514b7"
+  },
+  "title": "09 Working with User Input & Forms [SHOP APP]",
+  "index": 9,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493d7fdac4c4ad86514b8"
+  },
+  "title": "10 Sending Http Requests [SHOP APP]",
+  "index": 10,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493ddfdac4c4ad86514b9"
+  },
+  "title": "11 Adding User Authentication [SHOP APP]",
+  "index": 11,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493e2fdac4c4ad86514ba"
+  },
+  "title": "12 Adding Animations [SHOP APP]",
+  "index": 12,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493e8fdac4c4ad86514bb"
+  },
+  "title": "13 Using Native Device Features (Camera, Maps, Location, ...) [GREAT PLACES APP]",
+  "index": 13,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493f1fdac4c4ad86514bc"
+  },
+  "title": "14 Firebase, Image Upload, Push Notifications - Building a Chat App",
+  "index": 14,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493f7fdac4c4ad86514bd"
+  },
+  "title": "15 Running Native Swift, ObjectiveC, Java or Kotlin Code",
+  "index": 15,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e493fdfdac4c4ad86514be"
+  },
+  "title": "16 Publishing to the App Stores",
+  "index": 16,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e49408fdac4c4ad86514bf"
+  },
+  "title": "17 Roundup & Next Steps",
+  "index": 17,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e49411fdac4c4ad86514c0"
+  },
+  "title": "18 Flutter 2 Update",
+  "index": 18,
+  "course": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c3b78312010680f72170"
+  },
+  "title": "01 Course Intro & Setup",
+  "index": 1,
+  "course": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c3bd8312010680f72171"
+  },
+  "title": "02 Intro To OOP PHP",
+  "index": 2,
+  "course": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c3c18312010680f72172"
+  },
+  "title": "03 The Framework [Part 1] - The Core",
+  "index": 3,
+  "course": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c3c68312010680f72173"
+  },
+  "title": "04 The Framework [Part 2] - MVC Workflow",
+  "index": 4,
+  "course": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c3cb8312010680f72174"
+  },
+  "title": "05 The App [1] - Setup & User Authentication",
+  "index": 5,
+  "course": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c3d18312010680f72175"
+  },
+  "title": "06 The App [2] - Posts Functionality",
+  "index": 6,
+  "course": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c3d68312010680f72176"
+  },
+  "title": "07 App Deployment",
+  "index": 7,
+  "course": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc5563465c604481ea6f"
+  },
+  "title": "1. Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc5a63465c604481ea70"
+  },
+  "title": "2. History And Story Of Data",
+  "index": 2,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc6063465c604481ea71"
+  },
+  "title": "3. Databases + SQL Fundamentals",
+  "index": 3,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc6663465c604481ea72"
+  },
+  "title": "4. Environment Setup",
+  "index": 4,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc6b63465c604481ea73"
+  },
+  "title": "5. SQL Deep Dive",
+  "index": 5,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc7263465c604481ea74"
+  },
+  "title": "6. Advanced SQL",
+  "index": 6,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc7863465c604481ea75"
+  },
+  "title": "7. Database Management",
+  "index": 7,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc7e63465c604481ea76"
+  },
+  "title": "8. Solving The Mystery",
+  "index": 8,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc8563465c604481ea77"
+  },
+  "title": "9. Database Design",
+  "index": 9,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc8c63465c604481ea78"
+  },
+  "title": "10. Database Landscape, Performance and Security",
+  "index": 10,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc9363465c604481ea79"
+  },
+  "title": "11. Where To Go From Here",
+  "index": 11,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc9c63465c604481ea7a"
+  },
+  "title": "12. Bonus Data Engineering (And the role of Machine Learning)",
+  "index": 12,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bca563465c604481ea7b"
+  },
+  "title": "13. Bonus Redis",
+  "index": 13,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bcad63465c604481ea7c"
+  },
+  "title": "14. Extra Bits Databases In A Web App (with Node.js)",
+  "index": 14,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bcb563465c604481ea7d"
+  },
+  "title": "15. Extras",
+  "index": 15,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e91d440c4ad21f4cf1a06b"
+  },
+  "title": "12. Bonus Data Engineering (And the role of Machine Learning)",
+  "index": 12,
+  "course": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924d60c4ad21f4cf1a089"
+  },
+  "title": "1. How to Avoid Basic Words",
+  "index": 1,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924db0c4ad21f4cf1a08a"
+  },
+  "title": "2. How to Use Complex Words",
+  "index": 2,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924e30c4ad21f4cf1a08b"
+  },
+  "title": "3. How to Avoid Repeating the Same Words",
+  "index": 3,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924e80c4ad21f4cf1a08c"
+  },
+  "title": "4. How to Deal with Easily Confused Words",
+  "index": 4,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924ed0c4ad21f4cf1a08d"
+  },
+  "title": "5. How to Use Collocations",
+  "index": 5,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924f30c4ad21f4cf1a08e"
+  },
+  "title": "6. How to Use Linking Words",
+  "index": 6,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924f80c4ad21f4cf1a08f"
+  },
+  "title": "7. How to Use Comment Adverbs",
+  "index": 7,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e924fd0c4ad21f4cf1a090"
+  },
+  "title": "8. How to Use Organisational Nouns",
+  "index": 8,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e925030c4ad21f4cf1a091"
+  },
+  "title": "9. How to Spell Accurately",
+  "index": 9,
+  "course": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e3f78549810b4098e33"
+  },
+  "title": "01 Introduction",
+  "index": 1,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e4578549810b4098e34"
+  },
+  "title": "02 Next.js Fundamentals",
+  "index": 2,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e4978549810b4098e35"
+  },
+  "title": "03 Data Fetching",
+  "index": 3,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e4e78549810b4098e36"
+  },
+  "title": "04 Strapi Backend",
+  "index": 4,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e5378549810b4098e37"
+  },
+  "title": "05 Events Functionality - Part 1",
+  "index": 5,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e5778549810b4098e38"
+  },
+  "title": "06 Events Functionality - Part 2",
+  "index": 6,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e5d78549810b4098e39"
+  },
+  "title": "07 Authentication, JWT & HttpOnly Cookies",
+  "index": 7,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e6378549810b4098e3a"
+  },
+  "title": "08 Authorization & Access",
+  "index": 8,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e6878549810b4098e3b"
+  },
+  "title": "09 Extras & Deployment",
+  "index": 9,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e6d78549810b4098e3c"
+  },
+  "title": "10 Project 2 - DevSpace Static Markdown Blog",
+  "index": 10,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e7278549810b4098e3d"
+  },
+  "title": "11 Fetch, Parse & Display Markdown Posts",
+  "index": 11,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e7678549810b4098e3e"
+  },
+  "title": "12 Pagination & Category Pages",
+  "index": 12,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e95e7a78549810b4098e3f"
+  },
+  "title": "13 Search, Caching Posts & Deployment",
+  "index": 13,
+  "course": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96d8178549810b4098e91"
+  },
+  "title": "Introduction",
+  "index": 0,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96d8878549810b4098e92"
+  },
+  "title": "1 Form Validator  Intro Project",
+  "index": 1,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96d8e78549810b4098e93"
+  },
+  "title": "2 Movie Seat Booking  DOM & Local Storage",
+  "index": 2,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96d9478549810b4098e94"
+  },
+  "title": "3 Custom Video Player  HTML5 Video API",
+  "index": 3,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96d9978549810b4098e95"
+  },
+  "title": "4 Exchange Rate Calculator  Fetch & JSON Intro",
+  "index": 4,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96d9e78549810b4098e96"
+  },
+  "title": "5 DOM Array Methods  forEach, map, filter, sort, reduce",
+  "index": 5,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96da378549810b4098e97"
+  },
+  "title": "6 Menu Slider & Modal  DOM & CSS",
+  "index": 6,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96df678549810b4098e98"
+  },
+  "title": "7 Hangman Game  DOM, SVG, Events",
+  "index": 7,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96dfe78549810b4098e99"
+  },
+  "title": "8 Meal Finder  Fetch & MealDB API",
+  "index": 8,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e0778549810b4098e9a"
+  },
+  "title": "9 Expense Tracker  Array Methods & Local Storage",
+  "index": 9,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e1378549810b4098e9b"
+  },
+  "title": "10 Music Player  HTML5 Audio API",
+  "index": 10,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e1c78549810b4098e9c"
+  },
+  "title": "11 Infinite Scroll Posts  Fetch, AsyncAwait, CSS Loader",
+  "index": 11,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e2678549810b4098e9d"
+  },
+  "title": "12 Typing Game  DOM, Intervals, Events",
+  "index": 12,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e2e78549810b4098e9e"
+  },
+  "title": "13 Speech Text Reader  Speech Synthesis",
+  "index": 13,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e3978549810b4098e9f"
+  },
+  "title": "14 Memory Cards  CSS Effects, Local Storage",
+  "index": 14,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e4078549810b4098ea0"
+  },
+  "title": "15 Lyrics Search App  Fetch, Pagination, Lyrics.ovh API",
+  "index": 15,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e4778549810b4098ea1"
+  },
+  "title": "16 Relaxer App  CSS Animations, setTimeout",
+  "index": 16,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e4f78549810b4098ea2"
+  },
+  "title": "17 Breakout Game  HTML5 Canvas API",
+  "index": 17,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e6278549810b4098ea3"
+  },
+  "title": "18 New Year Countdown  DOM, Date & Time",
+  "index": 18,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e6a78549810b4098ea4"
+  },
+  "title": "19 Sortable List  Drag & Drop API",
+  "index": 19,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e96e7278549810b4098ea5"
+  },
+  "title": "20 Speak Number Guessing Game  Speech Recognition",
+  "index": 20,
+  "course": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eaf97bbeec9f32dcac1013"
+  },
+  "title": "Introduction",
+  "index": 0,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eaf9a1beec9f32dcac1014"
+  },
+  "title": "Day 1 - Expanding Cards",
+  "index": 1,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa4abeec9f32dcac1016"
+  },
+  "title": "Day 2 - Progress Steps",
+  "index": 2,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa58beec9f32dcac1017"
+  },
+  "title": "Day 3 - Rotating Navigation",
+  "index": 3,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa63beec9f32dcac1018"
+  },
+  "title": "Day 4 - Hidden Search Widget",
+  "index": 4,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa6abeec9f32dcac1019"
+  },
+  "title": "Day 5 - Blurry Loading",
+  "index": 5,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa76beec9f32dcac101a"
+  },
+  "title": "Day 6 - Scroll Animation",
+  "index": 6,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa84beec9f32dcac101b"
+  },
+  "title": "Day 7 - Split Landing Page",
+  "index": 7,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa8cbeec9f32dcac101c"
+  },
+  "title": "Day 8 - Form Wave Animation",
+  "index": 8,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa95beec9f32dcac101d"
+  },
+  "title": "Day 9 - Sound Board",
+  "index": 9,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafa9dbeec9f32dcac101e"
+  },
+  "title": "Day 10 - Dad Jokes",
+  "index": 10,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafaa4beec9f32dcac101f"
+  },
+  "title": "Day 11 - Event KeyCodes",
+  "index": 11,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafaa9beec9f32dcac1020"
+  },
+  "title": "Day 12 - FAQ Collapse",
+  "index": 12,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafab1beec9f32dcac1021"
+  },
+  "title": "Day 13 - Random Choice Picker",
+  "index": 13,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafab7beec9f32dcac1022"
+  },
+  "title": "Day 14 - Animated Navigation",
+  "index": 14,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eafac1beec9f32dcac1023"
+  },
+  "title": "Day 15 - Incrementing Counter",
+  "index": 15,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb0fdfbeec9f32dcac1055"
+  },
+  "title": "Day 16 - Drink Water",
+  "index": 16,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb0fe9beec9f32dcac1056"
+  },
+  "title": "Day 17 - Movie App",
+  "index": 17,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb0ff1beec9f32dcac1057"
+  },
+  "title": "Day 18 - Background Slider",
+  "index": 18,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb0ffabeec9f32dcac1058"
+  },
+  "title": "Day 19 - Theme Clock",
+  "index": 19,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb1004beec9f32dcac1059"
+  },
+  "title": "Day 20 - Button Ripple Effect",
+  "index": 20,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb100fbeec9f32dcac105a"
+  },
+  "title": "Day 21 - Drag N Drop",
+  "index": 21,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb1018beec9f32dcac105b"
+  },
+  "title": "Day 22 - Drawing App",
+  "index": 22,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb101fbeec9f32dcac105c"
+  },
+  "title": "Day 23 - Kinetic CSS Loader",
+  "index": 23,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb1028beec9f32dcac105d"
+  },
+  "title": "Day 24 - Content Placeholder",
+  "index": 24,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb1030beec9f32dcac105e"
+  },
+  "title": "Day 25 - Sticky Navbar",
+  "index": 25,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb1054beec9f32dcac105f"
+  },
+  "title": "Day 26 - Double Vertical Slider",
+  "index": 26,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb1072beec9f32dcac1061"
+  },
+  "title": "Day 27 - Toast Notification",
+  "index": 27,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb107abeec9f32dcac1062"
+  },
+  "title": "Day 28 - Github Profiles",
+  "index": 28,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb1081beec9f32dcac1063"
+  },
+  "title": "Day 29 - Double Heart Click",
+  "index": 29,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb108dbeec9f32dcac1064"
+  },
+  "title": "Day 30 - Auto Text Effect",
+  "index": 30,
+  "course": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "__v": 0
+}]

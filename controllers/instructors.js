@@ -67,27 +67,19 @@ exports.getInstructor = asyncHandler(async(req, res, next) => {
     })
 })
 
-
-// @desc      Get instructors by categoryId
-// @route     Get /api/v1/instructors/:categoryId
-// @access    Public
-exports.getInstructorsByCategoryId = asyncHandler(async(req, res, next) => {
-    const instructors = await Instructor.find({ categoryId: req.params.categoryId });
-    await res.status(200).json({
-        success: true,
-        data: instructors
-    })
-})
-
 // @desc      Get all instructors
 // @route     Get /api/v1/instructors/:categoryId
 // @access    Public
-exports.getAllInstructors = asyncHandler(async(req, res, next) => {
-    const instructors = await Instructor.find({});
-    await res.status(200).json({
-        success: true,
-        data: instructors
-    })
+exports.getInstructors = asyncHandler(async(req, res, next) => {
+    if(req.params.categoryId){
+        const instructors = await Instructor.find({ categoryId: req.params.categoryId });
+        await res.status(200).json({
+            success: true,
+            data: instructors
+        })
+    } else {
+        await res.status(200).json(res.advancedResults);
+    }
 })
 
 // @desc      Update category photo

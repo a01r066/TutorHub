@@ -1,0 +1,792 @@
+[{
+  "_id": {
+    "$oid": "60ed199df07a9465f410b98b"
+  },
+  "name": "Brad Traversy",
+  "profession": "Full Stack Web Developer & Instructor at Traversy Media",
+  "highlight": "Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses.",
+  "students": 297823,
+  "reviews": 115327,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60edb126628a604754b34bca"
+      },
+      "courseId": {
+        "$oid": "60c5ddb2e7d4ca58fc866764"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60edb12b628a604754b34bcc"
+      },
+      "courseId": {
+        "$oid": "60d33e6c3f2cb211d0ec94e0"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60edb12e628a604754b34bcf"
+      },
+      "courseId": {
+        "$oid": "60d490eac542ec4e147e636b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60edb15a628a604754b34bd5"
+      },
+      "courseId": {
+        "$oid": "60e95df578549810b4098e32"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60edb1a9628a604754b34bda"
+      },
+      "courseId": {
+        "$oid": "60e96d4178549810b4098e90"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60edb1ab628a604754b34be0"
+      },
+      "courseId": {
+        "$oid": "60eaf90ebeec9f32dcac1012"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed199df07a9465f410b98b.jpg",
+  "rating": 4.8
+},{
+  "_id": {
+    "$oid": "60ed1a1df07a9465f410b98c"
+  },
+  "name": "Maximilian Schwarzmuller",
+  "profession": "Professional Web Developer and Instructor",
+  "highlight": "Experience as (Web) Developer\n\nStarting out at the age of 13 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only languages. This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion burningly alive.\n\nStarting web development on the backend (PHP with Laravel, NodeJS, Python) I also became more and more of a frontend developer using modern frameworks like React, Angular or VueJS in a lot of projects. I love both worlds nowadays!\n\nAs a self-taught developer I had the chance to broaden my horizon by studying Business Administration where I hold a Master's degree. That enabled me to work in a major strategy consultancy as well as a bank. While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and skills.\n\nExperience as Instructor\n\nAs a self-taught professional I really know the hard parts and the difficult topics when learning new or improving on already-known languages. This background and experience enables me to focus on the most relevant key concepts and topics. My track record of many 5-star rated courses, more than 1,000,000 students on Udemy as well as a successful YouTube channel is the best proof for that.\n\nWhether working as development instructor or teaching Business Administration I always received great feedback. The most rewarding experience is to see how people find new, better jobs, build awesome web applications, acquire amazing projects or simply enjoy their hobby with the help of my content.\n\nTogether with Manuel Lorenz, I founded Academind to offer the best possible learning experience to our more than 1,000,000 students.",
+  "students": 1517143,
+  "reviews": 631085,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60edb123628a604754b34bc9"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60edb14e628a604754b34bd1"
+      },
+      "courseId": {
+        "$oid": "60da0dfcb43492099c63ffe0"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed1a1df07a9465f410b98c.jpg",
+  "rating": 4.7
+},{
+  "_id": {
+    "$oid": "60ed1a93f07a9465f410b98d"
+  },
+  "name": "Muslim Helalee",
+  "profession": "Full Stack Web Developer and Instructor",
+  "highlight": "Hi Everyone!\n\nBefore reading about me, I promise you that my courses will be well worth your time and money. I know how frustrating it can be when you are trying to learn something new and all you get are pieces of information and you put a lot of time and money, but you do not get the results that you want. I have made sure in my courses that when you fly from A, you definitely land in Z. No hassles, no going in circles. Just moving forward.\n\nI am super excited to be here among the most well-known and vibrant community on the planet. Udemy is all about knowledge and how to utilize in an efficient manner.\n\nWell, I don't come from a Computer Science or Software Engineering kind of background. I have studied Mechanical Engineering. But, due to my passion and love for coding, I got into programming right after I graduated.\n\nI come from a very poor family and country and it is very hard to find quality education in Afghanistan especially in the CS/SE field. You can imagine how hard it has been to get to where I am today. After I came back to my country, I started teaching Web Development with the goal of helping those who love to code, who love to create something amazing but are unable because of their circumstances.\n\nAfter almost 5 years of coding and teaching, I thought it was time to up my game, and step into big leagues to target international students, and there is no better platform to start and grow with than Udemy.\n\nI have published six volumes of Microsoft Office Tutorial Books locally in two provinces of Afghanistan. I believe in life-long learning and I am here to be a part of it with Udemy globally.\n\nI really appreciate you taking the time to read this and deciding whether or not to choose my courses. Your support will help me create more courses internationally and extend my reach in Afghanistan as well.\n\nThank you so much\n\n:)\n\nMuslim Helalee\n\nLove from Afghanistan",
+  "students": 3410,
+  "reviews": 538,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8d6104445e4d444506c1"
+      },
+      "courseId": {
+        "$oid": "60d74695c2c0b0170001c505"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed1a93f07a9465f410b98d.jpg",
+  "rating": 4.6
+},{
+  "_id": {
+    "$oid": "60ed1af6f07a9465f410b98e"
+  },
+  "name": "Ben Hong",
+  "profession": "Netlify",
+  "highlight": "Ben Hong is a Vue.js Core Team member and a Senior Developer Experience (DX) Engineer at Netlify. He is also a developer / psychologist / educator hybrid who is passionate about creating products that help to empower people with new skills and knowledge regardless of their background.",
+  "students": 12502,
+  "reviews": 2540,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8d6304445e4d444506c2"
+      },
+      "courseId": {
+        "$oid": "60d79752c2c0b0170001c762"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed1af6f07a9465f410b98e.jfif",
+  "rating": 4.6
+},{
+  "_id": {
+    "$oid": "60ed8432d87d5733d0033742"
+  },
+  "name": "Ray Villalobos",
+  "profession": "Full-Stack Developer",
+  "highlight": "I published more than 60 courses focused on front-end development topics like JavaScript, Node.js, Vue.js, React, and Sass, plus frameworks like Bootstrap. My goal is to help people understand complex subject through real-world exercises and projects. Look for me @planetoftheweb or through my blog at http://raybo.org.",
+  "students": 23505,
+  "rating": 4.6,
+  "reviews": 2355,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8d0e04445e4d444506bf"
+      },
+      "courseId": {
+        "$oid": "60c5e091e7d4ca58fc86677f"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed8432d87d5733d0033742.jfif"
+},{
+  "_id": {
+    "$oid": "60ed84b4d87d5733d0033743"
+  },
+  "name": "Chad Darby",
+  "profession": "Popular Java Spring Instructor",
+  "highlight": "Chád (shod) Darby is an author, instructor and speaker in the Java development world. \n\nChád is a contributing author to several Java books, including  Professional Java E-Commerce (Wrox Press), Beginning Java Networking  (Wrox Press), and XML and Web Services Unleashed (Sams Publishing). \n\nChád has Java certifications from Oracle and IBM. \n\nHe holds a B.S. in Computer Science from Carnegie Mellon University. ",
+  "students": 448148,
+  "rating": 4.6,
+  "reviews": 84138,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8d4904445e4d444506c0"
+      },
+      "courseId": {
+        "$oid": "60c5e4cbe7d4ca58fc8667ac"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed84b4d87d5733d0033743.jpg"
+},{
+  "_id": {
+    "$oid": "60ed85cad87d5733d0033744"
+  },
+  "name": "Brent Arnold",
+  "profession": "Software engineer",
+  "highlight": "Brent Arnold is a software engineer with over 15 years of web and mobile development experience. He has been teaching online for over 10 years with multiple published courses",
+  "students": 363668,
+  "rating": 4.6,
+  "reviews": 61125,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8d7f04445e4d444506c3"
+      },
+      "courseId": {
+        "$oid": "60d9fe39b43492099c63ff5f"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed85cad87d5733d0033744.jpg"
+},{
+  "_id": {
+    "$oid": "60ed86bed87d5733d0033745"
+  },
+  "name": "Stefan Jovanovic",
+  "profession": "Android Developer/Designer",
+  "highlight": "I’m an Android Developer/Designer and technology enthusiast. Love working on a new and exciting projects, sharing my knowledge with  others, and always willing to learn more. I believe that permanent  education is the key to success.  I've been working as a developer/designer for 4 years so far.\n\nHave a lots of projects on my mind, and I will be creating many useful courses in the future, hope to hear from you as you enroll in some of my courses!",
+  "students": 3972,
+  "rating": 4.7,
+  "reviews": 1016,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8d9304445e4d444506c4"
+      },
+      "courseId": {
+        "$oid": "60dcd2e2b6157a5c3c6a309c"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed86bed87d5733d0033745.jpg"
+},{
+  "_id": {
+    "$oid": "60ed8747d87d5733d0033746"
+  },
+  "name": "Denis Panjuta",
+  "profession": "Teaches over 200,000 students to code",
+  "highlight": "Hi. I'm Denis. I have a degree in engineering from the University for Applied Science Konstanz in Germany and discovered my love for programming there.\n\nCurrently, over 200,000 students learn from my courses. This gives me a lot of energy to create new courses with the highest quality possible. My goal is to make learning to code accessible for everyone, as I am convinced, that IT is THE FUTURE! \n\nSo join my courses and learn to create apps, games, websites, or any other type of application. The possibilities are limitless.",
+  "students": 229801,
+  "rating": 4.7,
+  "reviews": 43146,
+  "categoryId": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8da704445e4d444506c5"
+      },
+      "courseId": {
+        "$oid": "60de1c73bbb6de39509c5ecc"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ed8747d87d5733d0033746.jpg"
+},{
+  "_id": {
+    "$oid": "60ed88f9d87d5733d0033747"
+  },
+  "name": "Lynda",
+  "profession": "LinkedIn Learning",
+  "highlight": "LinkedIn Learning",
+  "students": 470474,
+  "rating": 4.7,
+  "reviews": 47007,
+  "categoryId": {
+    "$oid": "60c5aa45ef7ba027a49abdf4"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed88f9d87d5733d0033747.jfif"
+},{
+  "_id": {
+    "$oid": "60ed8963d87d5733d0033748"
+  },
+  "name": "Dennis Taylor",
+  "profession": "Principal at Taylor Associates",
+  "highlight": "Leading Excel trainer with more than 200 hours (60+ courses) of online Excel training available on LinkedIn Learning. Presenter of in-person Excel classes and seminars in over 40 states and Canada.",
+  "students": 145113,
+  "rating": 4.7,
+  "reviews": 11410,
+  "categoryId": {
+    "$oid": "60c5aa63ef7ba027a49abdf5"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed8963d87d5733d0033748.jfif"
+},{
+  "_id": {
+    "$oid": "60ed99339e0b1a20949a870c"
+  },
+  "name": "Marc Heuse",
+  "profession": "Consultant and security researcher",
+  "highlight": "Marc “van Hauser” Heuse started to be interested in IT security in 1993. He founded one of the world's oldest security research communities—The Hacker's Choice (www.thc.org)—and is the author of several well-known security tools such as hydra, amap, thc-ipv6, THC-SCAN, SuSE firewall, and many others. From 1998 to 2007 he worked for SuSE, hardened the Linux distribution, and built-up the security team. Today he is an independent consultant and security researcher. Just for fun he records training courses on how to secure Linux servers.",
+  "students": 123451,
+  "rating": 4.7,
+  "reviews": 13512,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed99339e0b1a20949a870c.jpg"
+},{
+  "_id": {
+    "$oid": "60ed9a0a9e0b1a20949a870d"
+  },
+  "name": "Elton Stoneman",
+  "profession": "Consultant & Devops",
+  "highlight": "Elton is a 10-time Microsoft MVP, author, trainer and speaker. He spent most of his career as a consultant working in Microsoft technologies, architecting and delivering complex solutions for industry leaders. He has delivered APIs on Azure serving millions of clients daily, Big Data solutions processing billions of events weekly, and cutting-edge solutions powered by containers. Elton's experience with .NET goes from .NET 1.0 running on Windows Server, right up to .NET Core running on Linux. When Docker emerged as the best way to run applications, Elton made containers his focus, and now he works for Docker. He travels the world helping people understand what containers, Kubernetes and DevOps can do for them and their software delivery.",
+  "students": 123412,
+  "rating": 4.7,
+  "reviews": 12341,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed9a0a9e0b1a20949a870d.jpg"
+},{
+  "_id": {
+    "$oid": "60ed9a6c9e0b1a20949a870e"
+  },
+  "name": "Ross Bagurdes",
+  "profession": "Teaching at Madison College ",
+  "highlight": "Ross has had a diverse career. He has a Structural Engineering degree from Milwaukee School of Engineering, but gave up the career shortly after graduating from college. Beginning in 1997, Ross began officially working in IT, implementing and supporting a paperless work order system for a Natural Gas Utility in Illinois. Since then, Ross has spent his years teaching and managing data networks. Ross spent 7 years at University of Wisconsin Hospitals and Clinics, supporting and managing the large enterprise network. He now has returned to teaching at Madison College in Madison, Wisconsin.",
+  "students": 123412,
+  "rating": 4.7,
+  "reviews": 12341,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed9a6c9e0b1a20949a870e.jpg"
+},{
+  "_id": {
+    "$oid": "60ed9b079e0b1a20949a870f"
+  },
+  "name": "Neil Morrissey",
+  "profession": "Developer and Architect",
+  "highlight": "Neil has worked on everything from early mobile .NET compact framework apps to modern Azure based web apps during his years in IT. As a developer and architect, he has focused on .NET and JavaScript application development, security, and hosting across a variety of Microsoft platforms, including ASP.NET, SharePoint, and Dynamics CRM. Neil has several Microsoft Certifications, including MCPD, MCSA, and MCSD.",
+  "students": 13242,
+  "rating": 4.7,
+  "reviews": 951,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed9b079e0b1a20949a870f.jpg"
+},{
+  "_id": {
+    "$oid": "60ed9bfd9e0b1a20949a8710"
+  },
+  "name": "Robert Horvick",
+  "profession": "Software Developer",
+  "highlight": "Robert spent nearly 10 years at Microsoft creating software that made it easier for everyone else to write software. Most recently Robert worked on Team Foundation Server on the Administration and Version Control teams. Currently Robert can be found working in the utilities sector on Smart Grid technologies. Robert fled the Minnesota winters and currently lives near Raleigh, NC with his wife Susan and four children, Cecilia, Brian, Ben and Evelyn. When not tackling technical challenges he enjoys playing the guitar and hanging out with his family.",
+  "students": 510913,
+  "rating": 4.4,
+  "reviews": 5109,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed9bfd9e0b1a20949a8710.jpg"
+},{
+  "_id": {
+    "$oid": "60ed9d669e0b1a20949a8711"
+  },
+  "name": "Gini von Courter",
+  "profession": "Instructor empowering people and teams",
+  "highlight": "Training design and delivery for: Microsoft SharePoint, Dynamics 365 and the Power Platform (Power BI, PowerApps, and Power Automate), Outlook, Word, Teams, and a few other apps.",
+  "students": 123413,
+  "rating": 4.5,
+  "reviews": 15121,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed9d669e0b1a20949a8711.jfif"
+},{
+  "_id": {
+    "$oid": "60ed9dde9e0b1a20949a8712"
+  },
+  "name": "Scott Allen",
+  "profession": "Software Development",
+  "highlight": "Scott has worked on everything from 8-bit embedded devices to large scale web sites during his 15+ years in commercial software development. Since 2001, Scott has focused on server-side and web technologies, like ASP.NET, ASP.NET AJAX, Windows Workflow, Silverlight, and LINQ. Scott is also a speaker at national conferences like VSLive!, as well as code camps and user groups near his hometown of Hagerstown, MD. Scott has been recognized as a Microsoft MVP since 2005, and has written or co-authored several books on Microsoft technologies. Scott founded the site OdeToCode.com in 2004, and joined Pluralsight in 2007.",
+  "students": 134123,
+  "rating": 4.6,
+  "reviews": 12313,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [],
+  "__v": 0,
+  "photoURL": "photo_60ed9dde9e0b1a20949a8712.png"
+},{
+  "_id": {
+    "$oid": "60ee83a904445e4d4445069d"
+  },
+  "name": "Dmitri Nesteruk",
+  "profession": "Software/Hardware Engineering • Quant Finance • Algotrading",
+  "highlight": "Dmitri is a quant, developer, book author and course author. His interests lie in software development and integration practices in the areas of computation, quantitative finance and algorithmic trading. His technological interests include C# and C++ programming as well high-performance computing using technologies such as CUDA and FPGAs. He has been a C# MVP since 2009. ",
+  "students": 157661,
+  "rating": 4.5,
+  "reviews": 29850,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee83e104445e4d4445069e"
+      },
+      "courseId": {
+        "$oid": "60d78be9c2c0b0170001c6f9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60ee847b04445e4d444506a2"
+      },
+      "courseId": {
+        "$oid": "60db3aabc5d1bf40fc9a8379"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee83a904445e4d4445069d.jpg"
+},{
+  "_id": {
+    "$oid": "60ee843b04445e4d4445069f"
+  },
+  "name": "Charlie Chiarelli",
+  "profession": "Experienced Online Educator",
+  "highlight": "Hi, my name is Charlie Chiarelli. I'll be your teacher for this course. I will spend as much time as necessary to help you do the best you can. But, for you to succeed you must be willing to work .\n\nI  am a retired High school Computer Science and Mathematics Teacher from Canada. I taught for  35 years,  I have a BMath degree from the University of Waterloo.\n\nI was a frequent speaker at educational conferences (ECOO)  and seminars . Most recently my talks focused on  E-Learning and the future of education (Flipping the Classroom).\n\nI was the school webmaster and served on a number of school board committee , recently advising my school board (Hamilton Wentworth Catholic District School Board)  on its online learning direction. I was also the contest coordinator for the Annual Programming Contest for the past 15 years.\n\nFor the last 7 years before I retired I was in the unique position of teaching most of my computer science  classes entirely online using the D2L LMS. Because of low enrollment  and lack of qualified computer science teachers I became the \"board\" teacher. So my virtual class was made up of students from various schools in the region.\n\nI am not a brilliant software engineer trying to teach programming. I am a high school computer science teacher that has taught teenagers for over 35 years. So I think my perspective and sensibilities are quite different than the typical Udemy instructor. I feel this gives me a greater appreciation for what beginners need to learn and how it should be presented. \n\nThe next big blue-collar job category is already here—and it’s programming. What if we regarded code not as a high-stakes, sexy affair, but the equivalent of skilled work at a manufacturing plant? I believe we should spend less time urging kids to do expensive four-year computer-­science degrees and instead introduce more code at the vocational level in high school and  community colleges. Mid career people can learn coding online at sites like Udemy. I put forth the belief that  we should focus less on the wunderkinds and more on the average individual.\n\nI hope you agree and find my courses rewarding. ",
+  "students": 9723,
+  "rating": 4.6,
+  "reviews": 1731,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee846104445e4d444506a0"
+      },
+      "courseId": {
+        "$oid": "60db309b6a338b4e18b99b4b"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee843b04445e4d4445069f.jpg"
+},{
+  "_id": {
+    "$oid": "60ee84e804445e4d444506a3"
+  },
+  "name": "Andrei Neagoie",
+  "profession": "Senior Software Developer / Founder of zerotomastery.io",
+  "highlight": "Andrei is the instructor of some of the highest rated programming and technical courses online and is the founder of ZTM academy. His graduates have moved on to work for some of the biggest tech companies around the world like Apple, Google, Tesla, Amazon, JP Morgan, IBM, UNIQLO etc... He has been working as a senior software developer in Silicon Valley and Toronto for many years, and is now taking all that he has learned, to teach programming skills and to help you discover the amazing career opportunities that being a developer allows in life. \n\nHaving been a self taught programmer, he understands that there is an overwhelming number of online courses, tutorials and books that are overly verbose and inadequate at teaching proper skills. Most people feel paralyzed and don't know where to start when learning a complex subject matter, or even worse, most people don't have $20,000 to spend on a coding bootcamp. Programming skills should be affordable and open to all. An education material should teach real life skills that are current and they should not waste a student's valuable time.  Having learned important lessons from working for Fortune 500 companies, tech startups, to even founding his own business, he is now dedicating 100% of his time to teaching others valuable software development skills in order to take control of their life and work in an exciting industry with infinite possibilities. \n\nAndrei promises you that there are no other courses out there as comprehensive and as well explained. He believes that in order to learn anything of value, you need to start with the foundation and develop the roots of the tree. Only from there will you be able to learn concepts and specific skills(leaves) that connect to the foundation. Learning becomes exponential when structured in this way. \n\nTaking his experience in educational psychology and coding, Andrei's courses will take you on an understanding of complex subjects that you never thought would be possible.  \n\nSee you inside the courses!",
+  "students": 529914,
+  "rating": 4.6,
+  "reviews": 149620,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee850f04445e4d444506a4"
+      },
+      "courseId": {
+        "$oid": "60dc779a6a338b4e18b99d4e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60ee868904445e4d444506aa"
+      },
+      "courseId": {
+        "$oid": "60e5bc0963465c604481ea6e"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee84e804445e4d444506a3.jpg"
+},{
+  "_id": {
+    "$oid": "60ee856b04445e4d444506a5"
+  },
+  "name": "Mosh Hamedani",
+  "profession": "Passionate Software Engineer and Best-selling Author",
+  "highlight": "Hi! My name is Mosh (Moshfegh) Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses.\n\nMy goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS.",
+  "students": 532580,
+  "rating": 4.6,
+  "reviews": 222528,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee858e04445e4d444506a6"
+      },
+      "courseId": {
+        "$oid": "60dcc880b6157a5c3c6a303d"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee856b04445e4d444506a5.jpg"
+},{
+  "_id": {
+    "$oid": "60ee864804445e4d444506a7"
+  },
+  "name": "Andrei Dumitrescu",
+  "profession": "DevOps Engineer and Professional Trainer",
+  "highlight": "I've been a Network and Software Engineer for over 15 years, the typical profile of a DevOps Engineer.\n\nI've co-founded Crystal Mind Academy, a Cisco Academy and professional training center in Romania, that focuses on teaching cutting-edge technologies to students.\n\nI have contributed to education in the areas of programming, information security, and operating systems. During the last 15 years, more than 50,000 thousand students have participated in in-person or online training programs at Crystal Mind Academy.\n\nI have developed documentation, labs, and case studies for many training programs such as Cisco CCNA, CCNA Security, CCNP, Linux Administration, Information Security, Python Programming, Network Automation with Python or Blockchain Programming (Ethereum/Solidity) which have been successfully attended by thousands over the years.",
+  "students": 37041,
+  "rating": 4.6,
+  "reviews": 5547,
+  "categoryId": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee866104445e4d444506a8"
+      },
+      "courseId": {
+        "$oid": "60df548f6a95622af477b767"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee864804445e4d444506a7.jpg"
+},{
+  "_id": {
+    "$oid": "60ee871f04445e4d444506ab"
+  },
+  "name": "Le Duc Loi",
+  "profession": "Graphic Design",
+  "highlight": "Giảng viên Lê Đức Lợi - giảng viên chuyên ngành Graphic Design tại FPT Arena từ năm 2007.\n\n- Anh có hơn 15 năm làm việc trong lĩnh vực thiết kế đồ họa tại nhiều công ty thiết kế và quảng cáo với các vị trí như trưởng phòng thiết kế, giám đốc mỹ thuật, giám đốc điều hành công ty quảng cáo.\n\n- Đào tạo, hướng dẫn cho hàng nghìn sinh viên trong suốt quá trình giảng dạy, hỗ trợ, giúp đỡ các bạn hoàn thành chương trình học cũng như có công việc làm tốt.",
+  "students": 3487,
+  "rating": 5,
+  "reviews": 106,
+  "categoryId": {
+    "$oid": "60c5aa96ef7ba027a49abdf7"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee873904445e4d444506ac"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee871f04445e4d444506ab.jfif"
+},{
+  "_id": {
+    "$oid": "60ee87af04445e4d444506ad"
+  },
+  "name": "Nestor Kiourtzidis",
+  "profession": "English language teacher",
+  "highlight": "I've been a freelance English language teacher, writer, e-learning innovator and entrepreneur for over 12 years. I have a Bachelor's degree from University College London as well as TEFL (Teaching English as a Foreign Language). I've co-founded one of the most popular websites on the internet for English language teachers and schools.",
+  "students": 14693,
+  "rating": 4.4,
+  "reviews": 2097,
+  "categoryId": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee87d704445e4d444506ae"
+      },
+      "courseId": {
+        "$oid": "60ccee31f0570324443d9efa"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee87af04445e4d444506ad.jpg"
+},{
+  "_id": {
+    "$oid": "60ee882804445e4d444506af"
+  },
+  "name": "For Your English",
+  "profession": "English Language Teacher",
+  "highlight": "Hey! \n\nI'm Kallan from For Your English, here to help with everything grammar, vocabulary, conversation and exam prep related, like with the IELTS and TOEFL.                                           \n\n(For Your English on Instagram, YouTube, and Facebook)\n\nAfter studying here, watch For Your English on social media to have fun learning English by listening to music, watching the news together, or chatting during the podcast.\n\nAnd if you enjoy live videos, to answer questions or practice what you're learning, For Your English is live several times a week!\n\nTalk to you soon and message with any English questions,\n\nKallan",
+  "students": 42840,
+  "rating": 4.5,
+  "reviews": 6237,
+  "categoryId": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee884404445e4d444506b0"
+      },
+      "courseId": {
+        "$oid": "60d3829d3f2cb211d0ec95a6"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee882804445e4d444506af.jpg"
+},{
+  "_id": {
+    "$oid": "60ee890804445e4d444506b1"
+  },
+  "name": "EngVid",
+  "profession": "Free English Video Lessons",
+  "highlight": "Learning a different language can be hard, but it can also be a fun and rewarding experience. Although I am a native English speaker, I can relate to students because I had to learn French when I was younger. When I first started learning French, it was a real challenge, especially pronunciation. I was so embarrassed to speak and I would never put my hand up in class because I was scared of making mistakes. Finally, I had a great teacher who taught me that making mistakes and learning from them is the best way to learn a language.",
+  "students": 134511,
+  "rating": 4.5,
+  "reviews": 12341,
+  "categoryId": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee892804445e4d444506b2"
+      },
+      "courseId": {
+        "$oid": "60d760dfc2c0b0170001c63a"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee890804445e4d444506b1.png"
+},{
+  "_id": {
+    "$oid": "60ee89d004445e4d444506b3"
+  },
+  "name": "Samantha Bennett",
+  "profession": "Keynote Speaker * Bestselling Author *",
+  "highlight": "Seth Godin said, \"Like Steve Pressfield’s three breakthrough books, Sam Bennett hears you, sees you, knows you, is you. She has been in your shoes, felt your fear and been as stuck as you have. In an astonishing act of generosity, she’s shared all that in this magnificent book....please, give this one a chance. It just might change your life.\"\n\nSam's been using her innovative interactive strategies for helping Highly Creative People focus and move forward on their goals since 1999, and her results are astonishing. From her highly engaged email list to her sold-out live events, Sam's searing insights, practical tips and hilarious sense of humor have turned on the light of inspiration for creatives and non-creatives alike.",
+  "students": 134123,
+  "rating": 4.5,
+  "reviews": 13123,
+  "categoryId": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8a0004445e4d444506b4"
+      },
+      "courseId": {
+        "$oid": "60d7672dc2c0b0170001c698"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee89d004445e4d444506b3.jfif"
+},{
+  "_id": {
+    "$oid": "60ee8a5904445e4d444506b5"
+  },
+  "name": "The IELTS Teacher",
+  "profession": "The Web's #1 IELTS Skype Tuition Site",
+  "highlight": "The IELTS Teacher is an online IELTS tutoring service run by Matt Rainsbury, a British native with many years of English Language and IELTS teaching experience.\n\nMatt has a first class Master's Degree in English Literature and has been teaching English as a foreign language since 2008. Before teaching online, Matt had helped hundreds of students around the world to achieve their IELTS goals.\n\nIn 2013, with the aim of offering IELTS preparation to those who could not reach a native-speaker teacher, Matt created The IELTS Teacher. The IELTS Teacher is a website whereby students can book Skype and Zoom based IELTS lessons with experienced and qualified native-speaker teachers. Matt and his teachers have since worked one-to-one with thousands of students who had been struggling to achieve the score they needed, helping them to finally realise their goals.\n\nMatt's IELTS Udemy courses have been created by bringing together all of his knowledge and experience of both the IELTS exam itself and teaching IELTS to students. These are comprehensive courses which take the tips, techniques and skills which have been most effective at helping Matt's students to achieve their IELTS target scores. They are some of the most popular and well-respected IELTS courses.",
+  "students": 51413,
+  "rating": 4.8,
+  "reviews": 17260,
+  "categoryId": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8a7e04445e4d444506b6"
+      },
+      "courseId": {
+        "$oid": "60d8b8b25374d2603c0d3538"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee8a5904445e4d444506b5.jpg"
+},{
+  "_id": {
+    "$oid": "60ee8b2004445e4d444506b7"
+  },
+  "name": "Prepare for IELTS",
+  "profession": "IELTS Specialists and Former IELTS Examiners",
+  "highlight": "At Prepare for IELTS all our instructors have over 15 years' experience preparing students for the General and Academic IELTS exam. We are native English speakers and former IELTS examiners so are able to show you exactly what IELTS examiners are looking for. We have successfully prepared thousands of students for entry to top universities in the UK.",
+  "students": 15327,
+  "rating": 4.8,
+  "reviews": 3603,
+  "categoryId": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8b5b04445e4d444506b8"
+      },
+      "courseId": {
+        "$oid": "60df3d556a95622af477b6af"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60ee8b6d04445e4d444506ba"
+      },
+      "courseId": {
+        "$oid": "60e923bc0c4ad21f4cf1a088"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee8b2004445e4d444506b7.jpg"
+},{
+  "_id": {
+    "$oid": "60ee8bfa04445e4d444506bb"
+  },
+  "name": "Matthew Fussell",
+  "profession": "Illustrator and Educator",
+  "highlight": "       Hi, I am an illustrator and educator.  As the founder and instructor at TheVirtualInstructor (website), I am able to help thousands of people all over the world realize their dreams of creating quality art.  My illustrations have been featured in numerous publications and my work can be found in many private collections.  Although I am an illustrator, my true passion in life is teaching.  I have been teaching for over ten years and I am lucky to have helped so many people achieve their goals of creating art. ",
+  "students": 69693,
+  "rating": 4.5,
+  "reviews": 11502,
+  "categoryId": {
+    "$oid": "60c5ab25ef7ba027a49abdfa"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8c2204445e4d444506bc"
+      },
+      "courseId": {
+        "$oid": "60d0992507b8c35e18706426"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee8bfa04445e4d444506bb.jpg"
+},{
+  "_id": {
+    "$oid": "60ee8c7f04445e4d444506bd"
+  },
+  "name": "Dermot O'Connor",
+  "profession": "Animator/Teacher: Flash, Harmony, Traditional",
+  "highlight": "Since 1988 I've animated for feature, TV, mobile and interactive media. In 2012 I finished a 34 minute animated documentary titled \"There's No Tomorrow\" (which was created over 7 years). It deals with energy, resource depletion and growth. I've created several courses for Lynda.com, about Flash, Harmony, and traditional animation.",
+  "students": 145151,
+  "rating": 4.7,
+  "reviews": 14134,
+  "categoryId": {
+    "$oid": "60c5ab25ef7ba027a49abdfa"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ee8c9e04445e4d444506be"
+      },
+      "courseId": {
+        "$oid": "60d2185e12ca01096812b634"
+      }
+    }
+  ],
+  "__v": 0,
+  "photoURL": "photo_60ee8c7f04445e4d444506bd.jfif"
+}]

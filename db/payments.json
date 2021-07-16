@@ -1,0 +1,2422 @@
+[{
+  "_id": {
+    "$oid": "60b34ff78a13a25b4c57a8a8"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa6"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 1900,
+  "createdAt": {
+    "$date": "2021-05-30T08:42:31.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b35063233c44210ca7dbfa"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa6"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 1900,
+  "createdAt": {
+    "$date": "2021-05-30T08:44:19.081Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b350d5ead254490889c067"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa6"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 1900,
+  "createdAt": {
+    "$date": "2021-05-30T08:46:13.081Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b350f1a3e1f038a44f0a95"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa6"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 1900,
+  "createdAt": {
+    "$date": "2021-05-30T08:46:41.691Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b35132fb0d205a387cce5c"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa6"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 1900,
+  "createdAt": {
+    "$date": "2021-05-30T08:47:46.831Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b3519bd3151317089a3986"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa6"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 1900,
+  "createdAt": {
+    "$date": "2021-05-30T08:49:31.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b3524c3a5ee458e060a51b"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa6"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 1300,
+  "createdAt": {
+    "$date": "2021-05-30T08:52:28.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b352a63a5ee458e060a526"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa4"
+    },
+    {
+      "$oid": "5d725cb9c4ded7bcb480eaa1"
+    },
+    {
+      "$oid": "5d725c84c4ded7bcb480eaa0"
+    }
+  ],
+  "user": {
+    "$oid": "60aea6847a95f954f8ce4db2"
+  },
+  "totalPrice": 3100,
+  "createdAt": {
+    "$date": "2021-05-30T08:53:58.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b35ab08f82aa1dc4f886fe"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa5"
+    },
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa4"
+    }
+  ],
+  "user": {
+    "$oid": "60ac92e9027d724934bdd956"
+  },
+  "totalPrice": 2300,
+  "createdAt": {
+    "$date": "2021-05-30T09:28:16.938Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b35b768f82aa1dc4f8870a"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa4"
+    },
+    {
+      "$oid": "5d725cb9c4ded7bcb480eaa1"
+    }
+  ],
+  "user": {
+    "$oid": "60ac92e9027d724934bdd956"
+  },
+  "totalPrice": 2100,
+  "createdAt": {
+    "$date": "2021-05-30T09:31:34.694Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bcffd2e7e20a17e47bfccd"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725a4a7b292f5f8ceff789"
+    },
+    {
+      "$oid": "5d725c84c4ded7bcb480eaa0"
+    }
+  ],
+  "user": {
+    "$oid": "60bc6e4be17cd4335884e599"
+  },
+  "totalPrice": 2400,
+  "createdAt": {
+    "$date": "2021-06-06T17:03:14.331Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bd004ae7e20a17e47bfcd1"
+  },
+  "courses": [
+    {
+      "$oid": "5d725cfec4ded7bcb480eaa7"
+    },
+    {
+      "$oid": "5d725a4a7b292f5f8ceff789"
+    },
+    {
+      "$oid": "5d725c84c4ded7bcb480eaa0"
+    }
+  ],
+  "user": {
+    "$oid": "60bc6e4be17cd4335884e599"
+  },
+  "totalPrice": 2400,
+  "createdAt": {
+    "$date": "2021-06-06T17:05:14.361Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bd06a70a857e13cc697b44"
+  },
+  "user": {
+    "$oid": "60bd03a2b58e6d460880fc31"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60bd06a70a857e13cc697b45"
+      },
+      "courseId": {
+        "$oid": "5d725cfec4ded7bcb480eaa7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60bd06a70a857e13cc697b46"
+      },
+      "courseId": {
+        "$oid": "5d725cb9c4ded7bcb480eaa1"
+      }
+    }
+  ],
+  "totalPrice": 1800,
+  "createdAt": {
+    "$date": "2021-06-06T17:32:23.621Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bd06d76daf3639e4a013fa"
+  },
+  "user": {
+    "$oid": "60bd03a2b58e6d460880fc31"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60bd06d76daf3639e4a013fb"
+      },
+      "courseId": {
+        "$oid": "5d725cfec4ded7bcb480eaa7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60bd06d76daf3639e4a013fc"
+      },
+      "courseId": {
+        "$oid": "5d725cb9c4ded7bcb480eaa1"
+      }
+    }
+  ],
+  "totalPrice": 1800,
+  "createdAt": {
+    "$date": "2021-06-06T17:33:11.211Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bd079471695638849ca0db"
+  },
+  "user": {
+    "$oid": "60bd075b71695638849ca0d7"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60bd079471695638849ca0dc"
+      },
+      "courseId": {
+        "$oid": "5d725cfec4ded7bcb480eaa7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60bd079471695638849ca0dd"
+      },
+      "courseId": {
+        "$oid": "5d725a4a7b292f5f8ceff789"
+      }
+    }
+  ],
+  "totalPrice": 1400,
+  "createdAt": {
+    "$date": "2021-06-06T17:36:20.755Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bd0af271695638849ca0e6"
+  },
+  "user": {
+    "$oid": "60bd0ab471695638849ca0e2"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60bd0af271695638849ca0e7"
+      },
+      "courseId": {
+        "$oid": "5d725cfec4ded7bcb480eaa7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60bd0af271695638849ca0e8"
+      },
+      "courseId": {
+        "$oid": "5d725a4a7b292f5f8ceff789"
+      }
+    }
+  ],
+  "totalPrice": 1400,
+  "createdAt": {
+    "$date": "2021-06-06T17:50:42.246Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf130c28d5c94dc09a0175"
+  },
+  "user": {
+    "$oid": "60bdb7207b91413a6ca8cf89"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60bf130c28d5c94dc09a0176"
+      },
+      "courseId": {
+        "$oid": "5d725cb9c4ded7bcb480eaa1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60bf130c28d5c94dc09a0177"
+      },
+      "courseId": {
+        "$oid": "5d725cfec4ded7bcb480eaa7"
+      }
+    }
+  ],
+  "totalPrice": 1800,
+  "createdAt": {
+    "$date": "2021-06-08T06:49:48.700Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c36c546f545f02f0ab969e"
+  },
+  "user": {
+    "$oid": "60c3258f74f17472b8d924f6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60c36c546f545f02f0ab969f"
+      },
+      "courseId": {
+        "$oid": "5d725cfec4ded7bcb480eaa7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60c36c546f545f02f0ab96a0"
+      },
+      "courseId": {
+        "$oid": "5d725cb9c4ded7bcb480eaa1"
+      }
+    }
+  ],
+  "totalPrice": 1800,
+  "createdAt": {
+    "$date": "2021-06-11T13:59:48.511Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5c94717c0e511c8935683"
+  },
+  "user": {
+    "$oid": "60c5a9deef7ba027a49abdf2"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60c5c94717c0e511c8935684"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-13T09:00:55.332Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c72932ad0e8b44b851e4fc"
+  },
+  "user": {
+    "$oid": "60c5e52ee7d4ca58fc8667ae"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60c72932ad0e8b44b851e4fd"
+      },
+      "courseId": {
+        "$oid": "60c5ddb2e7d4ca58fc866764"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-14T10:02:26.568Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c73494ad0e8b44b851e502"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60c73494ad0e8b44b851e503"
+      },
+      "courseId": {
+        "$oid": "60c5ddb2e7d4ca58fc866764"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-14T10:51:00.516Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8f646681afd2dd4272efb"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60c8f646681afd2dd4272efc"
+      },
+      "courseId": {
+        "$oid": "60c5e4cbe7d4ca58fc8667ac"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-15T18:49:42.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb083cc815eb61b84f7f9e"
+  },
+  "user": {
+    "$oid": "60c5e52ee7d4ca58fc8667ae"
+  },
+  "courses": [],
+  "totalPrice": 97,
+  "createdAt": {
+    "$date": "2021-06-17T08:30:52.541Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb0afcc815eb61b84f7fa3"
+  },
+  "user": {
+    "$oid": "60c5e52ee7d4ca58fc8667ae"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cb0afcc815eb61b84f7fa4"
+      },
+      "courseId": {
+        "$oid": "60c5e091e7d4ca58fc86677f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60cb0afcc815eb61b84f7fa5"
+      },
+      "courseId": {
+        "$oid": "60c5e4cbe7d4ca58fc8667ac"
+      }
+    }
+  ],
+  "totalPrice": 29,
+  "createdAt": {
+    "$date": "2021-06-17T08:42:36.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb5463f934d93294f7c62c"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cb5463f934d93294f7c62d"
+      },
+      "courseId": {
+        "$oid": "60c5e091e7d4ca58fc86677f"
+      }
+    }
+  ],
+  "totalPrice": 20,
+  "createdAt": {
+    "$date": "2021-06-17T13:55:47.633Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb55aff934d93294f7c633"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cb55aff934d93294f7c634"
+      },
+      "courseId": {
+        "$oid": "60c5da3317c0e511c89356b6"
+      }
+    }
+  ],
+  "totalPrice": 40,
+  "createdAt": {
+    "$date": "2021-06-17T14:01:19.845Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb55dff934d93294f7c63b"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cb55dff934d93294f7c63c"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 47,
+  "createdAt": {
+    "$date": "2021-06-17T14:02:07.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb55eef934d93294f7c644"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cb55eef934d93294f7c645"
+      },
+      "courseId": {
+        "$oid": "60c5cfed17c0e511c8935687"
+      }
+    }
+  ],
+  "totalPrice": 95,
+  "createdAt": {
+    "$date": "2021-06-17T14:02:22.420Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb5606f934d93294f7c64e"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cb5606f934d93294f7c64f"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 2,
+  "createdAt": {
+    "$date": "2021-06-17T14:02:46.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ccebdbf0570324443d9eef"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ccebdbf0570324443d9ef0"
+      },
+      "courseId": {
+        "$oid": "60cce157f0570324443d9e9e"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-18T18:54:19.423Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ccf0d7f0570324443d9f20"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ccf0d7f0570324443d9f21"
+      },
+      "courseId": {
+        "$oid": "60ccee31f0570324443d9efa"
+      }
+    }
+  ],
+  "totalPrice": 45,
+  "createdAt": {
+    "$date": "2021-06-18T19:15:35.005Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdf7bffd2ddd3ed0ad6017"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cdf7bffd2ddd3ed0ad6018"
+      },
+      "courseId": {
+        "$oid": "60cde348fd2ddd3ed0ad5ffe"
+      }
+    }
+  ],
+  "totalPrice": 50,
+  "createdAt": {
+    "$date": "2021-06-19T13:57:19.636Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce103cfd2ddd3ed0ad60b6"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ce103cfd2ddd3ed0ad60b7"
+      },
+      "courseId": {
+        "$oid": "60ce0c04fd2ddd3ed0ad6080"
+      }
+    }
+  ],
+  "totalPrice": 25,
+  "createdAt": {
+    "$date": "2021-06-19T15:41:48.730Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce1ba4fd2ddd3ed0ad60e7"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ce1ba4fd2ddd3ed0ad60e8"
+      },
+      "courseId": {
+        "$oid": "60ce19bafd2ddd3ed0ad60da"
+      }
+    }
+  ],
+  "totalPrice": 50,
+  "createdAt": {
+    "$date": "2021-06-19T16:30:28.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce53ddfd2ddd3ed0ad617d"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60ce53ddfd2ddd3ed0ad617e"
+      },
+      "courseId": {
+        "$oid": "60ce509edea92a5ae402db14"
+      }
+    }
+  ],
+  "totalPrice": 10,
+  "createdAt": {
+    "$date": "2021-06-19T20:30:21.538Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cf89a225c70b006c1b51a7"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60cf89a225c70b006c1b51a8"
+      },
+      "courseId": {
+        "$oid": "60cf843b25c70b006c1b5171"
+      }
+    }
+  ],
+  "totalPrice": 22,
+  "createdAt": {
+    "$date": "2021-06-20T18:32:02.877Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d09d51043f4850b45434b0"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d09d51043f4850b45434b1"
+      },
+      "courseId": {
+        "$oid": "60d0992507b8c35e18706426"
+      }
+    }
+  ],
+  "totalPrice": 7,
+  "createdAt": {
+    "$date": "2021-06-21T14:08:17.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0cbf407b8c35e18706429"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d0cbf407b8c35e1870642a"
+      },
+      "courseId": {
+        "$oid": "60d0baf9043f4850b45434df"
+      }
+    }
+  ],
+  "totalPrice": 12,
+  "createdAt": {
+    "$date": "2021-06-21T17:27:16.936Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d21e3512ca01096812b663"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d21e3512ca01096812b664"
+      },
+      "courseId": {
+        "$oid": "60d2185e12ca01096812b634"
+      }
+    }
+  ],
+  "totalPrice": 20,
+  "createdAt": {
+    "$date": "2021-06-22T17:30:29.971Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d23b948d74222d98f2c8f6"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d23b948d74222d98f2c8f7"
+      },
+      "courseId": {
+        "$oid": "60d239378d74222d98f2c8db"
+      }
+    }
+  ],
+  "totalPrice": 12,
+  "createdAt": {
+    "$date": "2021-06-22T19:35:48.509Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3761a3f2cb211d0ec958b"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d3761a3f2cb211d0ec958c"
+      },
+      "courseId": {
+        "$oid": "60d370d23f2cb211d0ec9548"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-23T17:57:46.367Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d38c183f2cb211d0ec95e5"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d38c183f2cb211d0ec95e6"
+      },
+      "courseId": {
+        "$oid": "60d3829d3f2cb211d0ec95a6"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-23T19:31:36.053Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d591e997d7773944b1f310"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d591e997d7773944b1f311"
+      },
+      "courseId": {
+        "$oid": "60d33e6c3f2cb211d0ec94e0"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-25T08:20:57.594Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6c9097568ec3d7caea4b2"
+  },
+  "user": {
+    "$oid": "60d6c5409f792c5f5ca9df3c"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d6c9097568ec3d7caea4b3"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-26T06:28:25.348Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6cb957568ec3d7caea4b7"
+  },
+  "user": {
+    "$oid": "60d6cb8e7568ec3d7caea4b6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d6cb957568ec3d7caea4b8"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-26T06:39:17.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6cbcf7568ec3d7caea4bd"
+  },
+  "user": {
+    "$oid": "60d6cb8e7568ec3d7caea4b6"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d6cbcf7568ec3d7caea4be"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-26T06:40:15.329Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6ccb37568ec3d7caea4c2"
+  },
+  "user": {
+    "$oid": "60c5e52ee7d4ca58fc8667ae"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d6ccb37568ec3d7caea4c3"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-26T06:44:03.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6ce839f792c5f5ca9df54"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d6ce839f792c5f5ca9df55"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-26T06:51:47.827Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6d0e99f792c5f5ca9df5f"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d6d0e99f792c5f5ca9df60"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-26T07:02:01.993Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74942c2c0b0170001c526"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d74942c2c0b0170001c527"
+      },
+      "courseId": {
+        "$oid": "60d74695c2c0b0170001c505"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-26T15:35:30.686Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7634fc2c0b0170001c653"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d7634fc2c0b0170001c654"
+      },
+      "courseId": {
+        "$oid": "60d760dfc2c0b0170001c63a"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-26T17:26:39.511Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d76a0ac2c0b0170001c6bb"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d76a0ac2c0b0170001c6bc"
+      },
+      "courseId": {
+        "$oid": "60d7672dc2c0b0170001c698"
+      }
+    }
+  ],
+  "totalPrice": 6,
+  "createdAt": {
+    "$date": "2021-06-26T17:55:22.703Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7945ec2c0b0170001c72d"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d7945ec2c0b0170001c72e"
+      },
+      "courseId": {
+        "$oid": "60d78be9c2c0b0170001c6f9"
+      }
+    }
+  ],
+  "totalPrice": 12,
+  "createdAt": {
+    "$date": "2021-06-26T20:55:58.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b1cce5673066f0c5b127"
+  },
+  "user": {
+    "$oid": "60c5e52ee7d4ca58fc8667ae"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d8b1cce5673066f0c5b128"
+      },
+      "courseId": {
+        "$oid": "60d760dfc2c0b0170001c63a"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-27T17:13:48.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8bded5374d2603c0d3554"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60d8bded5374d2603c0d3555"
+      },
+      "courseId": {
+        "$oid": "60d8b8b25374d2603c0d3538"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-27T18:05:33.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da031cb43492099c63ffa2"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60da031cb43492099c63ffa3"
+      },
+      "courseId": {
+        "$oid": "60d79752c2c0b0170001c762"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60da031cb43492099c63ffa4"
+      },
+      "courseId": {
+        "$oid": "60d74695c2c0b0170001c505"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60da031cb43492099c63ffa5"
+      },
+      "courseId": {
+        "$oid": "60d79752c2c0b0170001c762"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60da031cb43492099c63ffa6"
+      },
+      "courseId": {
+        "$oid": "60d74695c2c0b0170001c505"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60da031cb43492099c63ffa7"
+      },
+      "courseId": {
+        "$oid": "60d9fe39b43492099c63ff5f"
+      }
+    }
+  ],
+  "totalPrice": 20,
+  "createdAt": {
+    "$date": "2021-06-28T17:13:00.561Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da21ebcb690d224cf678fe"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60da21ebcb690d224cf678ff"
+      },
+      "courseId": {
+        "$oid": "60da0dfcb43492099c63ffe0"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-28T19:24:27.309Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db126c6a338b4e18b99b2a"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db126c6a338b4e18b99b2b"
+      },
+      "courseId": {
+        "$oid": "60ccee31f0570324443d9efa"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T12:30:36.918Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db12896a338b4e18b99b32"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db12896a338b4e18b99b33"
+      },
+      "courseId": {
+        "$oid": "60d2185e12ca01096812b634"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T12:31:05.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db12956a338b4e18b99b38"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db12956a338b4e18b99b39"
+      },
+      "courseId": {
+        "$oid": "60c5ddb2e7d4ca58fc866764"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T12:31:17.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db12b56a338b4e18b99b43"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db12b56a338b4e18b99b44"
+      },
+      "courseId": {
+        "$oid": "60c5cfed17c0e511c8935687"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T12:31:49.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db3e97c5d1bf40fc9a839e"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db3e97c5d1bf40fc9a839f"
+      },
+      "courseId": {
+        "$oid": "60db3aabc5d1bf40fc9a8379"
+      }
+    }
+  ],
+  "totalPrice": 9,
+  "createdAt": {
+    "$date": "2021-06-29T15:39:03.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db59f86a338b4e18b99b4d"
+  },
+  "user": {
+    "$oid": "60db59ec6a338b4e18b99b4c"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db59f86a338b4e18b99b4e"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T17:35:52.059Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db781e6a338b4e18b99c31"
+  },
+  "user": {
+    "$oid": "60db59ec6a338b4e18b99b4c"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db781e6a338b4e18b99c32"
+      },
+      "courseId": {
+        "$oid": "60c5e091e7d4ca58fc86677f"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T19:44:30.893Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db79f26a338b4e18b99c3f"
+  },
+  "user": {
+    "$oid": "60db79dd6a338b4e18b99c3e"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60db79f26a338b4e18b99c40"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T19:52:18.385Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dba8136a338b4e18b99c47"
+  },
+  "user": {
+    "$oid": "60dba7f46a338b4e18b99c46"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dba8136a338b4e18b99c48"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-29T23:09:07.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dbbc4c6a338b4e18b99c4d"
+  },
+  "user": {
+    "$oid": "60dbbc256a338b4e18b99c4c"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dbbc4c6a338b4e18b99c4e"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-30T00:35:24.016Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dbc3d16a338b4e18b99c58"
+  },
+  "user": {
+    "$oid": "60dbc3b06a338b4e18b99c57"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dbc3d16a338b4e18b99c59"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-30T01:07:29.763Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc486b6a338b4e18b99d32"
+  },
+  "user": {
+    "$oid": "60dc48386a338b4e18b99d31"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dc486b6a338b4e18b99d33"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-30T10:33:15.439Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc904fb6157a5c3c6a2b94"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dc904fb6157a5c3c6a2b95"
+      },
+      "courseId": {
+        "$oid": "60dc779a6a338b4e18b99d4e"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-30T15:39:59.836Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcb6ddf431cb52ace19b75"
+  },
+  "user": {
+    "$oid": "60c5e52ee7d4ca58fc8667ae"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dcb6ddf431cb52ace19b76"
+      },
+      "courseId": {
+        "$oid": "60dc779a6a338b4e18b99d4e"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-06-30T18:24:29.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dd1a71f431cb52ace19b98"
+  },
+  "user": {
+    "$oid": "60dbbc256a338b4e18b99c4c"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dd1a71f431cb52ace19b99"
+      },
+      "courseId": {
+        "$oid": "60dc779a6a338b4e18b99d4e"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-01T01:29:21.145Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dea725f431cb52ace19c3b"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60dea725f431cb52ace19c3c"
+      },
+      "courseId": {
+        "$oid": "60de1c73bbb6de39509c5ecc"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-02T05:41:57.309Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df076cf431cb52ace19c60"
+  },
+  "user": {
+    "$oid": "60df0756f431cb52ace19c5f"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60df076cf431cb52ace19c61"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-02T12:32:44.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df41a46a95622af477b6c7"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60df41a46a95622af477b6c8"
+      },
+      "courseId": {
+        "$oid": "60df3d556a95622af477b6af"
+      }
+    }
+  ],
+  "totalPrice": 2,
+  "createdAt": {
+    "$date": "2021-07-02T16:41:08.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df8b33f431cb52ace19c67"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60df8b33f431cb52ace19c68"
+      },
+      "courseId": {
+        "$oid": "60df3d556a95622af477b6af"
+      }
+    }
+  ],
+  "totalPrice": 2,
+  "createdAt": {
+    "$date": "2021-07-02T21:54:59.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e007b4f431cb52ace19cdd"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e007b4f431cb52ace19cde"
+      },
+      "courseId": {
+        "$oid": "60c5ddb2e7d4ca58fc866764"
+      }
+    }
+  ],
+  "totalPrice": 4,
+  "createdAt": {
+    "$date": "2021-07-03T06:46:12.942Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e00958f431cb52ace19ce2"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e00958f431cb52ace19ce3"
+      },
+      "courseId": {
+        "$oid": "60d33e6c3f2cb211d0ec94e0"
+      }
+    }
+  ],
+  "totalPrice": 4,
+  "createdAt": {
+    "$date": "2021-07-03T06:53:12.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e00b736a95622af477b7dc"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e00b736a95622af477b7dd"
+      },
+      "courseId": {
+        "$oid": "60d74695c2c0b0170001c505"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-03T07:02:11.180Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02344853b9f3a04efa60c"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e02344853b9f3a04efa60d"
+      },
+      "courseId": {
+        "$oid": "60da0dfcb43492099c63ffe0"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-03T08:43:48.606Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e023a5853b9f3a04efa614"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e023a5853b9f3a04efa615"
+      },
+      "courseId": {
+        "$oid": "60ccee31f0570324443d9efa"
+      }
+    }
+  ],
+  "totalPrice": 4,
+  "createdAt": {
+    "$date": "2021-07-03T08:45:25.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e039cdae54c620280e6fca"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e039cdae54c620280e6fcb"
+      },
+      "courseId": {
+        "$oid": "60d760dfc2c0b0170001c63a"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-03T10:19:57.441Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e19bdb34baf077045b17ac"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e19bdb34baf077045b17ad"
+      },
+      "courseId": {
+        "$oid": "60d760dfc2c0b0170001c63a"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-04T11:30:35.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e1cd1e34baf077045b2119"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e1cd1e34baf077045b211a"
+      },
+      "courseId": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    }
+  ],
+  "totalPrice": 4,
+  "createdAt": {
+    "$date": "2021-07-04T15:00:46.413Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e1e1bf34baf077045b225c"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e1e1bf34baf077045b225d"
+      },
+      "courseId": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    }
+  ],
+  "totalPrice": 10,
+  "createdAt": {
+    "$date": "2021-07-04T16:28:47.089Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e21eb934baf077045b2338"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e21eb934baf077045b2339"
+      },
+      "courseId": {
+        "$oid": "60ce0c04fd2ddd3ed0ad6080"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-04T20:48:57.875Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2baed34baf077045b27f1"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-05T07:55:25.090Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2bb2034baf077045b27fc"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e2bb2034baf077045b27fd"
+      },
+      "courseId": {
+        "$oid": "60d370d23f2cb211d0ec9548"
+      }
+    }
+  ],
+  "totalPrice": 4,
+  "createdAt": {
+    "$date": "2021-07-05T07:56:16.499Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e40c1634baf077045b3c4b"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-06T07:53:58.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e40c4234baf077045b3c57"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e40c4234baf077045b3c58"
+      },
+      "courseId": {
+        "$oid": "60c5e091e7d4ca58fc86677f"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-06T07:54:42.538Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4128934baf077045b3c6e"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e4128934baf077045b3c6f"
+      },
+      "courseId": {
+        "$oid": "60ce19bafd2ddd3ed0ad60da"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-06T08:21:29.920Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4199c34baf077045b3c93"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e4199c34baf077045b3c94"
+      },
+      "courseId": {
+        "$oid": "60d239378d74222d98f2c8db"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-06T08:51:40.564Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e41adb34baf077045b3cfa"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e41adb34baf077045b3cfb"
+      },
+      "courseId": {
+        "$oid": "60d79752c2c0b0170001c762"
+      }
+    }
+  ],
+  "totalPrice": 2,
+  "createdAt": {
+    "$date": "2021-07-06T08:56:59.936Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e41b6634baf077045b3d8c"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e41b6634baf077045b3d8d"
+      },
+      "courseId": {
+        "$oid": "60d9fe39b43492099c63ff5f"
+      }
+    }
+  ],
+  "totalPrice": 10,
+  "createdAt": {
+    "$date": "2021-07-06T08:59:18.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e41bca34baf077045b3df7"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e41bca34baf077045b3df8"
+      },
+      "courseId": {
+        "$oid": "60d3829d3f2cb211d0ec95a6"
+      }
+    }
+  ],
+  "totalPrice": 4,
+  "createdAt": {
+    "$date": "2021-07-06T09:00:58.726Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e41c2134baf077045b3e84"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e41c2134baf077045b3e85"
+      },
+      "courseId": {
+        "$oid": "60d7672dc2c0b0170001c698"
+      }
+    }
+  ],
+  "totalPrice": 2,
+  "createdAt": {
+    "$date": "2021-07-06T09:02:25.457Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e41d8a34baf077045b3f18"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e41d8a34baf077045b3f19"
+      },
+      "courseId": {
+        "$oid": "60db309b6a338b4e18b99b4b"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-06T09:08:26.422Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e427ae34baf077045b3f7c"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e427ae34baf077045b3f7d"
+      },
+      "courseId": {
+        "$oid": "60d490eac542ec4e147e636b"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-06T09:51:42.653Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e43f3d34baf077045b40da"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e43f3d34baf077045b40db"
+      },
+      "courseId": {
+        "$oid": "60d3829d3f2cb211d0ec95a6"
+      }
+    }
+  ],
+  "totalPrice": 0,
+  "createdAt": {
+    "$date": "2021-07-06T11:32:13.063Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e479ed34baf077045b40eb"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e479ed34baf077045b40ec"
+      },
+      "courseId": {
+        "$oid": "60dc779a6a338b4e18b99d4e"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-06T15:42:37.895Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e48b2834baf077045b4592"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e48b2834baf077045b4593"
+      },
+      "courseId": {
+        "$oid": "60df3d556a95622af477b6af"
+      }
+    }
+  ],
+  "totalPrice": 2,
+  "createdAt": {
+    "$date": "2021-07-06T16:56:08.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e48ba834baf077045b49b9"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e48ba834baf077045b49ba"
+      },
+      "courseId": {
+        "$oid": "60d0992507b8c35e18706426"
+      }
+    }
+  ],
+  "totalPrice": 3,
+  "createdAt": {
+    "$date": "2021-07-06T16:58:16.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e496e6fdac4c4ad86514d2"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e496e6fdac4c4ad86514d3"
+      },
+      "courseId": {
+        "$oid": "60e49327fdac4c4ad86514ae"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-06T17:46:14.070Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e6344a94c5142e9053454c"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e6344a94c5142e9053454d"
+      },
+      "courseId": {
+        "$oid": "60e5bc0963465c604481ea6e"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-07T23:10:02.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e9811c4e8e27508c53f1df"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e9811c4e8e27508c53f1e0"
+      },
+      "courseId": {
+        "$oid": "60e923bc0c4ad21f4cf1a088"
+      }
+    }
+  ],
+  "totalPrice": 2,
+  "createdAt": {
+    "$date": "2021-07-10T11:14:36.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e982914e8e27508c53f4b3"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e982914e8e27508c53f4b4"
+      },
+      "courseId": {
+        "$oid": "60e95df578549810b4098e32"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-10T11:20:49.773Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eab8e94e8e27508c53f6be"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60eab8e94e8e27508c53f6bf"
+      },
+      "courseId": {
+        "$oid": "60e96d4178549810b4098e90"
+      }
+    }
+  ],
+  "totalPrice": 5,
+  "createdAt": {
+    "$date": "2021-07-11T09:24:57.051Z"
+  },
+  "__v": 0
+}]

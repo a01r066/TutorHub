@@ -1,0 +1,1360 @@
+[{
+  "_id": {
+    "$oid": "60c5b167ef7ba027a49abdfb"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": true,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Angular & NodeJS - The MEAN Stack Guide",
+  "objectives": "- Build real Angular + NodeJS applications\n- Understand how Angular works and how it interacts with Backends\n- Connect any Angular Frontend with a NodeJS Backend\n- Use MongoDB with Mongoose to interact with Data on the Backend\n- Use ExpressJS as a NodeJS Framework\n- Provide a great user experience by using Optimistic Updating on the Frontend\n- Improve any Angular (+ NodeJS) application by adding Error Handling",
+  "description": "Create modern, scalable and high-speed Web Applications with Angular (formerly named Angular 2, now just \"Angular\") and Node.js + Express + MongoDB.\n\nAngular 1 and NodeJS, together with ExpressJS (a NodeJS Framework) and MongoDB formed the very popular MEAN stack. Now is the time to dive into MEAN 2.0 and replace Angular 1 with Angular 2+.\n\nBenefit from the many improvements and advantages Angular offers you: Speed, ease of development, highly reactive, awesome support for asynchronous operations, great scalability and more!\nAnd combine these advantages with the power of a NodeJS + Express + MongoDB backend!\n\nLearn or refresh the Angular Basics!\n\nThis course is no Angular course, but it includes detailed explanations of the core concepts used as well as about Angular in general. However, keep in mind that, as this course is no Angular course, having additional resources like my \"Angular - The Complete Guide\" course is recommended.\n\nIn this course, Maximilian, experienced web developer as well as author of many 5-star rated Udemy courses and host of the \"Academind\" coding channel on YouTube, will take you on a hands-on journey to get you to build your own Angular + NodeJS Applications in no time.\n\nThis course follows a hands-on approach, which means that the whole course is structured around one big application and the different concepts will be explained detailedly as they are introduced in this application.\n\nSpecifically, you will learn how to:\n\nSet up a NodeJS + Express + MongoDB + Angular Application with the help of the Angular CLI\n\nUse NodeJS and Express efficiently\n\nBuild reusable Components in Angular and create a reactive User Experience with the Tools provided by Angular\n\nConnect your NodeJS (or any other language!) backend with your Angular App through Angular’s HttpClient service\n\nProvide appropriate endpoints on your Backend, for your Frontend to consume\n\nAdd advanced features like file upload and pagination\n\nMake your Application more secure by implementing Users, Authentication as well as Authorization\n\nHandle Errors gracefully\n\nAnd much more...!\n\nThis hands-on concept allows you to not get stuck in the theory, but instantly see real implementation examples!\n\nHear what students of other courses as well as viewers of my YouTube channel have to say\n\nMax has gone through great lengths to create great content and this course has been great. His teaching style covers everything from basic to advanced topics, and his explanations have been thorough on each topic\n\nMax demonstrates very good knowledge of the subject matter and great enthusiasm in delivering the lectures.\n\nMax does a wonderful job making the core concepts of Angular approachable and accessible.\n\nDon’t stop at the basics!\n\nDo you know those courses which show you a \"Hello World“ example and then call it an end? That won’t happen to you in this course. While beginning with a very basic app and basic features, you will quickly be able to incorporate many different Routes, Observables, Events, Authentication and Authorization, Error Handling and much more into your applications.\nThe best thing is: You’ll learn all that by putting it into practice immediately! No wall of powerpoint slides, no unrealistic mini-examples – this is the real deal!\n\nWho should take this course?\n\nBasic NodeJS/Express and Angular Experience is strongly recommended\n\nYou should be familiar with HTML, CSS and JavaScript basics, too\n\nMongoDB (+ Mongoose) knowledge is a plus as MongoDB will be used in this course but won’t be subject of in-depth explanations\n\nNO expert or advanced knowledge on any of these topics is required or assumed\n\nBy the end of this course, you will be able to create your own, awesome NodeJS + Angular applications!\n\nWho this course is for:\nThis course is for everyone interested in putting existing Angular and NodeJS knowledge into action\nIf you're familiar with the basics of Angular and NodeJS, this course provides a detailed guide on how to connect both technologies\nEveryone interested in building a modern, full-stack application\nStudents who want to exercise with their NodeJS and Angular skills will find a great opportunity to do so",
+  "user": {
+    "$oid": "60c5a9deef7ba027a49abdf2"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-13T07:19:03.544Z"
+  },
+  "slug": "angular-and-nodejs-the-mean-stack-guide",
+  "__v": 0,
+  "photo": "photo_60c5b167ef7ba027a49abdfb.jpg",
+  "coupon": {
+    "$oid": "60ca3c88478cc01710ed8c16"
+  },
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed1a1df07a9465f410b98c"
+  }
+},{
+  "_id": {
+    "$oid": "60c5cfed17c0e511c8935687"
+  },
+  "tuition": 93.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Mastering Linux Security",
+  "objectives": "- Objectives...",
+  "description": "Do you worry about hackers hacking into your system running locally or remotely? Then this course is for you; you will learn (via practical examples) how to secure your system from such attacks.\n\nIn this course, you will learn to secure workstations and servers against unauthorized persons.\n\nWe start with the three critical fundamentals that must be dealt with first: updates, passwords, and firewalls. We then give you an overview of what it actually means to secure a system, what an attack surface is, how hackers perform attacks and how to successfully protect against them. You will learn to secure a Linux machine, by securely configuring and running services, performing logging, secure backups, and more. The course will show you how to secure your system locally or remotely. Finally, you will be shown how to verify your set up.\n\nBy the end of the course, you will have mastered security on Linux systems.\n\nStyle and Approach\nAn exhaustive course packed with step-by-step instructions, working examples, and helpful advice on protecting your Linux system. This course is divided into clear chunks, so you can learn at your own pace and focus on your own areas of interest.",
+  "user": {
+    "$oid": "60c5a9deef7ba027a49abdf2"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-13T09:29:17.143Z"
+  },
+  "slug": "packt-mastering-linux-security",
+  "__v": 0,
+  "photo": "photo_60c5cfed17c0e511c8935687.jpg",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed99339e0b1a20949a870c"
+  }
+},{
+  "_id": {
+    "$oid": "60c5ddb2e7d4ca58fc866764"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "MERN eCommerce From Scratch",
+  "objectives": "- Build a custom eCommerce platform with React, Redux, Node, Express & MongoDB\n- An actual real-world project built in a linear and progressive manner\n- Full featured shopping cart with PayPal & credit/debit payments\n- Admin area to manage customers, products & orders\n- Product rating & review system\n- Product search, carousel, pagination & more",
+  "description": "There are a lot of \"eCommerce\" courses out there, but most use some kind of prebuilt plugin or platform. In this course, we will build a completely customized eCommerce / shopping cart application from scratch with the MERN stack with the following functionality...\n\nFull featured shopping cart\n\nProduct reviews and ratings\n\nTop products carousel\n\nProduct pagination\n\nProduct search feature\n\nUser profile with orders\n\nAdmin product management\n\nAdmin user management\n\nAdmin Order details page\n\nMark orders as delivered option\n\nCheckout process (shipping, payment method, etc)\n\nPayPal / credit card integration\n\nCustom database seeder script\n\n\n\nThis is not a documentation-type course. This is a jump in and get your hands dirty course where by the end, you have an actual real-world project to use and put on your portfolio. You will learn the following by completing this course..\n\nReact with Functional Components & Hooks\n\nReact router\n\nReact-Bootstrap UI library\n\nHow to structure components\n\nComponent level state & props\n\nManaging global state with Redux (Actions & Reducers)\n\nUsing Redux state in components (useDispatch & useSelector)\n\nCreating an extensive back end with Express\n\nWorking with a MongoDB database and the Mongoose ODM\n\nJWT authentication (JSON web tokens)\n\nCreating custom authentication middleware\n\nCustom error handler\n\nIntegrating the PayPal API\n\nEnvironment variables\n\nProject deployment\n\nMuch more!",
+  "user": {
+    "$oid": "60c5a9deef7ba027a49abdf2"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-13T10:28:02.590Z"
+  },
+  "slug": "mern-ecommerce-from-scratch",
+  "__v": 0,
+  "photo": "photo_60c5ddb2e7d4ca58fc866764.jpg",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed199df07a9465f410b98b"
+  }
+},{
+  "_id": {
+    "$oid": "60c5e091e7d4ca58fc86677f"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": true,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Vue.js 3 Essential Training",
+  "objectives": "- Objectives",
+  "description": "Vue.js offers developers a framework for building applications that lets them choose how deeply they want to apply the framework. In this course, instructor Ray Villalobos explores the fundamentals of Vue.js 3, then covers options for rendering, computing values, and creating components. Ray shows you how to install Vue.js 3 and set it up. He walks you through using templates, then goes into properties that enhance the way the library works. He discusses arrays and objects, as well as how to create dynamic classes with expressions. He goes into transitions, then steps you through creating components and component events. He demonstrates what you get when you install a project with the Vue CLI, including how to install the Vue Router. He shows you how to set up and build a real project, then goes into enhancing your app so you can feel more comfortable with the application API. In conclusion, Ray explains how to add new features to your application.",
+  "user": {
+    "$oid": "60c5a9deef7ba027a49abdf2"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-13T10:40:17.177Z"
+  },
+  "slug": "vue.js-3-essential-training",
+  "__v": 0,
+  "photo": "photo_60c5e091e7d4ca58fc86677f.jpg",
+  "coupon": {
+    "$oid": "60ca3c88478cc01710ed8c16"
+  },
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed8432d87d5733d0033742"
+  }
+},{
+  "_id": {
+    "$oid": "60c5e4cbe7d4ca58fc8667ac"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Full Stack - Angular and Spring Boot",
+  "objectives": "- Develop a Full Stack application with Angular front-end and Spring Boot back-end\n- Learn how to build Angular front-end applications .... all from the beginning. We assume no prior knowledge of Angular.\n- Develop a Spring Boot back-end using REST APIs and MySQL database\n- Develop your code using modern development tools such as IntelliJ, VS Code, Maven and npm\n- I am a RESPONSIVE INSTRUCTOR ... post your questions and I will RESPOND in 24 hours.\n- Join an ACTIVE COMMUNITY of 60,000+ students that are already enrolled! Over 3,000+ Reviews - 5 STARS\n- Full Stack developers with Angular and Spring Boot are in HIGH-DEMAND. Level up your career and become a FULL STACK developer!\n- You can DOWNLOAD all videos, source code and PDFs. Perfect for offline LEARNING and REVIEW.",
+  "description": "Learn how to build a Full Stack application with Angular and Java Spring Boot.\n\nAngular and Spring Boot are two of the hottest technologies for developing Full Stack applications.\n\nKnowing how to build Full Stack applications with Angular and Java Spring Boot can get you a job or improve the one you have.  These are hot skills and companies are desperately looking for developers. Some of the highest paying job posting are for Full Stack developers with Angular and Spring Boot experience.\n\nThis course will help you quickly get up to speed with Angular and Java Spring Boot. I will demystify the technology and help you understand the essential concepts to build a Full Stack application with Angular and Java Spring Boot.\n\nYou will also use modern development tools such as IntelliJ, Visual Studio Code, Maven and npm. All of the projects are based on Maven and npm, so you are free to use any tool that you want.\n\n\n\n---\n\nIn this course, you will get:\n\n- All source code is available for download\n\n- Responsive Instructors: All questions answered within 24 hours\n\n- PDFs of all lectures are available for download\n\n- Professional video and audio recordings (check the free previews)\n\n- High quality closed-captions / subtitles available for English and 10+ other languages (new!)\n\n---\n\nQuality Material\n\nYou will receive a quality course, with solid technical material and excellent audio and video production. I am a best-selling instructor on Udemy. Here's a list of my top courses.\n\nSpring and Hibernate for Beginners\n\nHibernate: Advanced Development Techniques\n\nDeploy Java Spring Apps Online to Amazon Cloud (AWS)\n\nJSP and Servlets for Beginners\n\nJavaServer Faces (JSF) for Beginners\n\nThese courses have received rave 5 star reviews and over 330,000 students have taken the courses. Also, these courses are the most popular courses in their respective categories. \n\nI also have an active YouTube channel where I post regular videos. In the past year, I’ve created over 800 video tutorials (public and private). My YouTube channel has over 5 million views and 36k subscribers. So I understand what works and what doesn’t work for creating video tutorials.\n\n\n\nNo Risk – Money-Back Guarantee \n\nFinally, there is no risk. You can preview 25% of the course for free. Once you purchase the course, if for some reason you are not happy with the course, Udemy offers a 30-day money back guarantee.\n\nSo you have nothing to lose, sign up for this course and learn how to build Full Stack apps with Angular and Java Spring Boot from scratch! \n\nIt is time to level up your career and become a Full Stack developer with Angular and Java Spring Boot.\n\n\n\nTarget Audience\n\nJava Developers with Spring Boot experience\n\nNo experience required for Angular. I will teach you Angular from the beginning.\n\nWho this course is for:\nThe course is appropriate for all Spring Boot developers.",
+  "user": {
+    "$oid": "60c5a9deef7ba027a49abdf2"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-13T10:58:19.886Z"
+  },
+  "slug": "full-stack-angular-and-spring-boot",
+  "__v": 0,
+  "photo": "photo_60c5e4cbe7d4ca58fc8667ac.jpg",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed84b4d87d5733d0033743"
+  }
+},{
+  "_id": {
+    "$oid": "60cce157f0570324443d9e9e"
+  },
+  "tuition": 37.5,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Project Management Fundamentals",
+  "objectives": "- Course objectives",
+  "description": "Discover how to more efficiently manage your business projects. Author Bonnie Biafore lays out a set of principles and examines the concepts behind project management, from defining the problem, establishing project objectives, and building a project plan to meeting deadlines, managing team resources, and closing the project. The course also provides tips for reporting on project performance, keeping a project on track, and gaining customer acceptance.\n\nTopics include:\n\nUnderstanding projects and project management\n\nExploring project management software options\n\nGathering requirements\n\nIdentifying deliverables and success criteria\n\nCreating a scope statement\n\nIdentifying stakeholders\n\nBuilding a work breakdown structure\n\nIdentifying resources\n\nBuilding a schedule\n\nCreating a risk management plan\n\nDeveloping a change management plan\n\nUnderstanding team dynamics\n\nGathering data\n\nEvaluating project schedule and cost performance\n\nDocumenting lessons learned\n\nClosing contracts, accounts, and transitioning",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa45ef7ba027a49abdf4"
+  },
+  "createdAt": {
+    "$date": "2021-06-18T18:09:27.501Z"
+  },
+  "slug": "project-management-fundamentals",
+  "__v": 0,
+  "photo": "photo_60cce157f0570324443d9e9e.png",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed88f9d87d5733d0033747"
+  }
+},{
+  "_id": {
+    "$oid": "60ccee31f0570324443d9efa"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Get 7-9 in IELTS Speaking IELTS Speaking Masterclass",
+  "objectives": "- Use advanced vocabulary and synonyms.\n- Improve your grammar and pronunciation\n- Give opinions and connect your ideas.\n- Deal with difficult questions.\n- Improve your speaking confidence.\n- Develop your answers and manage your time.\n- Answer any question, even if you don't know what to say!",
+  "description": "Do you need Band 7, 7.5, 8 or higher in the IELTS Speaking test? \n\nMost universities and immigration departments require a score of Band 7 or higher. Yet according to official IELTS statistics, the average score around the world is less than 6.5.\n\nBut you can do better than the average candidate.\n\nAnd you don't need a long time.\n\nThe IELTS Speaking Masterclass course will teach you essential language skills and preparation methods to help you achieve your target band. Faster than you think.\n\nIn the course, you will:\n\nStudy some effective strategies.\n\nLearn special words, phrases and structures to impress the examiner.\n\nObserve a model candidate putting everything into practice.\n\nMany students have achieved their target band with the help of this course. And you can too.\n\nJust read some of the reviews below.\n\nBesides the lectures, the course includes:\n\n20 model answers for Part 2 of the test.\n\n5 videos that teach and show you how to use synonyms to improve your speaking.\n\n\n\nBonus material\n\nIn Lecture 50, you also get a free 70-page ebook:\n\nCorrect your English: Learn to Speak More Like a Native (worth $12.99 on Amazon!).\n\nThe Masterclass lectures will improve your speaking confidence and listening skills for life. So even after you take the IELTS test, you will understand English speakers better. And you will be able to express yourself more like a native speaker. \n\nJoin over 11000 students! Take this course today and start improving your band.\n\nWho this course is for:\nThis course is for IELTS Speaking candidates who need Band 7 or higher.\nYour current level should be at least Band 6-6.5.",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "createdAt": {
+    "$date": "2021-06-18T19:04:17.845Z"
+  },
+  "slug": "get-7-9-in-ielts-speaking-ielts-speaking-masterclass",
+  "__v": 0,
+  "photo": "photo_60ccee31f0570324443d9efa.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee87af04445e4d444506ad"
+  }
+},{
+  "_id": {
+    "$oid": "60cddd8efd2ddd3ed0ad5fd6"
+  },
+  "tuition": 49.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Preparing Docker Apps for Production",
+  "objectives": "It's easy to run your apps in containers, but \"docker run\" isn't going to get you very far in production. This course will teach you all the best practices for packaging and running your apps with Docker, Docker Compose and Kubernetes.",
+  "description": "Containers need to work with the features of the platform they're using if you're going to get the most out of them. In this course, Preparing Docker Apps for Production, you’ll learn all the best practices for setting up and running containerized applications.\n\nFirst, you’ll see how to separate app configuration from the container image, so you can configure apps independently. Next, you’ll see how to push application logs out from containers and collect them in a centralized store. Then you'll take advantage of self-healing features by adding health checks and dependency checks to your containers. Finally, you’ll learn how to manage network traffic so you can route incoming requests to the right containers.\n\nWhen you’re finished with this course, you’ll have understanding of how containers work in production, so you can plan your path to go live with Docker.",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-19T12:05:34.757Z"
+  },
+  "slug": "preparing-docker-apps-for-production",
+  "__v": 0,
+  "photo": "photo_60cddd8efd2ddd3ed0ad5fd6.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed9a0a9e0b1a20949a870d"
+  }
+},{
+  "_id": {
+    "$oid": "60cde348fd2ddd3ed0ad5ffe"
+  },
+  "tuition": 99.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Cisco CCNA  Routing and VLANs",
+  "objectives": "This course is part 3 of 4 in the Cisco CCENT - ICND1 (100-101) series. In this course, the student will learn the fundamental concepts of networking, and then immedately apply this knowledge to the configuration of a router and switch.",
+  "description": "This course is part 3 of 4 in the Cisco CCENT - ICND1 (100-101) series. In this course, the student will learn the fundamental concepts of networking, and then immedately apply this knowledge to the configuration of a router and switch. By the end of the course, the student will have enough knowledge to set up a network environment that has multiple subnets over multiple virtual LANs (VLANs), use network address translation (NAT) to connect to the Internet, and hand out IP addresses automatically. Additionally, the student will take a deep dive into IP addressing, using binary, to really gain a fundamental understanding of how endpoints are addressed. All you need as a prerequisite is a willingness to learn and basic computer skills.",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-19T12:30:00.623Z"
+  },
+  "slug": "cisco-ccna-routing-and-vlans",
+  "__v": 0,
+  "photo": "photo_60cde348fd2ddd3ed0ad5ffe.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed9a6c9e0b1a20949a870e"
+  }
+},{
+  "_id": {
+    "$oid": "60cdfe34fd2ddd3ed0ad604e"
+  },
+  "tuition": 99.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Microsoft Azure Services and Concepts",
+  "objectives": "This course will teach you the services in Azure for designing cloud-based solutions. You’ll learn about application hosting in the cloud, as well as services that provide new opportunities to provide business value to customers.",
+  "description": "Azure provides opportunities to host applications and services in new ways, as well as new ways to provide business value to customers. In this course, Microsoft Azure Services and Concepts, you’ll learn about the foundational services within Azure. First, you’ll explore how Azure makes your applications available around the world, along with tools for managing the platform. Next, you’ll discover the compute and networking options available, and services that provide massive amounts of cost-effective storage for applications. Finally, you’ll learn how to leverage new services, like big data and artificial intelligence to provide new opportunities to add business value. When you’re finished with this course, you’ll have the skills and knowledge to select appropriate services in Azure to help you build solutions in the cloud.\n\n",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-19T14:24:52.128Z"
+  },
+  "slug": "microsoft-azure-services-and-concepts",
+  "__v": 0,
+  "photo": "photo_60cdfe34fd2ddd3ed0ad604e.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed9b079e0b1a20949a870f"
+  }
+},{
+  "_id": {
+    "$oid": "60ce0c04fd2ddd3ed0ad6080"
+  },
+  "tuition": 49.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Excel 2016 Charts in Depth",
+  "objectives": "- Course objectives",
+  "description": "Charts allow you to communicate information visually, in a way that's more impactful than raw data, and they happen to be one of the most powerful and easy-to-use features in Microsoft Excel. In Excel 2016, there are six brand-new chart types to learn. Let Dennis Taylor show you how to create different kinds of Excel charts, from column, bar, and line charts to exploded pies, and decide which type works best for your data. Learn how to fine-tune your chart's color and style; add titles, labels, and legends; insert shapes, pictures, and text boxes; and pull data from multiple sources. Plus, get an overview of the new chart types in Excel 2016: Treemap, Sunburst, Waterfall, Histogram, Pareto, and Box & Whisker.\n\nThe training wraps up with lesson on changing data sources for charts and printing and sharing charts.",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa63ef7ba027a49abdf5"
+  },
+  "createdAt": {
+    "$date": "2021-06-19T15:23:48.356Z"
+  },
+  "slug": "excel-2016-charts-in-depth",
+  "__v": 0,
+  "photo": "photo_60ce0c04fd2ddd3ed0ad6080.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed8963d87d5733d0033748"
+  }
+},{
+  "_id": {
+    "$oid": "60ce19bafd2ddd3ed0ad60da"
+  },
+  "tuition": 99.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Algorithms and Data Structures",
+  "objectives": "A look at the core data structures and algorithms used in day-to-day applications.",
+  "description": "In this course we will look at the core data structures and algorithms used in everyday applications. We will discuss the trade-offs involved with choosing each data structure, along with traversal, retrieval, and update algorithms. This is part 1 of a two-part series of courses covering algorithms and data structures. In this part we cover linked lists, stacks, queues, binary trees, and hash tables.\n",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-19T16:22:18.982Z"
+  },
+  "slug": "algorithms-and-data-structures",
+  "__v": 0,
+  "photo": "photo_60ce19bafd2ddd3ed0ad60da.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed9bfd9e0b1a20949a8710"
+  }
+},{
+  "_id": {
+    "$oid": "60d0992507b8c35e18706426"
+  },
+  "tuition": 29.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "The Secrets to Drawing",
+  "objectives": "By the end of this course, the student will have a strong understanding of the core concepts of drawing including materials, processes, and devices.",
+  "description": "Drawing is a skill that is learned and developed and this video course is designed to give you the knowledge that you need to draw better almost immediately! Anyone can learn how to draw. Each aspect of drawing is broken down into “easy to follow\" and “easy to understand\" segments complete with drawing demonstrations and commentary. All lessons are presented in High Definition! There are a total of 28 HD videos with over 500 minutes of drawing instruction. The course also includes 26 ebooks that combine for 178 pages with 498 color illustrations.\n\nHere's what's included...\n\nVideo 1 – “Introduction\"- An introduction to “The Secrets to Drawing\" video series.\nVideo 2 – “Line\" – A look at the element of art, line and its relationship to drawing. Concepts covered include contour, blind contour, line quality, and cross contour lines.\nVideo 3 – “Shape\" – A look at how shapes can be used to draw anything. Concepts covered include geometric and organic shapes, using shapes to draw objects.\nVideo 4 – “Form\" – A look at how to create the illusion of form on a 2-Dimensional surface. Concepts covered include turning shapes into forms, using shadow to further the illusion.\nVideo 5 – “Value\" – This video takes a look at the element of art, value and its relationship with drawing. Concepts explored include tints, shades, highlights and shadows, and creating the illusion of a light source.\nVideo 6 – “Space\" – This video takes a look at how to create the illusion of space on a 2-Dimensional surface. Concepts covered include overlapping, size, value/color, detail, placement on the paper, and linear perspective.\nVideo 7 – “One Point Perspective\" – Space is explored further in this video through one point perspective. Concepts covered include horizon line, vanishing point, one point perspective.\nVideo 8 – “Two Point Perspective\" – A look at how to use two point perspective to create the illusion of space in a drawing. Concepts covered include horizon line, vanishing points, two point perspective.\nVideo 9 – “Three Point Perspective\" – A look at creating the illusion of space through three point perspective. Concepts covered include vanishing points, horizon line, steps to three point perspective.\nVideo 10 – “Drawing Techniques\" – A look at basic drawing techniques and suggested media. Concepts covered include medium, hatching, cross hatching, blending, rendering, random lines, and stippling.\nVideo 11 – “Drawing from Life\" – Tips on drawing from life. Concepts covered include still life lighting, using a view finder, and sighting techniques.\nVideo 12 – “Drawing from Photos\" – How to draw realistic drawings from photographs. Concepts covered include cropping photos, editing photos, creating a grid, drawing with the aid of the the grid.\nVideo 13 – “Composition\" – How to create successful compositions in drawings. Concepts covered include sketching thumbnails, positive and negative space, Plato's Rule, The Rule of Thirds, The Golden Mean, eye movement, and how to create focal points.\nVideo 14 – “Graphite\" – A description and characteristics of the drawing medium, graphite. Concepts explored include graphite grades, characteristics, forms, and techniques.\nVideo 15 – “Charcoal\" – A look at the drawing medium, charcoal. Concepts covered include charcoal forms and applications.\nVideo 16 – “Drawing with Ink\" – An exploration of the drawing medium of ink. Concepts covered include ink wash, choosing the right ink, pen and ink applications with a nib pen.\nVideo 17 – “Color\" – A look at the three parts of color theory and how it influences color choices in our drawings. Concepts covered include: the color wheel, primary, secondary, tertiary, color values, color intensity, psychological effects of color, color schemes, monochromatic, complementary, color triads, color tetrads, analogous, warm, cool, split complementary.\nVideo 18 – “Colored Pencils\" – How to use colored pencils. Concepts covered include layering, mixing, building up colors, burnishing, and adding details.\nVideo 19 – “Oil Pastels\" – An exploration into the drawing medium of oil pastels. Concepts covered include layering, mixing, and landscape drawing with oil pastels.\nVideo 20 – “Soft Pastels\" – An in-depth look at the use of soft pastels in the creation of a seascape. Concepts covered include proper use of soft pastels including smudging and layering colors.\nVideo 21 – “Facial Proportions\" – A look at basic facial proportions from the front and profile views. Concepts covered include general locations of facial features and placement relationships.\nVideo 22 – “The Eye\" – An in-depth look at drawing a human eye.\nVideo 23 – “The Nose and the Mouth\" – A look at drawing the nose and the mouth.\nVideo 24 – “The Ear\" – A look at drawing the human ear with graphite.\nVideo 25 – “Hair\" – A look at drawing hair with graphite.\nVideo 26 – “Basic Figure Drawing\" – A basic introduction to figure drawing including a simple four step method for drawing a figure.\nVideo 27 – “Foreshortening\" – Drawing the figure in perspective.\nVideo 28 – “Conclusion\" – A review of the course and a plan for moving forward.\nWho this course is for:\nThis course is designed for anyone looking to improve their drawing skills",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5ab25ef7ba027a49abdfa"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T13:50:29.710Z"
+  },
+  "slug": "the-secrets-to-drawing",
+  "__v": 0,
+  "photo": "photo_60d0992507b8c35e18706426.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee8bfa04445e4d444506bb"
+  }
+},{
+  "_id": {
+    "$oid": "60d0baf9043f4850b45434df"
+  },
+  "tuition": 24.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Learning Microsoft Power BI Desktop",
+  "objectives": "- Course objectives",
+  "description": "Power BI Desktop—the powerful data analysis and visualization software from Microsoft—can help you get more insights from your data, whether that data is stored on your computer or in the cloud. In this course, discover how to leverage this easy-to-use tool to more efficiently model and visualize data. Learn how to connect various data sources, including Excel, databases, and web data sources like Wikipedia. Explore how to search and transform your data using the built-in Query Editor. Plus, instructor Gini von Courter shows how to build and arrange visualizations, create interactive reports, share your work, manage your published files in the Power BI service, and more.\n",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T16:14:49.538Z"
+  },
+  "slug": "learning-power-bi-desktop",
+  "__v": 0,
+  "photo": "photo_60d0baf9043f4850b45434df.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed9d669e0b1a20949a8711"
+  }
+},{
+  "_id": {
+    "$oid": "60d2185e12ca01096812b634"
+  },
+  "tuition": 39.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Foundations of Drawing Cartoon Characters for Animation",
+  "objectives": "- Drawing gesture and attitude drawings\n- Creating thumbnail drawings\n- Understanding line of action, negative space, exaggeration, and more\n- Drawing eyes and mouths\n- Drawing feet and hands\n- Drawing animals\n- Going from rough sketch to full-color drawing",
+  "description": "Learn to draw cartoon characters for classical cel animation, digital animation, comic books, or just for fun. In this course, Dermot O' Connor reviews the basics of character drawing and the principals that underlie effective characters: silhouette, exaggeration, squash and stretch, asymmetry, texture, line weight, and more. Then he focuses on drawing individual body parts—eyes, mouths, hands, and hair—as well as different types of animals, creatures, and objects. Finally, watch Dermot take a drawing from start to finish, creating a memorable character ready for handoff to animators.\n\nFollow along with your favorite illustration program, your Wacom tablet, or paper and pen.",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5ab25ef7ba027a49abdfa"
+  },
+  "createdAt": {
+    "$date": "2021-06-22T17:05:34.241Z"
+  },
+  "slug": "foundations-of-drawing-cartoon-characters-for-animation",
+  "__v": 0,
+  "photo": "photo_60d2185e12ca01096812b634.png",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee8c7f04445e4d444506bd"
+  }
+},{
+  "_id": {
+    "$oid": "60d239378d74222d98f2c8db"
+  },
+  "tuition": 49.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "C# Generics",
+  "objectives": "- Generics are a powerful feature of the C# language\n- This course will look at the built-in generic collections of the .NET framework\n- Use generic classes, interfaces, and delegates in building custom collections\n- Custom APIs for a repository and inversion of control container.",
+  "description": "Generics are a powerful feature of the C# language that allow you to create type-safe data structures and APIs. This course will examine generics from every angle. We'll look at the built-in generic collections of the .NET framework, and use generic classes, interfaces, and delegates in building custom collections. There are tips for cleaning up and hiding generic noise from business logic, as well as a thorough demonstration of constraints, covariance, and contravariance in building APIs for a custom repository and inversion of control container.",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-22T19:25:43.147Z"
+  },
+  "slug": "c-generics",
+  "__v": 0,
+  "photo": "photo_60d239378d74222d98f2c8db.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed9dde9e0b1a20949a8712"
+  }
+},{
+  "_id": {
+    "$oid": "60d33e6c3f2cb211d0ec94e0"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "MERN Stack Front To Back Full Stack React, Redux & Node.js",
+  "objectives": "- Build a full stack social network app with React, Redux, Node, Express & MongoDB\n- Create an extensive backend API with Express\n- Use Stateless JWT authentication practices\n- Integrate React with an Express backend in an elegant way\n- React Hooks, Async/Await & modern practices\n- Use Redux for state management\n- Deploy to Heroku with a postbuild script",
+  "description": "Welcome to \"MERN Stack Front To Back\". In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes...\n\nBuilding an extensive backend API with Node.js & Express\n\nProtecting routes/endpoints with JWT (JSON Web Tokens)\n\nExtensive API testing with Postman\n\nIntegrating React with our backend in an elegant way, creating a great workflow\n\nBuilding our frontend to work with the API\n\nUsing Redux for app state management\n\nCreating reducers and actions for our resources\n\nCreating many container components that integrate with Redux\n\nTesting with the Redux Chrome extension\n\nCreating a build script, securing our keys and deploy to Heroku using Git\n\n\n\nUPDATE: The entire course was updated to use React Hooks, Async/Await and better overall code.\n\n \n\nThis is NOT an \"Intro to React\" or \"Intro to Node\" course. It is a practical hands on course for building an app using the incredible MERN stack. I do try and explain everything as I go so it is possible to follow without React/Node experience but it is recommended that you know at least the basics first.\n\nWho this course is for:\nAnyone that wants to learn how to build and deploy a full stack MERN application",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-23T14:00:12.117Z"
+  },
+  "slug": "mern-stack-front-to-back-full-stack-react-redux-and-node.js",
+  "__v": 0,
+  "photo": "photo_60d33e6c3f2cb211d0ec94e0.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed199df07a9465f410b98b"
+  }
+},{
+  "_id": {
+    "$oid": "60d370d23f2cb211d0ec9548"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Red Hat Certified Engineer (RHEL 8 RHCE)",
+  "objectives": "- Everything you need to become a Red Hat Certified Engineer (RHEL 8 RHCE).\n- Final Practice Review RHCE8\n- Understand Core Components of Ansible – Playbooks\n- Using Ansible Modules to Manage Security in Your Environment\n- Configure Ansible Managed Nodes\n- Using Ansible Modules to Manage Services in Your Environment\n- Working with Essential Red Hat Linux System Administration Tools – yum",
+  "description": "The Red Hat Certified Engineer course will prepare you for the certification exam from Red Hat. This certification is intended to be earned by a current Red Hat Certified System Administrator (RHCSA). This course will prepare you for the performance based certification exam by Red Hat that is intended to demonstrate your knowledge, skills and experience as a senior system administrator that is responsible for Red Hat Enterprise Linux systems.",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-23T17:35:14.664Z"
+  },
+  "slug": "red-hat-certified-engineer-(rhel-8-rhce)",
+  "__v": 0,
+  "photo": "photo_60d370d23f2cb211d0ec9548.jpg",
+  "isPublished": false
+},{
+  "_id": {
+    "$oid": "60d3829d3f2cb211d0ec95a6"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": true,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "English Grammar Pro  Beginner to Advanced A1-C1 Grammar",
+  "objectives": "- ALL English grammar to sound fluent\n- better PRONUNCIATION (American)\n- when native speakers IGNORE grammar rules in spoken conversation\n- how to FEEL CONFIDENT with the English language\n- Grammar for IELTS, TOEFL, TOEIC, FCE and CAE",
+  "description": "Grammar is the easy part of learning English!\n\nthere are rules\n\npractice by yourself\n\nand practice at your own speed!\n\nTo make English grammar easy, I\n\nadd new videos you request!\n\nfocus on pronunciation\n\ntell you when native speakers ignore the rules in spoken conversation!\n\nYour goal is to FINISH studying grammar\n\nFinish studying grammar so you can become fluent and confident in the English language!\n\n(and master exams like IELTS, TOEFL, TOEIC, FCE or CAE)\n\n\n\nATTENTION: There is some adult language in the live lectures that might not be suitable for children,\n\nas live lectures may include discussion of informal English slang and other expressions meant for adult learners.\n\nWho this course is for:\nJoin now if you are:\nSICK of grammar\nwant to FINISH studying grammar\nready to focus on SPEAKING English, not grammar",
+  "coupon": {
+    "$oid": "60ca3c88478cc01710ed8c16"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "createdAt": {
+    "$date": "2021-06-23T18:51:09.928Z"
+  },
+  "slug": "english-grammar-pro-beginner-to-advanced-a1-c1-grammar",
+  "__v": 0,
+  "photo": "photo_60d3829d3f2cb211d0ec95a6.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee882804445e4d444506af"
+  }
+},{
+  "_id": {
+    "$oid": "60d490eac542ec4e147e636b"
+  },
+  "tuition": 89.99,
+  "scholarshipAvailable": false,
+  "isFree": true,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "React Front To Back",
+  "objectives": "- Learn Modern React By Building 3 Projects\n- Flux Pattern Using Context & useContext/useReducer Hooks\n- Learn Redux From Scratch\n- Full Stack Development with MERN (MongoDB, Express, React, Node)\n- Suitable For Both Beginners & Intermediate React Developers",
+  "description": "In this course you will learn to master React 16.8+ concepts including how to create a Flux pattern using the Context API with the useContext and useReducer hooks. We will also build a full stack MERN application with a custom Express backend API that uses JWT (JSON Web Token) for authentication. In addition, we will also create a project that uses Redux.\n\nHere are some of the things you will learn in this course:\n\nReact Fundamentals (Components, props, state, etc)\n\nReact Hooks (useState, useEffect, useContext, useReducer, useRef) in real projects\n\nContext API & App Level State\n\nMERN - MongoDB, Express React, Node\n\nBuild a Custom API With JWT Authentication\n\nRedux - Reducers, Actions, etc\n\nBasic Animation\n\nMuch More...\n\nWho this course is for:\nDevelopers looking to learn Modern React 16.8+ with hooks & context, MERN & Redux",
+  "coupon": {
+    "$oid": "60ca3c88478cc01710ed8c16"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-24T14:04:26.104Z"
+  },
+  "slug": "react-front-to-back",
+  "__v": 0,
+  "photo": "photo_60d490eac542ec4e147e636b.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed199df07a9465f410b98b"
+  }
+},{
+  "_id": {
+    "$oid": "60d74695c2c0b0170001c505"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "The Modern Flexbox, Grid, Sass & Animations Developer Course",
+  "objectives": "- Learn the basics of CSS Flexbox\n- Learn the intermediate level of CSS Flexbox\n- Learn the advanced level of CSS Flexbox\n- Learn the fundamentals of UI Web Design\n- Learn the fundamentals of Responsive Web Design\n- be able create a portfolio website completely on CSS Flexbox\n- Learn the basics of CSS Grid\n- Learn the intermediate level of CSS Grid\n- Learn the advanced level of CSS Grid\n- be able create a villa booking website completely on CSS Grid\n- Learn how to setup Sass by two methods\n- Learn all about Sass\n- Be able create a fitness website using CSS Flexbox, CSS Grid and Sass with DARK MODE",
+  "description": "This is the most up to date and extensive course regarding CSS Flexbox, CSS Grid, Sass and Advanced CSS Animations. In this course you will learn all about CSS Flexbox and how it incorporates into real-world websites. You will learn the fundamentals of UI web design and responsive web design along with best practices. We will take a deep dive into the topic of CSS Grid and all the nuts and bolts of it. This course also covers the Sass Extension Language of CSS thoroughly.\n\nThe first website which we are going to create is a portfolio website for Designers and Developers. This website is fully responsive and has been created completely on CSS Flexbox.\n\nThe second website is a Villa Booking website with modern features such as an awesome looking Gallery Carousel. This website is also fully responsive on all devices, existing or yet to come. This website has been created purely with the power of CSS Grid.\n\nThe third website is a Fitness website where we will combine the true power of CSS Flexbox, CSS Grid and Sass. This website is the culmination of all of your efforts throughout the course. The biggest and boldest feature of this website is the DARK MODE FEATURE which allows users to change the color theme of the website with just one click.\n\nThere are a lot more that this course offers, starting from an intermediate level, it will take you beyond the advanced level all the way to becoming a legend in these technologies.\n\nOne Last Thing to Keep in Mind\n\nThis course is NOT going to be a static course. I will definitely update it regularly for fresh content.\n\nSo, what are you waiting for? Let’s start this epic journey together by ENROLLING IN THIS COURSE RIGHT NOW!\n\nWho this course is for:\nAnyone who is interested in learning web design and web development at the same time\nBeing interested in learning the latest features of CSS Flexbox, CSS Grid and Sass\nAnyone who wants to learn CSS Flexbox the right way\nAnyone who wants to learn CSS Grid the right way\nAnyone who wants to learn Sass the right way\nAnyone who wants to master CSS Animations",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-26T15:24:05.385Z"
+  },
+  "slug": "the-modern-flexbox-grid-sass-and-animations-developer-course",
+  "__v": 0,
+  "photo": "photo_60d74695c2c0b0170001c505.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed1a93f07a9465f410b98d"
+  }
+},{
+  "_id": {
+    "$oid": "60d760dfc2c0b0170001c63a"
+  },
+  "tuition": 19.99,
+  "scholarshipAvailable": false,
+  "isFree": true,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "IELTS Preparation For Beginners",
+  "objectives": "- Reading\n- Speaking\n- Listening\n- Writing",
+  "description": "Learn English for free with 1709 video lessons by experienced native-speaker teachers. Classes cover English grammar, vocabulary, pronunciation, IELTS, TOEFL, and more. Join millions of ESL students worldwide who are improving their English every day with engVid.",
+  "coupon": {
+    "$oid": "60ca3c88478cc01710ed8c16"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "createdAt": {
+    "$date": "2021-06-26T17:16:15.845Z"
+  },
+  "slug": "ielts-preparation-for-beginners",
+  "__v": 0,
+  "photo": "photo_60d760dfc2c0b0170001c63a.png",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee890804445e4d444506b1"
+  }
+},{
+  "_id": {
+    "$oid": "60d7672dc2c0b0170001c698"
+  },
+  "tuition": 24.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Writing Emails People Want to Read",
+  "objectives": "- Business writing\n- Written communication \n- Email",
+  "description": "In this course, instructor Sam Bennett shows you how to write great emails that'll leave a positive impression. First, Sam explains that being both personal and direct contributes to a high ROI, no matter who your recipient is. She goes over how to utilize the basic types of emails: inquiry, transactional or informational, and marketing or sales. She steps you through how to write engaging yet clear emails that grab your customer's attention and keep it. Sam teaches you what makes a good story work and what will convert prospects to customers. She walks you through best practices to make sure your emails get read at the right time by the right people and how to craft a relevant call to action. She shows you how you can reuse emails as blog posts, social media posts, and even compiled as ebooks. Sam concludes by discussing how to leverage email content to improve your FAQ and About US pages.",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "createdAt": {
+    "$date": "2021-06-26T17:43:09.438Z"
+  },
+  "slug": "writing-emails-people-want-to-read",
+  "__v": 0,
+  "photo": "photo_60d7672dc2c0b0170001c698.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee89d004445e4d444506b3"
+  }
+},{
+  "_id": {
+    "$oid": "60d78be9c2c0b0170001c6f9"
+  },
+  "tuition": 49.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Advanced Topics in C#",
+  "objectives": "- Apply sophisticated C# solutions to problems\n- Explore different programming styles and approaches",
+  "description": "This course presents a collection of interesting/unusual case studies where C# is used to solve a particular problem. This course is 100% practical, and demonstrates mainly the practical applications of C# in building solutions to common problems.\n\nThe main themes covered in this course are:\n\nNumerics — the specifics of how to work with numeric types in .NET, with a focus on SIMD data types and operations.\n\nReflection — how to operate reflection mechanisms to investigate assemblies and types, how to create types and invoke their members. Also a look at the practical use of reflection for working with attributes.\n\nMemory Management — a discussion of latest C# features for high performance computation, such as the passing of value types by reference, ref structs and Span<T>.\n\nExtension Methods — a seemingly simple mechanism has plenty of advanced uses.\n\nIn addition, this course comes with a section dedicated to assorted topics that also showcase advanced uses of C#. These topics include:\n\nExploiting IDisposable — shows how you can abuse the IDisposable/using mechanism in order to dynamically define operations as pairs of start/end calls. Useful for things like simple performance measurement.\n\nContinuation Passing Style — demonstrates how you can define complex algorithms in terms of sequentially invoked methods with customized return types indicating the result of the operation.\n\nLocal Inversion of Control shows that sometimes inversion of control happens at a local scale. Here we use extension methods to invert control on a bunch of different data types, providing useful functionality.\n\nBeyond the Maybe Monad — even though C# introduced the ?. operator in order to chain null checks together, the classic monad implementation, based on extension methods, is still relevant, as it can also handle other scenarios.\n\nMnemonics — not so much a C# language feature but rather an interesting way of defining huge sets of similar code templates that can be expanded quickly to the code constructs you need the most.\n\nCourse Pre-Requisites\n\nGood understanding of C#\n\nUnderstanding of object-oriented programming (OOP)\n\nExperience writing real-world C# applications\n\nCourse Organization\n\n100% hands-on\n\nDemonstrated either in Visual Studio or using the Kinetica rendering engine\n\nDemos are single .CS files\n\nHeavy use of IDE features\n\nAd-hoc use of 3rd-party packages\n\nEnjoy!\n\nWho this course is for:\nExperienced C# developers\nC#/.NET Architects",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-26T20:19:53.721Z"
+  },
+  "slug": "advanced-topics-in-c",
+  "__v": 0,
+  "photo": "photo_60d78be9c2c0b0170001c6f9.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee83a904445e4d4445069d"
+  }
+},{
+  "_id": {
+    "$oid": "60d79752c2c0b0170001c762"
+  },
+  "tuition": 49.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Frontend Masters Production Grade Vue.js",
+  "objectives": "- Familiarity with the best way to coding in JavaScript, HTML and CSS languages ​​with exercises and answers\n- Familiarity with CLI and its alternatives\n- Learn Component-related topics including naming, rewriting to reduce complexity, component file structure, Component Props, and solving complexity problems using Slots, Dynamic Components Switch\n- Composition API and its modules with exercises and answers\n- State management and a variety of routing techniques\n- Library testing and evaluation, working with Cypress and Unit & E2E tests\n- Learning Correction Maintenance (Code Maintenance)",
+  "description": "Learn best practices for building production-grade Vue.js applications that can scale and grow! You'll learn component design patterns, workflows to enhance productivity, testing methodologies, state management, routing, best practices for architecting increasingly complex applications, and more.",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-26T21:08:34.784Z"
+  },
+  "slug": "frontend-masters-production-grade-vue.js",
+  "__v": 0,
+  "photo": "photo_60d79752c2c0b0170001c762.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed1af6f07a9465f410b98e"
+  }
+},{
+  "_id": {
+    "$oid": "60d8b8b25374d2603c0d3538"
+  },
+  "tuition": 94.55,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Mastering IELTS Writing Task 2 (Band 9 Model Answers)",
+  "objectives": "- Understand the best way of formatting essays according to their question type\n- Use a wider range of collocations and expressions related to different topics\n- Save more time in the exam by learning a variety of time-saving techniques\n- Learn a number of ways of linking ideas together with transitional language\n- Discover how a number of complex grammatical constructions can be used\n- Learn the precise process for writing a high-scoring essay in IELTS Writing Task 2\n- Feel much more confident about tackling any question that comes up in the IELTS Writing exam",
+  "description": "In this course, there are two complete walkthroughs for essays according to each of the four question types, along with two walkthroughs for essays which do not neatly fall into these question type categories and two essays completed during my monthly live classes. All together, this makes a total of twelve complete walkthroughs of Band 9 essays. \n\nEach of the essays focuses on a different topic (including technology, work, culture and education among many others), helping you to generate ideas about a variety of fields and boost your range of topic-related vocabulary. The course applies to both the Academic and General Training modules\n\nOver the course of around 40 minutes, I will take you through the process of how to approach the question, plan your essay, write your introduction, develop your ideas in your body paragraphs, and close with a strong conclusion, all with a range of complex grammar and sophisticated vocabulary. And with 12 model answers to go through, this gives you over 9 hours of video content! \n\nThere are also exercises to complete after the end of every walkthrough that will give you the chance to consolidate the new topic-related collocations, academic vocabulary and cohesive language you have learnt. \n\nThis course works best as an 'accompaniment' to your main writing studies. In other words, to make the most out of this Model Answers course, it is strongly recommended for you to go through the original 'Mastering IELTS Writing: Task 2' course before beginning as all of the essays here rely on the strategies, techniques and guidance taught in that course. \n\nHowever, you can still benefit a lot from these model answers if you take the two courses at the same time.\n\nThis has been one of the most requested video courses from my 45,000+ Udemy students, and I'm really excited to be sharing it with you now. So let's get started! \n\nWho this course is for:\nAnyone aiming to score a band 6.5 or above in the IELTS Writing exam\nAnyone who is struggling to write coherent, well-organised essays in IELTS Writing Task 2",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "createdAt": {
+    "$date": "2021-06-27T17:43:14.718Z"
+  },
+  "slug": "mastering-ielts-writing-task-2-(band-9-model-answers)",
+  "__v": 0,
+  "photo": "photo_60d8b8b25374d2603c0d3538.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee8a5904445e4d444506b5"
+  }
+},{
+  "_id": {
+    "$oid": "60c5d4b017c0e511c8935697"
+  },
+  "tuition": 39.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Học Photoshop để trở thành nhà thiết kế chuyên nghiệp",
+  "objectives": "- Thành thạo những công cụ cơ bản, cần phải biết trong phần mềm Adobe Photoshop\n- Có kĩ năng sửa ảnh chân dung ấn tượng, chuyên nghiệp\n- Có khả năng chỉnh sửa ảnh phong cảnh theo sáng tạo ý muốn\n- Có thể tạo ra một giao diện web đẹp không thua kém gì dân thiết kế chuyên nghiệp chuyên về web\n- Tự tay thiết kế được những banner quảng cáo \"độc\" và \"lạ\"\n- Biết cách làm ra được những bức ảnh động thú vị chỉ từ Photoshop \n- Tạo ra được những hiệu ứng độc đáo và ấn tượng cho tấm ảnh thiết kế\n- Nắm được các nguyên lý về cách làm ảnh và tối ưu việc sử dụng Photoshop\n- Tạo được nền tảng chắc chắn và kỹ năng làm việc chuyên nghiệp để trở thành một Freelancer, một Designer xịn sò",
+  "description": "❓ Bạn là người có niềm đam mê về ảnh và muốn tạo ra những tấm ảnh ấn tượng?\n\n❓ Bạn là Designer, Marketer, Freelancer tự do hay đang làm những công việc mà kĩ năng chỉnh sửa ảnh là yêu cầu bắt buộc?\n\n❓ Bạn vẫn đang đi tìm cho mình một hướng đi phát triển, hướng học thiết kế để có sự sáng tạo và khả năng thu nhập cao?\n\n❓ Bạn cần một phần mềm chỉnh sửa ảnh chuyên nghiệp để tạo ra những poster, banner hay thậm chí là thiết kế giao diện web đẹp mắt, ấn tượng?\n\nĐể giải quyết tất cả các vấn đề trên, Giảng viên Lê Đức Lợi đã kết hợp cùng Unica mang đến cho các bạn khóa học trực tuyến \"Trở thành nhà thiết kế chuyên nghiệp với Adobe Photoshop CC 2015\".\n\nVới nội dung khóa học lên tới 107 bài học trong thời lượng 11 giờ 39 phút, giảng viên Lê Đức Lợi sẽ đem lại cho bạn đầy đủ tất cả những kiến thức cần thiết về công cụ của Photoshop mà một nhà thiết kế chỉnh sửa ảnh bắt buộc phải biết:\n\n+ Làm quen và sử dụng thành thạo các công cụ trong photoshop\n\n+ Nắm bắt được các kiến thức cơ bản về ảnh kĩ thuật số\n\n+ Tạo được kĩ xảo, blend màu cho ảnh một cách bài bản và chuyên nghiệp\n\n+ Ứng dụng thông minh và nhanh chóng vào công việc thiết kế hiệu quả nhất\n\nKhông chỉ có vậy khóa học còn hướng dẫn bạn áp dụng ngay những kiến thức đã học để làm những công việc cụ thể chứ không chỉ là học lý thuyết suông.\n\nSau khóa học bạn hoàn toàn có thể:\n\n     ✔️ Tự tay tạo ra những bức ảnh đẹp lung linh và chuyên nghiệp \n\n     ✔️ Tự chỉnh sửa và cho ra đời những bức ảnh chân dung tuyệt đẹp\n\n     ✔️ Chỉnh sửa ảnh phong cảnh theo phong cách và sự sáng tạo của riêng mình\n\n     ✔️ Thiết kế được giao diện web, poster, banner quảng cáo game theo phong cách đẹp - độc - lạ\n\n     ✔️ Trở thành một Designer, một Freelancer tự do chuyên nghiệp với mức thu nhập hàng chục triệu/tháng\n\nMuốn có ảnh đẹp phải biết Photoshop! Vậy còn chờ gì nữa hãy nhanh tay đăng kí khóa học Photoshop \"Trở thành nhà thiết kế chuyên nghiệp với Adobe Photoshop CC 2015\" thôi!",
+  "coupon": {
+    "$oid": "60ca3d2c478cc01710ed8c18"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa96ef7ba027a49abdf7"
+  },
+  "createdAt": {
+    "$date": "2021-06-28T07:38:10.421Z"
+  },
+  "slug": "hoc-photoshop-dje-tro-thanh-nha-thiet-ke-chuyen-nghiep",
+  "__v": 0,
+  "photo": "photo_60c5d4b017c0e511c8935697.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee871f04445e4d444506ab"
+  }
+},{
+  "_id": {
+    "$oid": "60d9fe39b43492099c63ff5f"
+  },
+  "tuition": 199,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Professional Swift",
+  "objectives": "- Objectives",
+  "description": "We begin the course by learning about value types (structs and enums), and when they are preferable over classes. We also learn about the copy-on-write technique and how to implement it ourselves. Then we learn how to load JSON from web APIs into our custom types, and how to export that content out again. Finally, we learn how to create frameworks, and import other frameworks using CocoaPods or Carthage.\n\nWe move on to learn advanced uses of Swift protocols and how protocol-oriented development improves efficiency and leads to more maintainable and reusable code. Then we learn about generics, and how they enable us to support multiple types without duplication. Later in the course, we discover different ways to structure a complete iOS app from scratch. We begin the discussion with the well-known MVC pattern and cover every other trending architecture in the iOS world.",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-28T16:52:09.886Z"
+  },
+  "slug": "professional-swift",
+  "__v": 0,
+  "photo": "photo_60d9fe39b43492099c63ff5f.png",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed85cad87d5733d0033744"
+  }
+},{
+  "_id": {
+    "$oid": "60da0dfcb43492099c63ffe0"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "React Native - The Practical Guide",
+  "objectives": "- Build native mobile apps with JavaScript and React\n- Dive deeper into React Native\n- Develop cross-platform (iOS and Android) mobile apps without knowing Swift, ObjectiveC or Java/ Android",
+  "description": "Requirements\nReact knowledge is a must (but you absolutely DON'T have to be an expert)\nJavaScript knowledge is a must, next-gen JavaScript knowledge (i.e. ES6+) is recommended\nNO Android/ Java or iOS (Swift, ObjectiveC) development experience is required\nDescription\nThis course was completely updated and now does not only cover the latest version of React Native but also includes refreshers on JavaScript & React.js!\n\nIn addition, a whole section on \"Push Notifications\" was added.\n\n---\n\nMobile apps are one of the best ways to engage with users - no wonder everyone wants to build one!\n\nWouldn't it be great if you could use your web development knowledge, combined with your React knowledge, to build mobile apps with that?\n\nThat's exactly what React Native allows you to do!\n\nNo need to learn Java, Android, Swift, ObjectiveC or anything of that - React and JavaScript is all you need to create awesome native mobile apps that work on both Android and iOS. That's probably the reason why Instagram, AirBnB, Skype and many other global companies are using it to build their mobile apps!\n\nWith this course, you can join this league. I'll teach you all you need to create your own React Native apps, publish them to the Google Play Store and Apple App Store and dive really deep into the React Native ecosystem.\n\nYou'll learn all about the theory behind React Native, its core concepts, how to build responsive designs that work on different device sizes, how to animate React Native apps, how to navigate around, use maps and the camera and so much more!\n\nAnd which better way to learn than by building a real app? We'll build the \"Awesome Places\" app in this course, an app where users can share amazing pictures and the location where they took them. This app will allow you to see things like using maps, the camera, user authentication, connecting to a server and much more in action.\n\nBy the end of the course, we'll of course also go through all steps required to get it into an app store.\n\nHere's a detailed look at what you'll get:\n\nThe core concepts and theory\n\nHow to use React, JavaScript and native components\n\nUnderstand how to navigate in React Native apps\n\nA closer look at styling and animating React Native apps\n\nInstructions on how to use third-party libraries in your React Native app\n\nDetailed examples on how to use maps or an image picker\n\nA full user authentication flow\n\nHow to connect to a backend server from your app\n\nDebugging instructions\n\nAnd so much more!\n\nWhat will you need to succeed in this course?\n\nNO Android, Java, Swift or ObjectiveC knowledge is required!\n\nJavaScript and React (for the web) knowledge is required though - you don't need to be an expert but the basics need to be set (though there are refresher sections in this course!)\n\nI'd be very happy to welcome you in the course!\n\nMax\n\nWho this course is for:\nAnyone who wants to use React to build native mobile apps\nEvery mobile developer who wishes to learn only one language to write cross-platform mobile apps\nEvery mobile or web developer who's interested in writing high-performance native apps with JavaScript",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-28T17:59:24.754Z"
+  },
+  "slug": "react-native-the-practical-guide",
+  "__v": 0,
+  "photo": "photo_60da0dfcb43492099c63ffe0.jpg",
+  "instructor": {
+    "$oid": "60ed1a1df07a9465f410b98c"
+  }
+},{
+  "_id": {
+    "$oid": "60db309b6a338b4e18b99b4b"
+  },
+  "tuition": 29.99,
+  "scholarshipAvailable": false,
+  "isFree": true,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "C# Programming a Practical Applications Approach",
+  "objectives": "- Program fluently in C# using Microsoft Visual Studio for Windows Machines\n- Understand how to create a basic Windows Form Application ... No Console Apps\n- Understand the basic concepts of Selection, Repetition, and Methods\n- Understand the intermediate concepts of Object Oriented Programming, String Handling, Arrays (One, Two Dimensional), Random Numbers, Graphics, and Animation\n- Apply the programming skills learned to create meaningful computer applications from the world of business, science , math and gaming. These solutions will incorporate the software design life cycle of problem definition,analysis, design, implementation, testing and maintenance\n- Create Business applications which simulate a computerized cash register for a cafeteria, and a sign in system for a doctors office\n- Create Science applications which create charts that convert from Fahrenheit to Celsius\n- Create applications which track student marks and determine averages, and highest and lowest marks\n- Create applications which determine credit card eligibility for applicants based on a scoring system\n- Create applications which check the validity of a credit card using String manipulation techniques\n- Create a program that plays the card game War\n- Create a Math program which displays a bar chart of sales over a period of years\n- Create a Graphics program which simulates an \"Etch-A-Sketch\" drawing program\n- Create a simple object animation then use it as the basis for a car race game\n- Create a slot machine game\n- Create a falling objects game ... where you move an object around with the keyboard and catch objects falling from the sky for points\n- Create a Space shooter game\n- Fully appreciate the wide range of applications that the study of Computer Science provides.",
+  "description": "Students will learn to create their own computer programs and video games using the C# programming language. No prior programming experience is assumed. This is a course for REAL BEGINNERS. We will introduce all the required programming skills from the ground up.This programming course is meant for ANYONE WHO WANTS TO LEARN TO CODE. We cover C# syntax but more importantly we introduce the PROBLEM SOLVING SKILLS necessary  to convert practical problems to solutions in code...You get paid for solving problems everything else is just a technicality.\n\nOur focus will be working with Visual Studio on WINDOWS machines .  All coding examples are fully compatible with the LATEST Visual Studio Edition (As of 2020 Visual Studio Community 2019) for WINDOWS ... Unfortunately they are not MAC compatible\n\nA language like C# is typically learned \"in a vacuum,\" and stripped of potentially distracting visual elements or front-end graphical interfaces. This type of learning process - which is considered the standard approach - is great for communicating the fundamentals. It allows you to focus on the most important and basic programming concepts you will need to understand, and is often presented through the output of a static, text-based console window. However, learning a language in this console vacuum can also be bland and boring, and can often lead to students becoming disengaged entirely.\n\nStudents are more likely to remain engaged by learning how to build Windows applications from day one in tandem with learning the C# programming language. Therefore, my lectures are designed to keep you engaged with the process of learning C# fundamentals by presenting them through a series of lessons aimed at creating simple, Windows Form based applications. This course, by jumping right into apps with a Graphical User Interface, allows the learner to feel like they are learning concepts that produce a tangible result. \n\nI walk you carefully through every possible feature you can imagine, and I use hundreds of existing projects you can learn from, or expand on to make your own project. It's worth sifting through a dozen mediocre Udemy courses to find a gem like this. It's pretty close to a one stop shop for taking you from knowing nothing about WinForms, to building your own whole applications.\n\nThis course has more hours of video instruction (18 + hours) , lectures (90+) and exercises and supplemental resources (132+)  than virtually any other Introductory C# course offered on Udemy.  All for one low price.\n\nStudents will be exposed to all the stages in software development and develop problem-solving skills as well as learn the syntax of the C# language.\n\nThe challenges/applications are drawn from a variety of situations in the  home,school and  workplace. They address a wide spectrum of  interests including business, science, math,art,music, and especially ANIMATION and GAMES ...(1/4 of the lectures).\n\nMy goal is not just to show you how to program, but to help you understand what you are doing, and why you are doing it.  I am online daily to respond to any problems you may encounter. \n\nNot only do the videos show you how to become a programmer in great detail, but each time an important concept is taught, I offer you a challenge that is designed to help you really understand what you have just learned.\n\nYou will go away and complete the challenge, and then come back and see the challenge answered and explained in detail in the video, allowing you to check your results!\n\nHere's how I will help you to succeed:\n\no    Each lecture starts with a list of objectives/speaking notes\n\no    Every example covered in the lecture is available for download in the resources section  … including the objectives/speaking notes\n\no    Almost every lecture has a set of Practice problems with full solutions provided\n\no    My style of writing and teaching follows the KISS principle : Keep It Super Simple.   I try to stay away from fancy computer terminology and try to teach like am speaking to a brand new user with little to no previous knowledge on the subject matter.... and  I am always available for help … replying most times within a day.\n\n... and finally, this is NOT a static course, updates are made several times a month, with new lectures and challenge problems added on a continual basis.\n\nWho this course is for:\nThis C# programming course is meant for ANYONE WHO WANTS TO LEARN TO CODE . We cover C# syntax but more importantly we introduce the problem solving skills necessary to convert practical problems to solutions in code. No prior programming knowledge is needed.",
+  "coupon": {
+    "$oid": "60ca3c88478cc01710ed8c16"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T14:39:23.926Z"
+  },
+  "slug": "c-programming-a-practical-applications-approach",
+  "__v": 0,
+  "photo": "photo_60db309b6a338b4e18b99b4b.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee843b04445e4d4445069f"
+  }
+},{
+  "_id": {
+    "$oid": "60db3aabc5d1bf40fc9a8379"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Design Patterns in C# and .NET",
+  "objectives": "- Recognize and apply design patterns\n- Refactor existing designs to use design patterns\n- Reason about applicability and usability of design patterns",
+  "description": "Course Overview\n\nThis course provides a comprehensive overview of Design Patterns in C# and .NET from a practical perspective. This course in particular covers patterns with the use of:\n\nThe latest versions of C# and the .NET framework\nUse of modern programming approaches: dependency injection, reactive programming and more\nUse of modern developer tools such as ReSharper\nDiscussions of pattern variations and alternative approaches\nThis course provides an overview of all the Gang of Four (GoF) design patterns as outlined in their seminal book, together with modern-day variations, adjustments, discussions of intrinsic use of patterns in the language.\n\nWhat are Design Patterns?\n\nDesign Patterns are reusable solutions to common programming problems. They were popularized with the 1994 book Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, John Vlissides, Ralph Johnson and Richard Helm (who are commonly known as a Gang of Four, hence the GoF acronym).\n\nThe original book was written using C++ and Smalltalk as examples, but since then, design patterns have been adapted to every programming language imaginable: C#, Java, PHP and even programming languages that aren't strictly object-oriented, such as JavaScript.\n\nThe appeal of design patterns is immortal: we see them in libraries, some of them are intrinsic in programming languages, and you probably use them on a daily basis even if you don't realize they are there.\n\nWhat Patterns Does This Course Cover?\n\nThis course covers all the GoF design patterns. In fact, here's the full list of what is covered:\n\nSOLID Design Principles: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle and Dependency Inversion Principle\nCreational Design Patterns: Builder, Factories (Factory Method and Abstract Factory), Prototype and Singleton\nStructrural Design Patterns: Adapter, Bridge, Composite, Decorator, Façade, Flyweight and Proxy\nBehavioral Design Patterns: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Null Object, Observer, State, Strategy, Template Method and Visitor\nWho Is the Course For?\n\nThis course is for .NET/C# developers who want to see not just textbook examples of design patterns, but also the different variations and tricks that can be applied to implement design patterns in a modern way. For example, the introduction of the DLR allows us to use an ImpromptuObject, so that our DynamicObject exposes any interface we desire. This allows for dynamic programming, and many design patterns are presented in terms of their static and DLR-based variations.\n\nPresentation Style\n\nThis course is presented as a (very large) series of live demonstrations being done in Microsoft Visual Studio. Most demos are single-file, so you can download the file attached to the lesson and run it in Visual Studio, Visual Studio Code, Rider or another IDE of your choice.\n\nThis course does not use UML class diagrams; all of demos are live coding. I use Visual Studio, various NuGet packages, R# unit test runner and even dotMemoryUnit.\n\n\n\nWho this course is for:\nBeginner and experienced developers\nAnyone interested in design patterns",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T15:22:19.897Z"
+  },
+  "slug": "design-patterns-in-c-and-.net",
+  "__v": 0,
+  "photo": "photo_60db3aabc5d1bf40fc9a8379.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee83a904445e4d4445069d"
+  }
+},{
+  "_id": {
+    "$oid": "60dc779a6a338b4e18b99d4e"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Master the Coding Interview: Big Tech FAANG Interviews",
+  "objectives": "- Ace the coding interview at the top tech companies (Google, Amazon, Facebook, Apple, Microsoft, Netflix + others)\n- Step by step guide to common questions, how to solve them, optimize, and present them during tech interview\n- The ultimate resource to prepare for coding interviews, tech interviews and programming interviews\n- Learn exactly what you need to answer difficult questions and the framework you need for ANY kind of questions they throw at you\n- Use the right Data Structures and Algorithms to pass coding interview questions that have the optimal solution\n- Become a better developer by mastering computer science fundamentals",
+  "description": "Want to land a job at a great tech company like Google, Microsoft, Facebook, Netflix, Amazon, or other companies but you are intimidated by the interview process and the coding questions? Do you find yourself feeling like you get \"stuck\" every time you get asked a coding question? This course is your answer. Using the strategies, lessons, and exercises in this course, you will learn how to land offers from all sorts of companies. This is the ultimate resource to prepare you for coding interviews. Everything you need in one place!\n\nThe goal of the course isn't to tell you: \"Do 100 interview questions and hope you memorize their answers.\" NO! Our goal is to use the hand selected common interview questions to give you a framework to answer ANY interview question that these companies may throw at you. Instead of trying to memorize common questions, we teach you the principles and fundamentals that you can use to notice certain common patterns in questions so that any question that you get, you have a framework to answer and be confident in your programming interview.\n\nYou will also get access to our private online community with thousands of developers online to help you get through the course and the interview!\n\nHere is what you will learn to use in this course while answering the interview questions step by step with us:\n\n----Technical----\n\n1. Big O Notation\n\n2. Data Structures Used:\n\n  * Arrays\n\n  * Hash Tables\n\n  * Singly linked lists\n\n  * Doubly linked lists\n\n  * Stacks\n\n  * Queues\n\n  * Binary Trees\n\n  * Binary Search Trees\n\n  * Tries\n\n  * N-ary Trees\n\n  * Min/Max Heaps\n\n  * Priority Queues\n\n  * 2-D Arrays/ Matrices\n\n  * Graphs\n\n  * Adjacency List\n\n  * Adjacency Matrix\n\n  * Interface Design\n\n\n\n3. Algorithmic Paradigms Used:\n\n  * Recursion\n\n  * Sorting\n\n  * Searching\n\n  * Tree Traversals\n\n  * Graph Traversals\n\n  * Breadth First Search\n\n  * Depth First Search\n\n  * Divide and Conquer\n\n  * Greedy Method\n\n  * Dynamic Programming\n\n  * Backtracking\n\n\n\n4. Specific Algorithms Used:\n\n  * Hoare's Quickselect Algorithm\n\n  * Floyd's Tortoise and Hare Cycle Detection Algorithm\n\n  * Bellman-Ford Algorithm\n\n  * Dijkstra's Algorithm\n\n  * Topological Sort\n\n\n\nUnlike most instructors out there, We are not marketers or salespeople. We are senior engineers and programmers who have worked and managed teams of engineers and have been in these interviews both as an interviewee as well as the interviewer.\n\nOur job as instructors will be successful if we are able to help you get your dream job at a big company. This one skill of mastering the coding interview can really change the course of your career and life and we hope you sign up today to see what it can do for your career!\n\n\nSee you inside the course!\n\n\n\nTaught by:\nAndrei is the instructor of the highest rated Web Development course on Udemy as well as one of the fastest growing. His graduates have moved on to work for some of the biggest tech companies around the world like Apple, Google, JP Morgan, IBM, etc... He has been working as a senior software developer in Silicon Valley and Toronto for many years, and is now taking all that he has learned, to teach programming skills and to help you discover the amazing career opportunities that being a developer allows in life. \n\nHaving been a self taught programmer, he understands that there is an overwhelming number of online courses, tutorials and books that are overly verbose and inadequate at teaching proper skills. Most people feel paralyzed and don't know where to start when learning a complex subject matter, or even worse, most people don't have $20,000 to spend on a coding bootcamp. Programming skills should be affordable and open to all. An education material should teach real life skills that are current and they should not waste a student's valuable time.   Having learned important lessons from working for Fortune 500 companies, tech startups, to even founding his own business, he is now dedicating 100% of his time to teaching others valuable software development skills in order to take control of their life and work in an exciting industry with infinite possibilities. \n\nAndrei promises you that there are no other courses out there as comprehensive and as well explained. He believes that in order to learn anything of value, you need to start with the foundation and develop the roots of the tree. Only from there will you be able to learn concepts and specific skills(leaves) that connect to the foundation. Learning becomes exponential when structured in this way. \n\nTaking his experience in educational psychology and coding, Andrei's courses will take you on an understanding of complex subjects that you never thought would be possible.  \n\n-------\n\nYihua Zhang is one of the Instructors of Zero To Mastery, one of the highest rated and fastest growing Web Development academies on Udemy. He has been working as a software developer for numerous years in Toronto for some of the largest tech companies in the world. He has also been working as an instructor for more than a decade. He is focused on bringing everything he has learned to help you achieve a new career as a developer, but also give you all the fundamental skills required to flourish in this incredible industry.\n\n\n\nYihua is a self taught developer, so he fully understands the challenges and mindset of coming into this industry from various other backgrounds. He has been on both sides of the table, as both an instructor and student numerous times so he can empathize with the difficulty of learning something new and challenging. Learning itself is a skill that needs to be practiced and improved upon, and he is dedicated to helping you improve and master that skill for yourself. Courses need to be practical, you need to be able to understand why you are learning the things that you are being taught. You need to understand the problem before you know the solution, and he prides himself on teaching you how to build professional, real world applications so you truly understand why you are doing things a specific way. He will teach you the mindset and skillset required to grow as a developer as fast as possible, so you can have the rich and fulfilling life that comes with this career.\n\n\n\nYihua's courses will guide you to build beautifully written and richly featured applications, while truly understanding all the complex concepts you will encounter along the way.\n\nWho this course is for:\nAnyone that wants to work a Google, Amazon, Facebook, Microsoft, Apple, Netflix or other top tech companies\nAny engineer, developer, programmer, who wants to improve their interviewing skills\nAnyone interested in improving their whiteboard coding skills\nAnyone who wants to become a better developer\nAny self taught programmer who missed out on a computer science degree",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T13:54:34.791Z"
+  },
+  "slug": "master-the-coding-interview:-big-tech-faang-interviews",
+  "__v": 0,
+  "photo": "photo_60dc779a6a338b4e18b99d4e.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee84e804445e4d444506a3"
+  }
+},{
+  "_id": {
+    "$oid": "60dcc880b6157a5c3c6a303d"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Unit Testing for C# Developers",
+  "objectives": "- Learn unit testing from scratch\n- Tips and tricks to write clean, maintainable and trustworthy tests\n- Write loosely-coupled and testable code\n- Refactor legacy code towards testable code\n- Understand and implement dependency injection\n- Use mocks to isolate code from external dependencies\n- Apply the unit testing best practices\n- Learn the anti-patterns to avoid",
+  "description": "Picture this: you make a simple change to the code and suddenly realize that you created a dozen unexpected bugs. Sound familiar? You’re not alone!\n\nGood news is, unit testing can make this a thing of the past.\n\nMaybe you’ve heard of automated or unit testing before and you’re keen to learn more.\n\nOr perhaps you’ve tried to learn it and got a bit lost or ended up with fat and fragile tests that got in the way and slowed you down.\n\nEither way, what you need is a course that will teach you all you need to know about this essential skill - from the basics, right through to mastery level.\n\n\n\nWhat is unit testing?\n\nIn a nutshell: it’s the practice of writing code to test your code and then run those tests in an automated fashion.\n\n\n\nWhy learn unit testing?\n\nWhy write extra code? Wouldn’t that take extra time to write? Would that slow you down? Why not just run the application and test it like an end user?\n\nThinking like this is the mistake lots of people make. I used to make it myself. I’ve had to learn the hard way!\n\nI learned pretty fast that if you’re building a complex application or working on a legacy app, manually testing all the various functions is tedious and takes a significant amount of time.\n\n\n\nAs your application grows, the cost of manual testing grows exponentially. And you’re never 100% sure if you’ve fully tested all the edge cases. You’re never confident that your code really works until you release your software and get a call from your boss or an end user!\n\nSeveral studies have shown that the later a bug is caught in the software development lifecycle, the more costly it is to the business.\n\nAutomated tests help you to catch bugs earlier in the software development lifecycle, right when you’re coding. These tests are repeatable. Write them once and run them over and over.\n\n\n\nThe benefits of using unit tests are:\n\nhelp you to catch and fix bugs earlier, before releasing your app into production\nhelp you to write better code with less bugs\nhelp you to produce software with better design - extensible and loosely-coupled\ngive you rapid feedback and tell you if your code *really* works\nforce you to think of edge cases that you didn’t realize existed\ntest your code much faster\ntell if you have broken any functionality as you write new code\nallow you to refactor your code with confidence\nact as documentation about what your code does\nsave you both time and money\n\n\nA valuable skill for senior developers\n\nMore and more companies are recognizing the advantages of automated testing, that’s why it’s a must-have for senior coders. If you’re looking to reach the higher levels in your coding career, this course can help.\n\nYou don’t need any prior knowledge of automated testing. You only need 3 months of experience programming in C#.\n\n\n\nWith this course you’ll learn:\n\nsenior coder secrets - best practices to write great unit tests\ntips and tricks to keep your tests clean, trustworthy and maintainable\nthe pitfalls to avoid – anti-patterns\nhow to refactor legacy, untestable code into loosely-coupled and testable code\nall about dependency injection – the one thing every coder needs to know\nthe power of mocks – when and how to use them and when to avoid\n\n\nYou’ll get:\n\n6 hours of HD video\ntutorials and guidance from a senior coder with 15+ years’ experience\nexercises with step-by-step solution\ndownloadable source code\nlifetime access\naccess online or offline at any time on any device\ncertificate of completion to present to your current or prospective employer\nWho this course is for:\nAnyone who wants to build better quality software with fewer bugs\nAny developers who want to transition to the senior level",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T19:39:44.262Z"
+  },
+  "slug": "unit-testing-for-c-developers",
+  "__v": 0,
+  "photo": "photo_60dcc880b6157a5c3c6a303d.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee856b04445e4d444506a5"
+  }
+},{
+  "_id": {
+    "$oid": "60dcd2e2b6157a5c3c6a309c"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Modern Food Recipes App - Android Development with Kotlin",
+  "objectives": "- Develop a fully functional Android App\n- Food Recipes Android app\n- ROOM Database\n- Dependency Injection - Dagger-Hilt - Retrofit\n- Offline Cache, Local & Remote Data Sources\n- Kotlin, Kotlin Coroutines\n- DataStore Preferences, Data Binding, Android ViewModel\n- LiveData, Flow, DiffUtil, RecyclerView, ViewPager\n- REST API, Client - Server Communication, HTTP Request, Parse HTTP Response\n- Dark and Light Theme, Motion Layout\n- Material Components\n- Create Shimmer Effect\n- Database Inspector\n- Create Contextual Action Mode\n- Share Data with Other Apps\n- Create Modal Bottom Sheet\n- Nice looking UI Design\n- Migration from kotlin-android-extensions plugin",
+  "description": "Hello there and welcome to my course, in this course I'm going to teach you how to create a fully functional Android application using the power of Kotlin programming language. We are going to develop Food Recipes application, where we can browse recipes from various different kind of meal and diet types. This App Design will be a lot similar to the one from my Material UI Design course which I made a while ago.\n\nOur application will work with both Remote and local data sources. And for Remote data source we will use a third party API for food recipes, called Spoonacular. I'm going to teach you how to establish connection between your app and the server. So basically we will send GET Request to our API and receive a list of food recipes as a Response. Also our app will be able to handle no internet connection, and store or cache the data localy to our database when it's needed.\n\nAlso from our application we will be able to search recipes from our API directly. So if you have your favorite flavor you can search it here and probably you'll find many amazing recipes. Next our app will have Favorites Fragment where we can save our favorite recipes for later use when we need them. And finally our app will have it's fun side, and that is food joke fragment.\n\n\n\nHowever this course is not for Absolute Beginners in Android Development, at least you need to have a basic knowledge about most popular Android Architecture components, and Kotlin programming language in general. This is not going to be easy task especially if you haven't worked before simultaneously with API and local database. Still don't get discouraged everything is learnable here, if you are motivated enough of course.\n\nOne more thing, so this course will be an ongoing project which means that I will post updates on a regular basis, whenever we find a new bug, or whenever some code cleanup is required. Which is why I want to involve all of you who watch this course to work together with me in making this  app even better. I'm going to give me you more details about that at the end of this course of course.\n\nSo what are you waiting for, let's get started developers!\n\nSource code: Visit my Github profile (stevdza-san)",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T20:24:02.369Z"
+  },
+  "slug": "modern-food-recipes-app-android-development-with-kotlin",
+  "__v": 0,
+  "photo": "photo_60dcd2e2b6157a5c3c6a309c.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed86bed87d5733d0033745"
+  }
+},{
+  "_id": {
+    "$oid": "60de1c73bbb6de39509c5ecc"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Android Firebase Firestore - Masterclass - Build a Shop App",
+  "objectives": "- You will be able to create an Android E-Commerce Application from scratch using Google Firebase - Firestore\n- You will learn Firebase basics, how to upload and download data to and from the online database, etc.\n- Build your own cloud apps with cloud storage, like Whatsapp, Instagram, or Tinder\n- Learn Firebase basics, how to upload and download data to and from the online database, etc.\n- You will learn Build an application with Cloud Database Firebase\n- You will know how to build different Firebase modules, such as authentication, cloud storage, database",
+  "description": "E-commerce is the future of commerce, and throughout this brand new course, we will learn how to build this future together.\n\nThis new course is specifically designed so you can build your own Firebase e-commerce application using simple technics and an easy step-by-step guide.\n\nYou probably already have some experience with Android Programming, but haven't worked with cloud solutions such as firebase yet? No problem at all! This course is suitable for everyone with the motivation to build his own application with a cloud database. I will give you simple explanations of the complex tools and will help you with every step.\n\nIn this course, you will learn how to build your own e-commerce app for Android using the Firestore database of Google Firebase\n\nYou will build the shop app MyShopPal which is an adjustable e-commerce application that you can use to create your own store or use it as a template to create an e-commerce app for your client. The code itself is worth hundreds if not thousands of dollars.\n\nIn this course we are covering such topics as\n\nFirebase basics\n\nHow to upload and download data to and from an online database\n\nDisplaying Images from the Cloud in your app\n\nCreating User Profiles\n\nUploading and displaying Products\n\nBuilding a Cart System\n\nSelecting images from your phone\n\nAfter my step-by-step guidance, you will be able to\n\nbuild your own Cloud Apps. Not only Shop apps but with the Firebase skills you will acquire, you will also be able to build Apps like Whatsapp, Instagram, or Tinder\n\nWe will build the application from scratch together. Starting with the login page and authentication, dashboard with your merchandise we will build the complete and finished app.\n\n30-DAY FULL MONEY-BACK GUARANTEE\n\nThis course comes with a 30-day full money-back guarantee. Take the course, watch every lecture, and do the exercises, and if you feel like this course is not for you, ask for a full refund within 30 days. All your money back, no questions asked.\n\nABOUT YOUR INSTRUCTOR:\n\nMy name is Denis Panjuta and in my courses, I have taught over 150.000 students how to code. I have a Bachelor of Engineering at the University of Applied Sciences in Constance (Germany). I love teaching and creating high-quality courses. My mission is, to teach programming to over 10 M people!\n\nWho this course is for:\nIf you are Android Developer curious about Firestore\nIf you are beginner Android Developer looking for the next exciting project\nIf you want to quit your job and work as a developer from anywhere in the world, e.g. a beautiful beach, then take this course",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-01T19:50:11.935Z"
+  },
+  "slug": "android-firebase-firestore-masterclass-build-a-shop-app",
+  "__v": 0,
+  "photo": "photo_60de1c73bbb6de39509c5ecc.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed8747d87d5733d0033746"
+  }
+},{
+  "_id": {
+    "$oid": "60df3d556a95622af477b6af"
+  },
+  "tuition": 19.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "IELTS: Academic Words for English",
+  "objectives": "- Have a wider range of vocabulary, which will be useful for the IELTS test or just to improve your English",
+  "description": "**Please watch the PREVIEW VIDEOS before you buy this course to help you decide if this is the right course for you.**\n\nIf you want to get a high band score in IELTS Speaking and Writing, then this is the course for you. Not only will it help you with your IELTS preparation, but also improve your English as well. \n\nThe course includes:\n\n35 videos - more than 1000 example sentences included\n\n35 quizzes\n\n20 hours of study\n\nKnowing and using a wide range of vocabulary for IELTS is essential and in this course you will learn a wide range of useful words that will help you with both IELTS Speaking and Writing.\n\nThis course has been written and presented by former IELTS examiners and native speakers of English.\n\n**Please watch the PREVIEW VIDEOS before you buy this course to help you decide if this is the right course for you.**\n\nWho this course is for:\nPre-intermediate students and above",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "createdAt": {
+    "$date": "2021-07-02T16:22:45.062Z"
+  },
+  "slug": "ielts:-academic-words-for-english",
+  "__v": 0,
+  "photo": "photo_60df3d556a95622af477b6af.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee8b2004445e4d444506b7"
+  }
+},{
+  "_id": {
+    "$oid": "60df548f6a95622af477b767"
+  },
+  "tuition": 49.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Linux Security The Complete Iptables Firewall Guide",
+  "objectives": "- Acquire an In-Depth Understanding of Netfilter/Iptables Linux Firewall (Chains, Tables, Matches, Targets).\n- Acquire the Skills to build Advanced Iptables Firewalls. Hands-on experience with Iptables.\n- Learn to work efficiently with IPSET to drop large collections of IPs and Networks (like entire Countries)\n- Understand Iptables Best Practices for creating custom Firewalls.\n- Acquire the Skills to configure a Linux OS as a NAT Router.\n- Acquire the Skills to configure Port Forwarding on Linux Routers.\n- See practical examples for EACH Iptables Command, Match or Target.\n- Use Shell Scripts to automate tasks like blocking or permitting a service, an IP/Network or a MAC address.\n- Apply the Skills to secure Servers, Networks, Routers or Linux Desktop Operating Systems.\n- Hundreds of hands-on exercises with solutions and quizzes.",
+  "description": "***Fully updated for 2021*** This Iptables course covers every major topic related to Netfilter and Iptables including Ipset, Advanced Matches and Targets, NAT, Fort Forwarding, User-Defined Chains, and many more!\n\nWelcome to the most complete and up-to-date course for learning and using Netfilter & Iptables Linux Firewall, taught by a DevOps Engineer and Professional Trainer.\n\nJust starting out with Linux Security and Iptables? Perfect. This course starts out assuming you're new to Netfilter, Iptables, and Linux Firewalls.\n\nOr maybe you've already tried to learn Iptables by yourself and now you want to put all the pieces together? Then, I'm here to help you! This course has everything you need to know about Netfilter and Iptables.\n\nYou'll have lifetime access and you can return and look for a specific Iptables match, target or option anytime you want.\n\nAll presentations and Iptables examples used in this course are available for download.\n\nThe course contains many quizzes for you to take and test your knowledge.\n\n\n\nThere are many courses on Linux Security or Iptables. Why should you learn from me?\n\nI'm a Practitioner and an Enthusiast. Welcome to the real world! I have almost 20 years of experience as a Linux Sysadmin, Security Engineer, and Full Stack Developer. I use Linux on a daily basis.\n\nI'm an Educator and I know how to make a syllabus. For the last 10 years, I've trained thousands of people on Linux, Networking, Security, or Programming.\n\nThe topics covered in this course are:\n\nIptables chains and tables\n\nChains and tables traversal\n\nAnatomy of an iptables rule\n\nFilter large collections of IPs and Networks using Ipset\n\nFilter traffic by country\n\nIptables matches (implicit & explicit).\n\nFilter Traffic by IP, Network, Port, Protocol, Interface, MAC, TCP Flags, Date and Time, Quota, etc.\n\nIptables targets: DROP, REJECT, ACCEPT, LOG, REDIRECT, TEE, SNAT, DNAT, MASQUERADE, etc.\n\nNAT\n\nPort Forwarding\n\nAutomation using shell scripts\n\nHow to use Iptables Best-Practices\n\nEvery topic includes many live examples.\n\n\n\nAfter taking this course, you'll be able to:\n\nHave an In-Depth understanding of Netfilter/Iptables architecture.\n\nUnderstand Iptables chains and tables.\n\nUnderstand how a Firewall works.\n\nCreate Iptables rules that filter incoming, outgoing, or routed traffic based on any possible criteria including the country the packet is coming from or destined to.\n\nLOG malicious traffic.\n\nPrevent DoS Attacks.\n\nUse Ipset to drop tens of thousands of Networks with no performance degradation.\n\nOptimize Iptables firewalls.\n\nAutomate different firewall security tasks using shell scripts.\n\nConfigure NAT and MASQUERADE.\n\nConfigure Port Forwarding (DNAT).\n\nUser efficiently Nmap and Netstat.\n\nWho this course is for:\nLinux Sysadmins.\nNetwork Administrators.\nDevOps Engineers.\nSecurity Professionals.",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-07-02T18:01:51.238Z"
+  },
+  "slug": "linux-security-the-complete-iptables-firewall-guide",
+  "__v": 0,
+  "photo": "photo_60df548f6a95622af477b767.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee864804445e4d444506a7"
+  }
+},{
+  "_id": {
+    "$oid": "60e49327fdac4c4ad86514ae"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "title": "Flutter & Dart - The Complete Guide",
+  "objectives": "- Learn Flutter and Dart from the ground up, step-by-step\n- Build engaging native mobile apps for both Android and iOS\n- Use features like Google Maps, the device camera, authentication and much more!\n- Learn how to upload images and how to send manual and automated push notifications\n- Learn all the basics without stopping after them: Dive deeply into Flutter & Dart and become an advanced developer",
+  "description": "Join the most comprehensive & bestselling Flutter course and learn how to build amazing iOS and Android apps!\n\nYou don't need to learn Android/ Java and iOS/ Swift to build real native mobile apps!\n\nFlutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces.\n\nFlutter is extremely trending and gets used for major Google apps like their Adwords app - it's now marked as \"ready for production\", hence now is the time to jump in and learn it!\n\nThis course will teach Flutter & Dart from scratch, NO prior knowledge of either of the two is required! And you certainly don't need any Android or iOS development experience since the whole idea behind Flutter is to only learn one language.\n\nYou'll learn Flutter not only in theory but we'll build a complete, realistic app throughout this course. This app will feature both all the core basics as well as advanced features like using Google Maps, the device camera, adding animations and more!\n\nWith Flutter, you'll be able to write code only once and ship your apps both to the Apple AppStore and Google Play.\n\nUse Google's Material Design to build beautiful, yet fully customizable, apps in no time with almost zero effort. You can use the rich widget suite Flutter provides to add common UI elements like buttons, switches, forms, toolbars, lists and more - or you simply build your own widgets - Flutter makes that a breeze, too.\n\nHere's what's included in the course:\n\nDetailed setup instructions for both macOS and Windows\n\nA thorough introduction to Flutter, Dart and the concept behind widgets\n\nAn overview of the built-in widgets and how you may add your own ones\n\nDebugging tipps & tricks\n\nPage navigation with tabs, side drawers and stack-based navigation\n\nState management solutions\n\nHandling and validating user input\n\nConnecting your Flutter app to backend servers by sending Http requests\n\nUser authentication\n\nAdding Google Maps\n\nUsing native device features like the camera\n\nAdding beautiful animations & page transitions\n\nImage Upload\n\nPush Notifications - manual approach and automated\n\nHow to publish your app to the app stores\n\nAnd more!\n\nThis course is for you if ...\n\nYou're interested in building real native mobile apps for the two most popular mobile platforms - iOS and Android\n\nYou want to explore the full set of features Flutter offers\n\nDon't want to spend hours learning two completely different languages\n\nCourse prerequisites:\n\nBasic programming language knowledge will help a lot but is not a hard requirement\n\nYou DON'T need to know Flutter or Dart\n\nYou DON'T need to know iOS (Swift/ObjectiveC) or Android (Java)\n\nWho this course is for:\nBeginner and experienced developers who are interested in diving into mobile app development using one language for both platforms\nExperienced iOS or Android developers who want to build cross-platform (iOS + Android) apps with one single programming language",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-06T17:30:15.227Z"
+  },
+  "slug": "flutter-and-dart-the-complete-guide",
+  "__v": 0,
+  "photo": "photo_60e49327fdac4c4ad86514ae.jpg",
+  "instructor": {
+    "$oid": "60ed1a1df07a9465f410b98c"
+  }
+},{
+  "_id": {
+    "$oid": "60e4c3028312010680f7216f"
+  },
+  "tuition": 79.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Object Oriented PHP & MVC",
+  "objectives": "- Build a custom MVC Framework from absolute scratch\n- Build an application using your custom framework\n- Create a custom PDO class to handle database interactions\n- Complete user authentication using OOP & PDO\n- Deploy your custom PHP application",
+  "description": "In this course we will go step by step to build a complete custom MVC (Model View Controller) framework Called TraversyMVC using object oriented PHP. We will build something similar to Codeigniter but much much lighter. This framework is completely open source and you are free to change the name, add stuff, etc and use it as your own. This framework will include...\n\nA core library class to load controllers & methods from the URL (Also using .htaccess)\nA base controller class to load models and views\nA custom database library using PDO for all models to interact with the database using prepared statements\nNot only will we create the framework but we will build an application on top of it called SharePosts which will be somewhat of a social network to share posts. This application will include..\n\nFull user authentication\nAccess control for posts\nServer side form validation\nBootstrap 4 UI\nPosts CRUD\nHelper functions (flash messaging & redirects)\nWe will also be deploying the application to the Internet\n\nThis is not a beginner PHP course. To learn the basics, please check out the PHP Front To Back series on YouTube by Traversy Media\n\nWho this course is for:\nPeople wanting to learn advanced OOP PHP and MVC (Model View Controller)",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-06T20:54:26.923Z"
+  },
+  "slug": "object-oriented-php-and-mvc",
+  "__v": 0,
+  "photo": "photo_60e4c3028312010680f7216f.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed199df07a9465f410b98b"
+  }
+},{
+  "_id": {
+    "$oid": "60e5bc0963465c604481ea6e"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Complete SQL and Databases Bootcamp: Zero to Mastery",
+  "objectives": "- Become an expert in SQL and Database Concepts\n- Understand SQL vs NoSQL, MongoDB vs MySQL vs PostgreSQL\n- Add SQL, PostgreSQL, MySQL, Redis, Database Management/Design to your resume\n- Learn to perform efficient and performant SQL queries using best practices\n- Learn how Machine Learning, Data Science and Data Engineers use Big Data and databases\n- Apply for SQL developer, Database Administrator, Business Analyst, Backend Developer and Business Intelligence roles\n- Use the right SQL features to work with data efficiently and solve database problems\n- Database best practices to design and manage your company data\n- Learn to make business and market decisions based on user data\n- Learn how to scale databases by using things like Sharding, Replication, etc...\n- Create your own databases while using SQL to interact with the data\n- Use real-world data to generate insights and reports using SQL\n- Tons of exercises to practice what you learn and test your knowledge\n- Help Sales/Marketing/Product managers make better decisions based on data analysis\n- Advanced SQL topics like indexes, aggregates, caching to make your database queries efficient\n- Learn how databases are used in Web & Mobile Applications, Machine Learning and other fields\n- Learn how to handle user passwords and keep data safe\n- Work with SQL across multiple tables and multiple databases\n- Learn to use Redis for fast memory storage\n- Master SQL joins",
+  "description": "Just launched with all modern SQL and Databases (PostgreSQL, MySQL, + more) features for 2021! Join a live online community of over 400,000+ students and a course taught by industry experts that have actually worked both in Silicon Valley and Toronto managing databases. This is one of the most in demand tech skills in the world right now with SQL being used for many years to come (it has been around since the 1970s and going stronger than ever)!\n\nUsing the latest best practices in SQL, Database Management and Database Design, this course is focused on efficiency. Never spend time on confusing, out of date, incomplete tutorials anymore. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies.\n\n\n\nWe guarantee you this is the most comprehensive online resource on Databases like PostgreSQL and MySQL. This project and exercise based course will introduce you to all of the modern toolchain of an SQL developer or anyone using a database in the workplace (Product Manager, Business Analyst/Intelligence, Data Analyst, Data Scientists, Machine Learning Engineer, Web Developer, Mobile Developer + any role requiring insights from data). Along the way, we will learn practical and real world skills that will get you hired.\n\n\n\nThe curriculum is going to be very hands on as we walk you from start to finish of working with databases and SQL, all the way into learning how to scale databases, how to manage them, and even bonus material on working with Big Data, Caching using Redis, and connecting PostgreSQL to a Node.js server. We even talk about pros and cons of choosing an SQL Database vs NoSQL like MongoDB. We will start from the very beginning by teaching you SQL and Database Fundamentals and then going into advanced topics so you can make good decisions and work with any data that your company has no matter how complex!\n\nThe topics covered are:\n\n- NoSQL (MongoDB) vs PostgreSQL, MySQL vs NewSQL\n\n- SQL Theory And Concepts\n\n- The Relational Model\n\n- SQL Basics\n\n- SQL Functions\n\n- Data Modification Language / DML\n\n- Data Query Language / DQL\n\n- Subqueries\n\n- Indexes\n\n- SQL Filtering / WHERE Statement\n\n- 3 Valued Logic\n\n- SQL JOINS\n\n- Window Functions\n\n- Date Filtering and Timestamps\n\n- SQL Aggregate Functions\n\n- SQL Operator Precedense\n\n- SQL ORDER BY\n\n- SQL GROUP BY\n\n- SQL Top Down Design\n\n- SQL Bottom Up Design\n\n- SQL Entity Relationship Diagram\n\n- SQL Normalization\n\n- Database Types\n\n- The role of a DBMS\n\n- Multi Table SELECT\n\n- The Software Development Lifecycle / SDLC\n\n- POSTGRES Role Management\n\n- POSTGRES Permission Management\n\n- POSTGRES Backup Strategies\n\n- POSTGRES Transaction Management/ SQL Transactions\n\n- POSTGRES/SQL Data Types\n\n- SQL Views\n\n- Redis Database\n\n- Elasticsearch\n\n- Connecting A Database To A Server/Web App (Node.js)\n\n- Data Engineering (Kafka, Hadoop, etc...)\n\n- Sharding\n\n- Replication\n\n- Backups\n\n- Vertical + Horizontal Scaling\n\n- Distributed vs Centralized Databases\n\n- Big Data + Analytics\n\n- Database Security (SQL Injections, Access Control, etc...)\n\n+ more\n\n\nWith SQL you will be able to work with all databases like: PostgreSQL, MySQL, Oracle SQL, Microsoft SQL Server, IBM DB2, SQLite, MariaDB, Amazon Redshift, Presto, Apache Hive with Hadoop, and many many more because SQL is everywhere!",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "createdAt": {
+    "$date": "2021-07-07T14:36:57.436Z"
+  },
+  "slug": "complete-sql-and-databases-bootcamp:-zero-to-mastery",
+  "__v": 0,
+  "photo": "photo_60e5bc0963465c604481ea6e.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee84e804445e4d444506a3"
+  }
+},{
+  "_id": {
+    "$oid": "60e923bc0c4ad21f4cf1a088"
+  },
+  "tuition": 19.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "IELTS - Vocabulary Strategies for IELTS",
+  "objectives": "- Know how to use lexical resource in order to get a higher band score",
+  "description": "This course is mainly aimed at candidates taking Academic IELTS; however, those taking General IELTS will also find it useful for Task 2 Writing. Having a large lexical resource is essential for all parts of the IELTS test. In IELTS Writing, particularly, IELTS examiners are looking for collocations, discourse markers i.e. linking words, complex language and you need to be able to use these things confidently in order to get a higher band score. Many IELTS candidates repeat words over and over again e.g. people, people, people and this will get you a low band score in IELTS.\n\nIn this course, there are 9 units comprising 25 lessons, which amount to over ten hours of study.\n\nThe units include:\n\nHow to avoid basic words\n\nHow to use complex language\n\nHow to avoid repetition\n\nEasily confused words\n\nHow to use collocations\n\nHow to use linking words\n\nHow to use comment adverbs\n\nHow to use organisational nouns\n\nHow to spell accurately\n\nAs well as helping you with IELTS Writing, this course will improve your vocabulary for other parts of the IELTS test.",
+  "coupon": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "createdAt": {
+    "$date": "2021-07-10T04:36:12.740Z"
+  },
+  "slug": "ielts-vocabulary-strategies-for-ielts",
+  "__v": 0,
+  "photo": "photo_60e923bc0c4ad21f4cf1a088.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ee8b2004445e4d444506b7"
+  }
+},{
+  "_id": {
+    "$oid": "60e95df578549810b4098e32"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "Next.js Dev to Deployment",
+  "objectives": "- Build a music event application from start to finish\n- Learn the fundamentals of NextJS\n- Create a backend using Strapi CMS\n- JWT Authentication / HttpOnly Cookie Storage\n- Pagination, search, image uploading with Cloudinary\n- Build a static blog with pagination, search & categories using Markdown\n- Deploy to production using Vercel",
+  "description": "Next.js is a framework for building server-side rendered React websites as well as static websites. This is a project-based course for learning Next.js. We will build a music events application that will give you the foundational knowledge that you need to create your own applications. We will use Strapi (a headless CMS) as our backend but you could just as well use anything\n\nWe will learn the fundamentals of Next.js like...\n\nPages & Routing\n\nData Fetching Methods - getServerSideProps, getStaticProps, getStaticPaths\n\nCustom API Routes\n\nStatic Generation\n\nCSS Styling\n\nImage Optimization\n\nIn our main project, we will also be working with...\n\nStrapi CMS\n\nAuthentication with JWT (JSON Web Tokens)\n\nAuthorization and access control\n\nStoring HttpOnly Cookies on the server\n\nPagination, search filters, etc\n\nImage uploading with Cloudinary integration\n\nDeploying to Vercel and Heroku\n\nNext.js can also be used to create \"static websites\". The second project is a static blog called Devspace\n\nTaiilwindCSS Integration\n\nStatic Data Fetching/Generation\n\nCreate, Fetch & Parse Markdown with Frontmatter\n\nSearch Functionality with API route/Serverless Function\n\nPost Caching\n\nGit Hooks with Husky\n\nDeploy to Vercel\n\nWhat should you know before taking this course?\n\nYou should know JavaScript basics and modern JavaScript features like arrow functions, restructuring, the spread operator\n\nYou should also know the basics of React. I will not be explaining things like components, props, JSX\n\n\n\nResources:\n\nAll of the final code will be provided in the project repos and all needed resources will be provided in the sections\n\nWho this course is for:\nPeople that want to learn NextJS\nLearn the foundations to build a full stack application with CRUD, pagination, authentication and more",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-10T08:44:37.881Z"
+  },
+  "slug": "next.js-dev-to-deployment",
+  "__v": 0,
+  "photo": "photo_60e95df578549810b4098e32.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed199df07a9465f410b98b"
+  }
+},{
+  "_id": {
+    "$oid": "60e96d4178549810b4098e90"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": true,
+  "isHidden": false,
+  "title": "20 Web Projects With Vanilla JavaScript",
+  "objectives": "- Build 20 Frontend Projects From Scratch\n- No JS or CSS Frameworks\n- Modern JavaScript (ES6+) - Arrows, Fetch, Promises, etc\n- DOM Manipulation & Events\n- Animations With CSS & JavaScript\n- Fetch & JSON With 3rd Party API's\n- HTML5 Canvas, Speech API, Audio & Video\n- Beginner Friendly",
+  "description": "This is a fun, practical & project based course for all skill levels. The projects in this course are designed to get you building things using HTML5, CSS &  JavaScript with no frameworks or libraries. Every project is built from scratch and has some kind of dynamic functionality from small games to an expense tracker to a breathing relax app.\n\nAlthough this is a project based course, I will still be explaining everything as I go. These are mini-projects designed for you to complete in a few hours.\n\nYou should have some basic knowledge of HTML/CSS/JS. If you are brand new, I would suggest my Modern HTML/CSS From The Beginning and/or my Modern JS From The Beginning courses on Udemy. This course is a mix of both.\n\n\n\nSome Things You Will Learn In These Projects:\n\nCreate Layouts & UI's With HTML/CSS ( No CSS Frameworks )\n\nCSS Animations (Transitions, Keyframes, etc With JS Triggers)\n\nJavaScript Fundamentals\n\nDOM Selection & Manipulation\n\nJavaScript Events (Forms, buttons, scrolling, etc)\n\nFetch API & JSON\n\nHTML5 Canvas\n\nThe Audio & Video API\n\nDrag & Drop\n\nWeb Speech API (Syth & Recognition)\n\nWorking with Local Storage\n\nHigh Order Array Methods - forEach, map, filter, reduce, sort\n\nsetTimout, setInterval\n\nArrow Functions\n\nand More!!\n\n\n\nWho this course is for:\nAnyone that wants to build some fun and easy to intermediate projects",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-10T09:49:53.765Z"
+  },
+  "slug": "20-web-projects-with-vanilla-javascript",
+  "__v": 0,
+  "photo": "photo_60e96d4178549810b4098e90.jpg",
+  "isPublished": true,
+  "instructor": {
+    "$oid": "60ed199df07a9465f410b98b"
+  }
+},{
+  "_id": {
+    "$oid": "60eaf90ebeec9f32dcac1012"
+  },
+  "tuition": 94.99,
+  "scholarshipAvailable": false,
+  "isFree": false,
+  "bestseller": false,
+  "isHidden": false,
+  "isPublished": false,
+  "title": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+  "objectives": "- Project based teaching to sharpen your HTML, CSS & JavaScript skills\n- Perfect for beginners looking for things to build unique projects in a short timeframe\n- Modern styling with flexbox, CSS animations, custom properties, etc\n- DOM manipulation, events, array methods, HTTP requests & more",
+  "description": "This is a purely project-based course. It is geared toward beginners, but intermediate developers can also enjoy creating new things. This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). Here is a list of what we will create in this course:\n\n\n\nExpanding Cards\n\nProgress Steps\n\nRotating Navigation Animation\n\nHidden Search Widget\n\nBlurry Loading\n\nScroll Animation\n\nSplit Landing Page\n\nForm Wave\n\nSound Board\n\nDad Jokes\n\nEvent Keycodes\n\nFaq Collapse\n\nRandom Choice Picker\n\nAnimated Navigation\n\nIncrementing Counter\n\nDrink Water\n\nMovie App\n\nBackground Slider\n\nTheme Clock\n\nButton Ripple Effect\n\nDrag N Drop\n\nDrawing App\n\nKinetic Loader\n\nContent Placeholder\n\nSticky Navbar\n\nDouble Vertical Slider\n\nToast Notification\n\nGithub Profiles\n\nDouble Click Heart\n\nAuto Text Effect\n\nPassword Generator\n\nGood Cheap Fast\n\nNotes App\n\nAnimated Countdown\n\nImage Carousel\n\nHoverboard\n\nPokedex\n\nMobile Tab Navigation\n\nPassword Strength Background\n\n3d Background Boxes\n\nVerify Account UI\n\nLive User Filter\n\nFeedback UI Design\n\nCustom Range Slider\n\nNetflix Mobile Navigation\n\nQuiz App\n\nTestimonial Box Switcher\n\nRandom Image Feed\n\nTodo List\n\nInsect Catch Game\n\nWho this course is for:\nBeginner and intermediate web developers that want to build fun, unique projects with HTML, CSS & JavaScript",
+  "coupon": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "category": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-11T13:58:38.500Z"
+  },
+  "slug": "50-projects-in-50-days-html-css-and-javascript",
+  "__v": 0,
+  "photo": "photo_60eaf90ebeec9f32dcac1012.jpg",
+  "instructor": {
+    "$oid": "60ed199df07a9465f410b98b"
+  }
+}]

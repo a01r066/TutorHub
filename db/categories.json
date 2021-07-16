@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "60c5aa35ef7ba027a49abdf3"
+  },
+  "isHidden": false,
+  "title": "Development",
+  "isTop": true,
+  "slug": "development",
+  "__v": 0,
+  "photo": "photo_60c5aa35ef7ba027a49abdf3.png"
+},{
+  "_id": {
+    "$oid": "60c5aa45ef7ba027a49abdf4"
+  },
+  "isHidden": false,
+  "title": "Business",
+  "isTop": true,
+  "slug": "business",
+  "__v": 0,
+  "photo": "photo_60c5aa45ef7ba027a49abdf4.jpg"
+},{
+  "_id": {
+    "$oid": "60c5aa63ef7ba027a49abdf5"
+  },
+  "isHidden": false,
+  "title": "Finance & Accounting",
+  "isTop": true,
+  "slug": "finance-and-accounting",
+  "__v": 0,
+  "photo": "photo_60c5aa63ef7ba027a49abdf5.jpg"
+},{
+  "_id": {
+    "$oid": "60c5aa7cef7ba027a49abdf6"
+  },
+  "isHidden": false,
+  "title": "IT & Software",
+  "isTop": true,
+  "slug": "it-and-software",
+  "__v": 0,
+  "photo": "photo_60c5aa7cef7ba027a49abdf6.jpg"
+},{
+  "_id": {
+    "$oid": "60c5aa96ef7ba027a49abdf7"
+  },
+  "isHidden": false,
+  "title": "Design",
+  "isTop": true,
+  "slug": "design",
+  "__v": 0,
+  "photo": "photo_60c5aa96ef7ba027a49abdf7.jpg"
+},{
+  "_id": {
+    "$oid": "60c5aaa4ef7ba027a49abdf8"
+  },
+  "isHidden": true,
+  "title": "Marketing",
+  "isTop": true,
+  "slug": "marketing",
+  "__v": 0,
+  "photo": "photo_60c5aaa4ef7ba027a49abdf8.jpg"
+},{
+  "_id": {
+    "$oid": "60c5aabbef7ba027a49abdf9"
+  },
+  "isHidden": false,
+  "title": "Personal Development",
+  "isTop": true,
+  "slug": "personal-development",
+  "__v": 0,
+  "photo": "photo_60c5aabbef7ba027a49abdf9.jpg"
+},{
+  "_id": {
+    "$oid": "60c5ab25ef7ba027a49abdfa"
+  },
+  "isHidden": false,
+  "title": "Lifestyle",
+  "isTop": true,
+  "slug": "lifestyle",
+  "__v": 0,
+  "photo": "photo_60c5ab25ef7ba027a49abdfa.jpg"
+}]

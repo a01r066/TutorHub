@@ -1,0 +1,525 @@
+[{
+  "_id": {
+    "$oid": "60e2fbe434baf077045b3bc3"
+  },
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "courses": [
+    {
+      "data": {
+        "lectureIndex": 3,
+        "chapterIndex": 4,
+        "lecture": {
+          "$oid": "60d761d0c2c0b0170001c63e"
+        },
+        "chapter": {
+          "$oid": "60d762f1c2c0b0170001c64f"
+        }
+      },
+      "_id": {
+        "$oid": "60e2fbe434baf077045b3bc4"
+      },
+      "course": {
+        "$oid": "60d760dfc2c0b0170001c63a"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 4,
+        "chapterIndex": 3,
+        "lecture": {
+          "$oid": "60cceeb7f0570324443d9eff"
+        },
+        "chapter": {
+          "$oid": "60ccf131f0570324443d9f2f"
+        }
+      },
+      "_id": {
+        "$oid": "60e3041734baf077045b3bc5"
+      },
+      "course": {
+        "$oid": "60ccee31f0570324443d9efa"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 3,
+        "chapterIndex": 9,
+        "lecture": {
+          "$oid": "60d746dbc2c0b0170001c509"
+        },
+        "chapter": {
+          "$oid": "60d74a6bc2c0b0170001c55b"
+        }
+      },
+      "_id": {
+        "$oid": "60e31de434baf077045b3bd8"
+      },
+      "course": {
+        "$oid": "60d74695c2c0b0170001c505"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 4,
+        "chapterIndex": 8,
+        "lecture": {
+          "$oid": "60c5b326ef7ba027a49abe00"
+        },
+        "chapter": {
+          "$oid": "60cbacbc4da05b5dd0c3ded8"
+        }
+      },
+      "_id": {
+        "$oid": "60e31e1434baf077045b3bdc"
+      },
+      "course": {
+        "$oid": "60c5b167ef7ba027a49abdfb"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 3,
+        "chapterIndex": 4,
+        "lecture": {
+          "$oid": "60c5d60117c0e511c89356b4"
+        },
+        "chapter": {
+          "$oid": "60cb76eef934d93294f7c65c"
+        }
+      },
+      "_id": {
+        "$oid": "60e3214434baf077045b3be5"
+      },
+      "course": {
+        "$oid": "60c5d4b017c0e511c8935697"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 5,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60ce0cf8fd2ddd3ed0ad6086"
+        },
+        "chapter": {
+          "$oid": "60ce0fb5fd2ddd3ed0ad60ad"
+        }
+      },
+      "_id": {
+        "$oid": "60e321ef34baf077045b3bf0"
+      },
+      "course": {
+        "$oid": "60ce0c04fd2ddd3ed0ad6080"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 4,
+        "lecture": {
+          "$oid": "60da0e73b43492099c63ffe1"
+        },
+        "chapter": {
+          "$oid": "60da1d5bb43492099c63fff8"
+        }
+      },
+      "_id": {
+        "$oid": "60e331f434baf077045b3c03"
+      },
+      "course": {
+        "$oid": "60da0dfcb43492099c63ffe0"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 1,
+        "chapterIndex": 5,
+        "lecture": {
+          "$oid": "60c5de18e7d4ca58fc866766"
+        },
+        "chapter": {
+          "$oid": "60c5df87e7d4ca58fc86677e"
+        }
+      },
+      "_id": {
+        "$oid": "60e3571a34baf077045b3c19"
+      },
+      "course": {
+        "$oid": "60c5ddb2e7d4ca58fc866764"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60ce1a46fd2ddd3ed0ad60db"
+        },
+        "chapter": {
+          "$oid": "60ce1b69fd2ddd3ed0ad60e5"
+        }
+      },
+      "_id": {
+        "$oid": "60e416e734baf077045b3c7d"
+      },
+      "course": {
+        "$oid": "60ce19bafd2ddd3ed0ad60da"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60c5e13de7d4ca58fc866781"
+        },
+        "chapter": {
+          "$oid": "60d9fa7600ca6c1a706068f7"
+        }
+      },
+      "_id": {
+        "$oid": "60e4198434baf077045b3c87"
+      },
+      "course": {
+        "$oid": "60c5e091e7d4ca58fc86677f"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 2,
+        "lecture": {
+          "$oid": "60d239d68d74222d98f2c8dc"
+        },
+        "chapter": {
+          "$oid": "60d23a498d74222d98f2c8e6"
+        }
+      },
+      "_id": {
+        "$oid": "60e41a4934baf077045b3cc1"
+      },
+      "course": {
+        "$oid": "60d239378d74222d98f2c8db"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d79800c2c0b0170001c764"
+        },
+        "chapter": {
+          "$oid": "60d9ba2a00ca6c1a706068e9"
+        }
+      },
+      "_id": {
+        "$oid": "60e41ae134baf077045b3d42"
+      },
+      "course": {
+        "$oid": "60d79752c2c0b0170001c762"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d9feb3b43492099c63ff60"
+        },
+        "chapter": {
+          "$oid": "60d9ff3bb43492099c63ff69"
+        }
+      },
+      "_id": {
+        "$oid": "60e41b6a34baf077045b3dce"
+      },
+      "course": {
+        "$oid": "60d9fe39b43492099c63ff5f"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 3,
+        "chapterIndex": 3,
+        "lecture": {
+          "$oid": "60d383113f2cb211d0ec95ac"
+        },
+        "chapter": {
+          "$oid": "60d389fd3f2cb211d0ec95d6"
+        }
+      },
+      "_id": {
+        "$oid": "60e41bcf34baf077045b3e58"
+      },
+      "course": {
+        "$oid": "60d3829d3f2cb211d0ec95a6"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 3,
+        "chapterIndex": 1,
+        "lecture": {
+          "$oid": "60db321bc5d1bf40fc9a8330"
+        },
+        "chapter": {
+          "$oid": "60db3496c5d1bf40fc9a8350"
+        }
+      },
+      "_id": {
+        "$oid": "60e41d8d34baf077045b3f2d"
+      },
+      "course": {
+        "$oid": "60db309b6a338b4e18b99b4b"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d4918fc542ec4e147e636c"
+        },
+        "chapter": {
+          "$oid": "60d491dec542ec4e147e6379"
+        }
+      },
+      "_id": {
+        "$oid": "60e427b234baf077045b4019"
+      },
+      "course": {
+        "$oid": "60d490eac542ec4e147e636b"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60dc793db6157a5c3c6a2b4f"
+        },
+        "chapter": {
+          "$oid": "60dc79c5b6157a5c3c6a2b59"
+        }
+      },
+      "_id": {
+        "$oid": "60e479f734baf077045b4102"
+      },
+      "course": {
+        "$oid": "60dc779a6a338b4e18b99d4e"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d33ec23f2cb211d0ec94e1"
+        },
+        "chapter": {
+          "$oid": "60d33f603f2cb211d0ec94ee"
+        }
+      },
+      "_id": {
+        "$oid": "60e4877234baf077045b44ee"
+      },
+      "course": {
+        "$oid": "60d33e6c3f2cb211d0ec94e0"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60df3eae6a95622af477b6b0"
+        },
+        "chapter": {
+          "$oid": "60df3f0c6a95622af477b6b7"
+        }
+      },
+      "_id": {
+        "$oid": "60e48b3834baf077045b490c"
+      },
+      "course": {
+        "$oid": "60df3d556a95622af477b6af"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d0997a07b8c35e18706427"
+        },
+        "chapter": {
+          "$oid": "60d09b18043f4850b4543496"
+        }
+      },
+      "_id": {
+        "$oid": "60e48bae34baf077045b4be6"
+      },
+      "course": {
+        "$oid": "60d0992507b8c35e18706426"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 1,
+        "chapterIndex": 42,
+        "lecture": {
+          "$oid": "60e493a5fdac4c4ad86514b0"
+        },
+        "chapter": {
+          "$oid": "60e4b2e48312010680f7216e"
+        }
+      },
+      "_id": {
+        "$oid": "60e4ab68cc87eb7784392456"
+      },
+      "course": {
+        "$oid": "60e49327fdac4c4ad86514ae"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d76784c2c0b0170001c699"
+        },
+        "chapter": {
+          "$oid": "60d76813c2c0b0170001c6a0"
+        }
+      },
+      "_id": {
+        "$oid": "60e563349ac8c38050e6f64e"
+      },
+      "course": {
+        "$oid": "60d7672dc2c0b0170001c698"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60e5bc5563465c604481ea6f"
+        },
+        "chapter": {
+          "$oid": "60e5bce563465c604481ea7e"
+        }
+      },
+      "_id": {
+        "$oid": "60e6344e94c5142e90534567"
+      },
+      "course": {
+        "$oid": "60e5bc0963465c604481ea6e"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 1,
+        "lecture": {
+          "$oid": "60e924d60c4ad21f4cf1a089"
+        },
+        "chapter": {
+          "$oid": "60e925310c4ad21f4cf1a093"
+        }
+      },
+      "_id": {
+        "$oid": "60e9811f4e8e27508c53f229"
+      },
+      "course": {
+        "$oid": "60e923bc0c4ad21f4cf1a088"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 2,
+        "lecture": {
+          "$oid": "60e95e3f78549810b4098e33"
+        },
+        "chapter": {
+          "$oid": "60e95e9378549810b4098e42"
+        }
+      },
+      "_id": {
+        "$oid": "60e982aa4e8e27508c53f63a"
+      },
+      "course": {
+        "$oid": "60e95df578549810b4098e32"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 1,
+        "lecture": {
+          "$oid": "60e96d8178549810b4098e91"
+        },
+        "chapter": {
+          "$oid": "60e96e7e78549810b4098ea7"
+        }
+      },
+      "_id": {
+        "$oid": "60eab8ef4e8e27508c53f6dc"
+      },
+      "course": {
+        "$oid": "60e96d4178549810b4098e90"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e43f4034baf077045b40e4"
+  },
+  "user": {
+    "$oid": "60c5e517e7d4ca58fc8667ad"
+  },
+  "courses": [
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d382f53f2cb211d0ec95a7"
+        },
+        "chapter": {
+          "$oid": "60d383513f2cb211d0ec95b2"
+        }
+      },
+      "_id": {
+        "$oid": "60e43f4034baf077045b40e5"
+      },
+      "course": {
+        "$oid": "60d3829d3f2cb211d0ec95a6"
+      }
+    },
+    {
+      "data": {
+        "lectureIndex": 0,
+        "chapterIndex": 0,
+        "lecture": {
+          "$oid": "60d7619ec2c0b0170001c63b"
+        },
+        "chapter": {
+          "$oid": "60d761e4c2c0b0170001c63f"
+        }
+      },
+      "_id": {
+        "$oid": "60e4627534baf077045b40e6"
+      },
+      "course": {
+        "$oid": "60d760dfc2c0b0170001c63a"
+      }
+    }
+  ],
+  "__v": 0
+}]

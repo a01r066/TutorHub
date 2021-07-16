@@ -2,6 +2,7 @@ const asyncHandler = require('../middleware/async');
 const User = require('../models/User');
 const ErrorResponse = require('../utils/errorResponse');
 const path = require('path');
+const advancedResults = require('../middleware/advancedResults');
 require('dotenv/config');
 
 // @desc      Register new user
@@ -93,10 +94,8 @@ exports.getUsers = asyncHandler(async (req, res, next) => {
     //         path: 'courseId, ',
     //         select: 'title description photo tuition slug',
     //     }});
-    await res.status(200).json({
-        success: true,
-        data: users
-    })
+
+    await res.status(200).json(res.advancedResults);
 })
 
 // @desc      Login user

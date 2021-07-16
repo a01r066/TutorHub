@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "60dc9fb7b6157a5c3c6a2fa8"
+  },
+  "subject": "Hello",
+  "message": "How are you!",
+  "user": {
+    "$oid": "60c73420ad0e8b44b851e500"
+  },
+  "__v": 0
+}]

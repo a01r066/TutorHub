@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "60ca3c88478cc01710ed8c16"
+  },
+  "expire": {
+    "$date": "2021-06-23T17:00:00Z"
+  },
+  "code": "code 100",
+  "description": "code 100",
+  "discount": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca3d19478cc01710ed8c17"
+  },
+  "expire": {
+    "$date": "2039-12-30T17:00:00Z"
+  },
+  "code": "code 95",
+  "description": "code 95",
+  "discount": 95,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca3d2c478cc01710ed8c18"
+  },
+  "expire": {
+    "$date": "2021-06-29T17:00:00Z"
+  },
+  "code": "code 75",
+  "description": "code 75",
+  "discount": 75,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca3fb72479cb48fc8e6d15"
+  },
+  "expire": {
+    "$date": "2021-06-29T17:00:00Z"
+  },
+  "code": "code 25",
+  "description": "code 25",
+  "discount": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca3fc82479cb48fc8e6d16"
+  },
+  "expire": {
+    "$date": "2021-06-23T17:00:00Z"
+  },
+  "code": "code 50",
+  "description": "code 50",
+  "discount": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb280400cdcf361c32d4f4"
+  },
+  "expire": {
+    "$date": "2038-12-31T17:00:00Z"
+  },
+  "code": "Default 90",
+  "description": "Default 90",
+  "discount": 90,
+  "__v": 0
+}]
