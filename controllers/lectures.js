@@ -27,7 +27,8 @@ exports.getLecturesByCourseId = asyncHandler(async(req, res, next) => {
     await res.status(200).json({
         success: true,
         count: lectures.length, 
-        data: lectures
+        data: lectures,
+        pagination: {}
     })
 })
 

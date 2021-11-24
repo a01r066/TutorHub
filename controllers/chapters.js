@@ -50,7 +50,8 @@ exports.getChapters = asyncHandler(async (req, res, next) => {
         await res.status(200).json({
             success: true,
             count: chapters.length,
-            data: chapters
+            data: chapters,
+            pagination: {}
         })
     } else {
         await res.status(200).json(res.advancedResults);
